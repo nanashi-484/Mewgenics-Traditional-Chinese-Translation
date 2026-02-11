@@ -1,9 +1,11 @@
-# 《Mewgenics》中文中文化補丁  
+# 《Mewgenics》繁體中文補丁  
 # Mewgenics Chinese Translation Patch
+
+### 本專案基於[rainzz-512/Mewgenics-Chinese-Translation](https://github.com/rainzz-512/Mewgenics-Chinese-Translation)進行修改，非常感謝原作者*Rain Zhao*
 
 ## 中文說明
 
-本專案提供 **《Mewgenics》中文中文化補丁**，目前已覆蓋遊戲大部分文本，包括：
+本專案提供 **《Mewgenics》繁體中文補丁**，目前已覆蓋遊戲大部分文本，包括：
 
 - NPC 對話  
 - 物品與技能說明  
@@ -16,8 +18,15 @@
 ### 安裝方法
 1. 在 **Releases** 頁面下載最新補丁  
 2. 將補丁中的 `data` 資料夾解壓到遊戲目錄（與 `resources.gpak` 同級）  
-3. 覆蓋同名檔案  
-4. 啟動遊戲即可顯示中文
+```
+ex: resources.gpak
+    steam_api64.dll
+    data/
+    └──text/
+        ├── abilities
+        ...
+```
+3. 啟動遊戲即可顯示中文
 
 ### 注意
 - 當前為早期版本，可能仍存在少量未翻譯文本  
