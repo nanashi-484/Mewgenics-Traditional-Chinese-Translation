@@ -21,16 +21,16 @@ PRONOUN_HER_UPPER,她,replaces {Him} in other strings,Su,Elle,Sie,lei,Dela,她
 PRONOUN_HERSELF_LOWER,她自己,replaces {himself} in other strings,ella,,sie selbst,se stessa,si mesma,她自己
 PRONOUN_HERSELF_UPPER,她自己,replaces {Himself} in other strings,Ella,,Sie selbst,Se stessa,Si mesma,她自己
 ,,,,,,,,
-PRONOUN_THEY_LOWER,他们,replaces {he} in other strings,él,iel,er,loro,eles,他们
-PRONOUN_THEY_UPPER,他们,replaces {He} in other strings,Él,Iel,Er,Loro,Eles,他们
-PRONOUN_THEYRE_LOWER,他们是,replaces {he's} in other strings,él,,er ist,loro sono,eles estão,他们是
-PRONOUN_THEYRE_UPPER,他们是,replaces {He's} in other strings,Él,,Er ist,Loro sono,Eles estão,他们是
-PRONOUN_THEIR_LOWER,他们的,replaces {his} in other strings,él,,sein,loro,deles,他们的
-PRONOUN_THEIR_UPPER,他们的,replaces {His} in other strings,Él,,Sein,loro,Deles,他们的
-PRONOUN_THEM_LOWER,他们,replaces {him} in other strings,él,ellui,ihn,loro,a eles,他们
-PRONOUN_THEM_UPPER,他们,replaces {Him} in other strings,Él,Ellui,Ihn,loro,A eles,他们
-PRONOUN_THEMSELF_LOWER,他们自己,replaces {himself} in other strings,él,,er selbst,loro stessi,eles mesmos,他们自己
-PRONOUN_THEMSELF_UPPER,他们自己,replaces {Himself} in other strings,Él,,Er selbst,Loro stessi,Eles mesmos,他们自己
+PRONOUN_THEY_LOWER,他们,replaces {he} in other strings,él,iel,er,loro,eles,他們
+PRONOUN_THEY_UPPER,他们,replaces {He} in other strings,Él,Iel,Er,Loro,Eles,他們
+PRONOUN_THEYRE_LOWER,他们是,replaces {he's} in other strings,él,,er ist,loro sono,eles estão,他們是
+PRONOUN_THEYRE_UPPER,他们是,replaces {He's} in other strings,Él,,Er ist,Loro sono,Eles estão,他們是
+PRONOUN_THEIR_LOWER,他们的,replaces {his} in other strings,él,,sein,loro,deles,他們的
+PRONOUN_THEIR_UPPER,他们的,replaces {His} in other strings,Él,,Sein,loro,Deles,他們的
+PRONOUN_THEM_LOWER,他们,replaces {him} in other strings,él,ellui,ihn,loro,a eles,他們
+PRONOUN_THEM_UPPER,他们,replaces {Him} in other strings,Él,Ellui,Ihn,loro,A eles,他們
+PRONOUN_THEMSELF_LOWER,他们自己,replaces {himself} in other strings,él,,er selbst,loro stessi,eles mesmos,他們自己
+PRONOUN_THEMSELF_UPPER,他们自己,replaces {Himself} in other strings,Él,,Er selbst,Loro stessi,Eles mesmos,他們自己
 ,,,,,,,,
 CATNAME_UNKNOWN_NAME,未知,replaces {Catname} in other strings if there was no cat specified (usually an error message),Desconocido,Inconnu,Unbekannt,Sconosciuto,Desconhecido,未知
 CATNAME_UNKNOWN_NAME_POSSESSIVE,未知的,replaces {Catname's} in other strings if there was no cat specified (usually an error message),Desconocido,d'Inconnu,Unbekannts,Sconosciuto,de desconhecido,未知的

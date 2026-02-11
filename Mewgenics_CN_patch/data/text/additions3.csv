@@ -1,7 +1,7 @@
 KEY,en,notes,sp,fr,de,it,pt-br,zh
-HOUSE_BUTTON_DEFEND,防御！,,,Défendre !,Verteidigen!,Difendi!,Defender!,防御！
-ENDING_CUTSCENE_FIN,结束？,,,Fin ?,Ende?,La fine?,Fim?,结束？
-LEVELUP_OPTION_STATUP,属性提升！,,,Stat+ !,Attribut hoch!,Statistica +!,Atributo +!,属性提升！
+HOUSE_BUTTON_DEFEND,防御！,,,Défendre !,Verteidigen!,Difendi!,Defender!,防禦！
+ENDING_CUTSCENE_FIN,结束？,,,Fin ?,Ende?,La fine?,Fim?,結束？
+LEVELUP_OPTION_STATUP,属性提升！,,,Stat+ !,Attribut hoch!,Statistica +!,Atributo +!,屬性提升！
 ITEM_UI_NEW,新,,,NOUVEAU,NEU,NUOVO,NOVO,新
 ITEM_UI_WORN_INDICATOR,w,,,p,a,ind,g,w
 CAT_UI_BOX_SHORTCUT_LABEL,盒子,,,BOÎTE,BOX,SCATOLA,CAIXA,盒子
