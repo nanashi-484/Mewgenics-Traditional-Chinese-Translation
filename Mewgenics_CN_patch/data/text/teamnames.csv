@@ -1,183 +1,183 @@
 KEY,en,notes,sp,fr,de,it,pt-br,zh
-TEAMNAME_FORMAT,那个{Adjective}的{Nouns},"one adjective and one noun are chosen at random. If this is impossible to make work in a language, then just change the format to say ""The Cats"", or make the adjectives empty and randomize some teamnames in the Noun slots",Los {Nouns} {Adjective},Les {Nouns} {Adjective},Die {Adjective} {Nouns},{Nouns} {Adjective},Os {Nouns} {Adjective},那個{Adjective}的{Nouns}
+TEAMNAME_FORMAT,那個{Adjective}的{Nouns},"one adjective and one noun are chosen at random. If this is impossible to make work in a language, then just change the format to say ""The Cats"", or make the adjectives empty and randomize some teamnames in the Noun slots",Los {Nouns} {Adjective},Les {Nouns} {Adjective},Die {Adjective} {Nouns},{Nouns} {Adjective},Os {Nouns} {Adjective},那個{Adjective}的{Nouns}
 TEAMNAME_FORMAT2,{Adjective}的{Nouns},"if the adjective is prepended with ""format2|"" then the team name will use this format instead of the default one",{Nouns} {Adjective},{Nouns} {Adjective},Die {Adjective}-{Nouns},{Adjective} {Nouns},{Nouns} {Adjective},{Adjective}的{Nouns}
 ,,"if more than 2 formats are needed for a language, I can add more (just let me know).",,,,,,
 ,,"nouns may be prepended with the text ""singular|"" (ex if the noun is Team or Sqaud instead of Cats). This changes the grammar in the embark/return/fail cutscenes (ex: ""{Teamname} Returns Home"" vs {Teamname} Return Home"")",,,,,,
-TEAMNAME_ADJECTIVE_FIGHTER0,强壮的,"these do not need to be strictly literal translations, you can be creative with them",Fuertes,forts|fortes,Starken,Forti,Fortes,強壯的
+TEAMNAME_ADJECTIVE_FIGHTER0,強壯的,"these do not need to be strictly literal translations, you can be creative with them",Fuertes,forts|fortes,Starken,Forti,Fortes,強壯的
 TEAMNAME_ADJECTIVE_FIGHTER1,愚蠢的,,Tontos,idiots|idiotes,Blöden,Tontoloni|Tontolone,Burros,愚蠢的
-TEAMNAME_ADJECTIVE_FIGHTER2,强大的,,Poderosos,puissants|puissantes,Garstigen,Potenti,Poderosos,強大的
+TEAMNAME_ADJECTIVE_FIGHTER2,強大的,,Poderosos,puissants|puissantes,Garstigen,Potenti,Poderosos,強大的
 TEAMNAME_ADJECTIVE_FIGHTER3,威猛的,,Imponentes,vaillants|vaillantes,Mächtigen,Possenti,Potentes,威猛的
 TEAMNAME_ADJECTIVE_FIGHTER4,精英的,,de Élite,d'élite,format2|Elite,D'élite,de Elite,精英的
-TEAMNAME_ADJECTIVE_FIGHTER5,壮硕的,,Cachas,musclés|musclées,Pumpenden,Pompati|Pompate,Inchados,壯碩的
-TEAMNAME_ADJECTIVE_FIGHTER6,首领的,,Alfa,mâles alpha|femelles alpha,format2|Alpha,Alfa,Alfas,首領的
-TEAMNAME_ADJECTIVE_FIGHTER7,有力一击的,,Contundentes,percutants|percutantes,Schlagfertigen,Bizzosi|Bizzose,Impactantes,有力一擊的
-TEAMNAME_ADJECTIVE_FIGHTER8,遍体鳞伤的,,Magullados,amochés|amochées,Verprellten,Lividi|Livide,Contundidos,遍體鱗傷的
-TEAMNAME_ADJECTIVE_FIGHTER9,战斗的,,Peleones,bagarreurs|bagarreuses,Kriegerischen,Rissosi|Rissose,Lutadores,戰鬥的
-TEAMNAME_ADJECTIVE_FIGHTER10,坚韧的,,Duros,balèzes,Zähen,Duri|Dure,Resistentes,堅韌的
-TEAMNAME_ADJECTIVE_FIGHTER11,自负的,,Fanfarrones,prétentieux|prétentieuses,Frechen,Spavaldi|Spavalde,Arrogantes,自負的
-TEAMNAME_ADJECTIVE_FIGHTER12,迟钝的,,Atontados,bêtes,Zurückgebliebenen,Ottusi|Ottuse,Escuros,遲鈍的
+TEAMNAME_ADJECTIVE_FIGHTER5,壯碩的,,Cachas,musclés|musclées,Pumpenden,Pompati|Pompate,Inchados,壯碩的
+TEAMNAME_ADJECTIVE_FIGHTER6,首領的,,Alfa,mâles alpha|femelles alpha,format2|Alpha,Alfa,Alfas,首領的
+TEAMNAME_ADJECTIVE_FIGHTER7,有力一擊的,,Contundentes,percutants|percutantes,Schlagfertigen,Bizzosi|Bizzose,Impactantes,有力一擊的
+TEAMNAME_ADJECTIVE_FIGHTER8,遍體鱗傷的,,Magullados,amochés|amochées,Verprellten,Lividi|Livide,Contundidos,遍體鱗傷的
+TEAMNAME_ADJECTIVE_FIGHTER9,戰鬥的,,Peleones,bagarreurs|bagarreuses,Kriegerischen,Rissosi|Rissose,Lutadores,戰鬥的
+TEAMNAME_ADJECTIVE_FIGHTER10,堅韌的,,Duros,balèzes,Zähen,Duri|Dure,Resistentes,堅韌的
+TEAMNAME_ADJECTIVE_FIGHTER11,自負的,,Fanfarrones,prétentieux|prétentieuses,Frechen,Spavaldi|Spavalde,Arrogantes,自負的
+TEAMNAME_ADJECTIVE_FIGHTER12,遲鈍的,,Atontados,bêtes,Zurückgebliebenen,Ottusi|Ottuse,Escuros,遲鈍的
 TEAMNAME_ADJECTIVE_FIGHTER13,沉思的,,Amenazadores,menaçants|menaçantes,Grüblerischen,Cupi,Melancólicos,沉思的
 TEAMNAME_ADJECTIVE_HUNTER0,有耐心的,,Pacientes,patients|patientes,Geduldigen,Pazienti,Pacientes,有耐心的
-TEAMNAME_ADJECTIVE_HUNTER1,精准的,,Precisos,précis|précises,Peniblen,Precisi|Precise,Precisos,精準的
-TEAMNAME_ADJECTIVE_HUNTER2,专注的,,Concentrados,concentrés|concentrées,Konzentrierten,Concentrati|Concentrate,Concentrados,專注的
+TEAMNAME_ADJECTIVE_HUNTER1,精準的,,Precisos,précis|précises,Peniblen,Precisi|Precise,Precisos,精準的
+TEAMNAME_ADJECTIVE_HUNTER2,專注的,,Concentrados,concentrés|concentrées,Konzentrierten,Concentrati|Concentrate,Concentrados,專注的
 TEAMNAME_ADJECTIVE_HUNTER3,神射手的,,Certeros,flingueurs|flingueuses,Adleräugigen,Attenti|Attente,Atiradores de Elite,神射手的
 TEAMNAME_ADJECTIVE_HUNTER4,邋遢,,Sarnosos,galeux|galeuses,Räudigen,Rognosi|Rognose,Improvisados,邋遢
 TEAMNAME_ADJECTIVE_HUNTER5,被寄生,,Infestados,infestés|infestées,Infizierten,Infestati|Infestate,Infestados,被寄生
-TEAMNAME_ADJECTIVE_HUNTER6,远程,,a Distancia,organisés|organisées,Fernkämpfenden,Tiratori|Tiratrici,Distantes,遠程
-TEAMNAME_ADJECTIVE_HUNTER7,捕猎,,Capturadores,piégeurs|piégeuses,Fallenstellenden,Insidiosi|Insidiose,Astutos,捕獵
-TEAMNAME_ADJECTIVE_HUNTER8,敏锐,,Agudos,enthousiastes,Eifrigen,Acuti|Acute,Afiados,敏銳
+TEAMNAME_ADJECTIVE_HUNTER6,遠程,,a Distancia,organisés|organisées,Fernkämpfenden,Tiratori|Tiratrici,Distantes,遠程
+TEAMNAME_ADJECTIVE_HUNTER7,捕獵,,Capturadores,piégeurs|piégeuses,Fallenstellenden,Insidiosi|Insidiose,Astutos,捕獵
+TEAMNAME_ADJECTIVE_HUNTER8,敏銳,,Agudos,enthousiastes,Eifrigen,Acuti|Acute,Afiados,敏銳
 TEAMNAME_ADJECTIVE_HUNTER9,野性的,,Salvajes,déchaînés|déchaînées,Wilden,Scatenati|Scatenate,Primitivos,野性的
-TEAMNAME_ADJECTIVE_HUNTER10,未驯服的,,Indómitos,indomptables,Ungezähmten,Indomiti|Indomite,Indomáveis,未馴服的
-TEAMNAME_ADJECTIVE_HUNTER11,户外的,,Intrépidos,du plein air,format2|Outdoor,Esterni|Esterne,Rueiros,戶外的
-TEAMNAME_ADJECTIVE_MEDIC0,关怀的,,Bondadosos,attentionnés|attentionnées,Gütigen,Premurosi|Premurose,Carinhosos,關懷的
-TEAMNAME_ADJECTIVE_MEDIC1,充满爱意的,,Afectuosos,aimants|aimantes,Lieben,Affettuosi|Affettuose,Amorosos,充滿愛意的
-TEAMNAME_ADJECTIVE_MEDIC2,虔诚的,,Respetuosos,révérencieux|révérencieuses,Ehrfürchtigen,Riverenti,Reverentes,虔誠的
-TEAMNAME_ADJECTIVE_MEDIC3,神圣的,,Sacros,saints|saintes,Heiligen,Sacri|Sacre,Sagrados,神聖的
+TEAMNAME_ADJECTIVE_HUNTER10,未馴服的,,Indómitos,indomptables,Ungezähmten,Indomiti|Indomite,Indomáveis,未馴服的
+TEAMNAME_ADJECTIVE_HUNTER11,戶外的,,Intrépidos,du plein air,format2|Outdoor,Esterni|Esterne,Rueiros,戶外的
+TEAMNAME_ADJECTIVE_MEDIC0,關懷的,,Bondadosos,attentionnés|attentionnées,Gütigen,Premurosi|Premurose,Carinhosos,關懷的
+TEAMNAME_ADJECTIVE_MEDIC1,充滿愛意的,,Afectuosos,aimants|aimantes,Lieben,Affettuosi|Affettuose,Amorosos,充滿愛意的
+TEAMNAME_ADJECTIVE_MEDIC2,虔誠的,,Respetuosos,révérencieux|révérencieuses,Ehrfürchtigen,Riverenti,Reverentes,虔誠的
+TEAMNAME_ADJECTIVE_MEDIC3,神聖的,,Sacros,saints|saintes,Heiligen,Sacri|Sacre,Sagrados,神聖的
 TEAMNAME_ADJECTIVE_MEDIC4,虔敬的,,Piadosos,pieux|pieuses,Frommen,Pii|Pie,Piedosos,虔敬的
-TEAMNAME_ADJECTIVE_MEDIC5,虔诚的,,Devotos,dévots|dévotes,Gläubigen,Devoti|Devote,Devotos,虔誠的
-TEAMNAME_ADJECTIVE_MEDIC6,神圣的,,Religiosos,vertueux|vertueuses,Gottgleichen,Celestiali,Divinos,神聖的
-TEAMNAME_ADJECTIVE_MEDIC7,正义的,,Honrados,intègres,Gerechten,Giusti|Giuste,Justos,正義的
-TEAMNAME_ADJECTIVE_MEDIC8,神圣的,,Divinos,divins|divines,Göttlichen,Divini,Divinos,神聖的
-TEAMNAME_ADJECTIVE_MEDIC9,忠诚的,,Leales,croyants|croyantes,Getreuen,Credenti,Fiéis,忠誠的
+TEAMNAME_ADJECTIVE_MEDIC5,虔誠的,,Devotos,dévots|dévotes,Gläubigen,Devoti|Devote,Devotos,虔誠的
+TEAMNAME_ADJECTIVE_MEDIC6,神聖的,,Religiosos,vertueux|vertueuses,Gottgleichen,Celestiali,Divinos,神聖的
+TEAMNAME_ADJECTIVE_MEDIC7,正義的,,Honrados,intègres,Gerechten,Giusti|Giuste,Justos,正義的
+TEAMNAME_ADJECTIVE_MEDIC8,神聖的,,Divinos,divins|divines,Göttlichen,Divini,Divinos,神聖的
+TEAMNAME_ADJECTIVE_MEDIC9,忠誠的,,Leales,croyants|croyantes,Getreuen,Credenti,Fiéis,忠誠的
 TEAMNAME_ADJECTIVE_MEDIC10,受膏的,,Ungidos,consacrés|consacrées,Gesalbten,Consacrati|Consacrate,Abençoados,受膏的
 TEAMNAME_ADJECTIVE_MAGE0,魔法的,,Mágicos,magiques,Magischen,Magici|Magiche,Mágicos,魔法的
 TEAMNAME_ADJECTIVE_MAGE1,元素,,Elementales,élémentaires,Elementaren,Elementali,Elementais,元素
-TEAMNAME_ADJECTIVE_MAGE2,调和的,,en Armonía,harmonisés|harmonisées,Eingestimmten,Armonizzati|Armonizzate,Sintonizados,調和的
+TEAMNAME_ADJECTIVE_MAGE2,調和的,,en Armonía,harmonisés|harmonisées,Eingestimmten,Armonizzati|Armonizzate,Sintonizados,調和的
 TEAMNAME_ADJECTIVE_MAGE3,施法者,,Hechiceros,prestidigitateurs|prestidigitatrices,Zauberhaften,Incantatori|Incantatrici,Lançadores de Feitiços,施法者
-TEAMNAME_ADJECTIVE_MAGE4,大脑发达的,,Inteligentes,intellos,Hyperintelligenten,Cervelloni|Cervellone,Super Inteligentes,大腦發達的
-TEAMNAME_ADJECTIVE_MAGE5,聪明的,,Listos,futés|futées,Schlauen,Svegli|Sveglie,Espertos,聰明的
+TEAMNAME_ADJECTIVE_MAGE4,大腦發達的,,Inteligentes,intellos,Hyperintelligenten,Cervelloni|Cervellone,Super Inteligentes,大腦發達的
+TEAMNAME_ADJECTIVE_MAGE5,聰明的,,Listos,futés|futées,Schlauen,Svegli|Sveglie,Espertos,聰明的
 TEAMNAME_ADJECTIVE_MAGE6,被附魔的,,Encantados,enchantés|enchantées,Verzauberten,Incantati|Incantate,Encantados,被附魔的
 TEAMNAME_ADJECTIVE_MAGE7,被迷惑的,,Hechizados,ensorcelés|ensorcelées,Gebannten,Stregati|Stregate,Enfeitiçados,被迷惑的
-TEAMNAME_ADJECTIVE_MAGE8,充满法力的,,de Maná,pourvus de mana|pourvues de mana,Magieerfüllten,del Mana,Cheios de Mana,充滿法力的
-TEAMNAME_ADJECTIVE_MAGE9,学术的,,Académicos,académiciens|académiciennes,Akademischen,Accademici|Accademiche,Acadêmicos,學術的
+TEAMNAME_ADJECTIVE_MAGE8,充滿法力的,,de Maná,pourvus de mana|pourvues de mana,Magieerfüllten,del Mana,Cheios de Mana,充滿法力的
+TEAMNAME_ADJECTIVE_MAGE9,學術的,,Académicos,académiciens|académiciennes,Akademischen,Accademici|Accademiche,Acadêmicos,學術的
 TEAMNAME_ADJECTIVE_MAGE10,有智慧的,,Intelectuales,intellectuels|intellectuelles,Intellektuellen,Colti|Colte,Intelectuais,有智慧的
 TEAMNAME_ADJECTIVE_MAGE11,魔法,,Embrujados,magiques,Bezauberten,Fatati|Fatate,Mágicos,魔法
-TEAMNAME_ADJECTIVE_TANK0,厚实的,,Gruesos,à l'ossature lourde,Dicken,Massicci|Massiccie,Grossos,厚實的
-TEAMNAME_ADJECTIVE_TANK1,稳定的,,Firmes,solides,Standhaften,Stabili,Firmes,穩定的
-TEAMNAME_ADJECTIVE_TANK2,坚韧,,Robustos,robustes,Abgehärteten,Robusti|Robuste,Durões,堅韌
+TEAMNAME_ADJECTIVE_TANK0,厚實的,,Gruesos,à l'ossature lourde,Dicken,Massicci|Massiccie,Grossos,厚實的
+TEAMNAME_ADJECTIVE_TANK1,穩定的,,Firmes,solides,Standhaften,Stabili,Firmes,穩定的
+TEAMNAME_ADJECTIVE_TANK2,堅韌,,Robustos,robustes,Abgehärteten,Robusti|Robuste,Durões,堅韌
 TEAMNAME_ADJECTIVE_TANK3,胖的,,Gordos,en surpoids,Fetten,Grassottelli|Grassottelle,Gordos,胖的
-TEAMNAME_ADJECTIVE_TANK4,坚固的,,Sólidos,solides,Soliden,Solidi,Sólidos,堅固的
-TEAMNAME_ADJECTIVE_TANK5,有韧性的,,Resistentes,résilients|résilientes,Widerstandsfähigen,Tenaci,Resilientes,有韌性的
-TEAMNAME_ADJECTIVE_TANK6,结实的,,Corpulentos,corpulents|corpulentes,Stabilen,Tarchiati|Tarchiate,Corpulentos,結實的
-TEAMNAME_ADJECTIVE_TANK7,宽广的,,Anchos,épais|épaisses,Breiten,Larghi|Larghe,Largos,寬廣的
-TEAMNAME_ADJECTIVE_TANK8,健硕的,,Fornidos,costauds|costaudes,Stattlichen,Grossi|Grosse,Robustos,健碩的
-TEAMNAME_ADJECTIVE_TANK9,圆润,,Rellenitos,potelés|potelées,Molligen,Paffuti|Paffute,Gorduchos,圓潤
-TEAMNAME_ADJECTIVE_TANK10,坚硬,,Pétreos,rocailleux|rocailleuses,Felsenfesten,Rocciosi|Rocciose,Pedregosos,堅硬
+TEAMNAME_ADJECTIVE_TANK4,堅固的,,Sólidos,solides,Soliden,Solidi,Sólidos,堅固的
+TEAMNAME_ADJECTIVE_TANK5,有韌性的,,Resistentes,résilients|résilientes,Widerstandsfähigen,Tenaci,Resilientes,有韌性的
+TEAMNAME_ADJECTIVE_TANK6,結實的,,Corpulentos,corpulents|corpulentes,Stabilen,Tarchiati|Tarchiate,Corpulentos,結實的
+TEAMNAME_ADJECTIVE_TANK7,寬廣的,,Anchos,épais|épaisses,Breiten,Larghi|Larghe,Largos,寬廣的
+TEAMNAME_ADJECTIVE_TANK8,健碩的,,Fornidos,costauds|costaudes,Stattlichen,Grossi|Grosse,Robustos,健碩的
+TEAMNAME_ADJECTIVE_TANK9,圓潤,,Rellenitos,potelés|potelées,Molligen,Paffuti|Paffute,Gorduchos,圓潤
+TEAMNAME_ADJECTIVE_TANK10,堅硬,,Pétreos,rocailleux|rocailleuses,Felsenfesten,Rocciosi|Rocciose,Pedregosos,堅硬
 TEAMNAME_ADJECTIVE_TANK11,密集,,Densos,énormes,Unterbelichteten,Densi|Dense,Densos,密集
-TEAMNAME_ADJECTIVE_TANK12,圆形,,Orondos,rondelets|rondelettes,Runden,Rotondi|Rotonde,Redondos,圓形
-TEAMNAME_ADJECTIVE_TANK13,特大号,,XXL,XXL,format2|XXL,XXL,GGG,特大號
-TEAMNAME_ADJECTIVE_TANK14,懒惰,,Vagos,paresseux|paresseuses,Faulen,Pigri|Pigre,Preguiçosos,懶惰
-TEAMNAME_ADJECTIVE_TANK15,减速,,Lentos,lents|lentes,Langsamen,Lenti|Lente,Lentos,減速
+TEAMNAME_ADJECTIVE_TANK12,圓形,,Orondos,rondelets|rondelettes,Runden,Rotondi|Rotonde,Redondos,圓形
+TEAMNAME_ADJECTIVE_TANK13,特大號,,XXL,XXL,format2|XXL,XXL,GGG,特大號
+TEAMNAME_ADJECTIVE_TANK14,懶惰,,Vagos,paresseux|paresseuses,Faulen,Pigri|Pigre,Preguiçosos,懶惰
+TEAMNAME_ADJECTIVE_TANK15,減速,,Lentos,lents|lentes,Langsamen,Lenti|Lente,Lentos,減速
 TEAMNAME_ADJECTIVE_TANK16,胖乎乎,,Rollizos,joufflus|joufflues,Klobigen,Cicciotti|Cicciotte,Rotundos,胖乎乎
 TEAMNAME_ADJECTIVE_THIEF0,偷偷摸摸,,Sigilosos,sournois|sournoises,Schleichenden,Furtivi|Furtive,Furtivos,偷偷摸摸
 TEAMNAME_ADJECTIVE_THIEF1,狡猾,,Taimados,fourbes,Listigen,Scaltri|Scaltre,Espertos,狡猾
-TEAMNAME_ADJECTIVE_THIEF2,隐藏,,Ocultos,cachés|cachées,Versteckten,Nascosti|Nascoste,Ocultos,隱藏
-TEAMNAME_ADJECTIVE_THIEF3,说谎,,Mentirosos,menteurs|menteuses,Lügenden,Bugiardi|Bugiarde,Mentirosos,說謊
-TEAMNAME_ADJECTIVE_THIEF4,贪婪,,Avariciosos,cupides,Gierigen,Avidi|Avide,Ambiciosos,貪婪
-TEAMNAME_ADJECTIVE_THIEF5,抠门,,Agarrados,avares,Geizigen,Tirchi|Tirchie,Sovinas,摳門
+TEAMNAME_ADJECTIVE_THIEF2,隱藏,,Ocultos,cachés|cachées,Versteckten,Nascosti|Nascoste,Ocultos,隱藏
+TEAMNAME_ADJECTIVE_THIEF3,說謊,,Mentirosos,menteurs|menteuses,Lügenden,Bugiardi|Bugiarde,Mentirosos,說謊
+TEAMNAME_ADJECTIVE_THIEF4,貪婪,,Avariciosos,cupides,Gierigen,Avidi|Avide,Ambiciosos,貪婪
+TEAMNAME_ADJECTIVE_THIEF5,摳門,,Agarrados,avares,Geizigen,Tirchi|Tirchie,Sovinas,摳門
 TEAMNAME_ADJECTIVE_THIEF6,快速,,Rápidos,rapides,Schnellen,Svelti|Svelte,Velozes,快速
-TEAMNAME_ADJECTIVE_THIEF7,淘气,,Traviesos,vilains|vilaines,Frechen,Birbanti,Safadinhos,淘氣
-TEAMNAME_ADJECTIVE_THIEF8,偷窃,,Ladrones,voleurs|voleuses,Diebischen,Ladri|Ladre,Gatunos,偷竊
-TEAMNAME_ADJECTIVE_THIEF9,残忍,,Furtivos,du larcin,Gnädigen,Mercenari|Mercenarie,Graciosos,殘忍
-TEAMNAME_ADJECTIVE_THIEF10,刺杀,,Arteros,au poignard,Hinterlistigen,Pugnalatori|Pugnalatrici,Enganadores,刺殺
+TEAMNAME_ADJECTIVE_THIEF7,淘氣,,Traviesos,vilains|vilaines,Frechen,Birbanti,Safadinhos,淘氣
+TEAMNAME_ADJECTIVE_THIEF8,偷竊,,Ladrones,voleurs|voleuses,Diebischen,Ladri|Ladre,Gatunos,偷竊
+TEAMNAME_ADJECTIVE_THIEF9,殘忍,,Furtivos,du larcin,Gnädigen,Mercenari|Mercenarie,Graciosos,殘忍
+TEAMNAME_ADJECTIVE_THIEF10,刺殺,,Arteros,au poignard,Hinterlistigen,Pugnalatori|Pugnalatrici,Enganadores,刺殺
 TEAMNAME_ADJECTIVE_THIEF11,黑暗,,Oscuros,sombres,Dunklen,Oscuri|Oscure,Sombrios,黑暗
-TEAMNAME_ADJECTIVE_THIEF12,安静的,,Silenciosos,silencieux|silencieuses,Stillen,Silenziosi|Silenziose,Quietos,安靜的
-TEAMNAME_ADJECTIVE_THIEF13,秘密的,,Secretos,discrets|discrètes,Geheimen,Segreti|Segrete,Secretos,祕密的
+TEAMNAME_ADJECTIVE_THIEF12,安靜的,,Silenciosos,silencieux|silencieuses,Stillen,Silenziosi|Silenziose,Quietos,安靜的
+TEAMNAME_ADJECTIVE_THIEF13,祕密的,,Secretos,discrets|discrètes,Geheimen,Segreti|Segrete,Secretos,祕密的
 TEAMNAME_ADJECTIVE_MONK0,平衡的,,Equilibrados,équilibrés|équilibrées,Ausgeglichenen,Equilibrati|Equilibrate,Equilibrados,平衡的
-TEAMNAME_ADJECTIVE_MONK1,禅意的,,Zen,zen,format2|Zen,Zen,Zen,禪意的
-TEAMNAME_ADJECTIVE_MONK2,流动的,,Fluidos,ruisselants|ruisselantes,Fließenden,Fluidi|Fluide,Fluidos,流動的
+TEAMNAME_ADJECTIVE_MONK1,禪意的,,Zen,zen,format2|Zen,Zen,Zen,禪意的
+TEAMNAME_ADJECTIVE_MONK2,流動的,,Fluidos,ruisselants|ruisselantes,Fließenden,Fluidi|Fluide,Fluidos,流動的
 TEAMNAME_ADJECTIVE_MONK3,冥想的,,Meditabundos,méditatifs|méditatives,Meditierenden,Meditativi|Meditative,Meditantes,冥想的
-TEAMNAME_ADJECTIVE_MONK4,平静的,,Calmados,calmes,Ruhigen,Sereni|Serene,Calmos,平靜的
-TEAMNAME_ADJECTIVE_MONK5,飞行,,Voladores,volants|volantes,Fliegenden,Volanti,Voadores,飛行
-TEAMNAME_ADJECTIVE_MONK6,开悟,,Iluminados,éveillés|éveillées,Erleuchteten,Illuminati|Illuminate,Iluminados,開悟
+TEAMNAME_ADJECTIVE_MONK4,平靜的,,Calmados,calmes,Ruhigen,Sereni|Serene,Calmos,平靜的
+TEAMNAME_ADJECTIVE_MONK5,飛行,,Voladores,volants|volantes,Fliegenden,Volanti,Voadores,飛行
+TEAMNAME_ADJECTIVE_MONK6,開悟,,Iluminados,éveillés|éveillées,Erleuchteten,Illuminati|Illuminate,Iluminados,開悟
 TEAMNAME_ADJECTIVE_MONK7,幸福的,,Dichosos,béats|béates,Seligen,Beati|Beate,Afortunados,幸福的
-TEAMNAME_ADJECTIVE_MONK8,内在的,,Ensimismados,intérieurs|intérieures,Inneren,Intimi|Intime,Interiores,內在的
-TEAMNAME_ADJECTIVE_MONK9,专注的,,Centrados,centrés|centrées,Zentrierten,Centrati|Centrate,Centrados,專注的
-TEAMNAME_ADJECTIVE_MONK10,飞行,,Voladores,planants|planantes,Fliegenden,Alati|Alate,Voadores,飛行
+TEAMNAME_ADJECTIVE_MONK8,內在的,,Ensimismados,intérieurs|intérieures,Inneren,Intimi|Intime,Interiores,內在的
+TEAMNAME_ADJECTIVE_MONK9,專注的,,Centrados,centrés|centrées,Zentrierten,Centrati|Centrate,Centrados,專注的
+TEAMNAME_ADJECTIVE_MONK10,飛行,,Voladores,planants|planantes,Fliegenden,Alati|Alate,Voadores,飛行
 TEAMNAME_ADJECTIVE_MONK11,因果的,,del Karma,karmiques,format2|Karma,del Karma,Cármicos,因果的
 TEAMNAME_ADJECTIVE_MONK12,超越的,,Trascendentales,transcendés|transcendées,Überweltlichen,Trascendenti,Transcendentes,超越的
-TEAMNAME_ADJECTIVE_DRUID0,兽性,,Bestiales,animaux|animales,Animalistischen,Animalisti|Animaliste,Animalísticos,獸性
+TEAMNAME_ADJECTIVE_DRUID0,獸性,,Bestiales,animaux|animales,Animalistischen,Animalisti|Animaliste,Animalísticos,獸性
 TEAMNAME_ADJECTIVE_DRUID1,歌唱的,,Cantantes,chantants|chantantes,Singenden,Canterini|Canterine,Cantores,歌唱的
 TEAMNAME_ADJECTIVE_DRUID2,自然的,,Naturales,naturels|naturelles,Natürlichen,Naturali,Naturais,自然的
 TEAMNAME_ADJECTIVE_DRUID3,和平的,,Pacíficos,pacifiques,Friedlichen,Pacifici|Pacifiche,Pacíficos,和平的
-TEAMNAME_ADJECTIVE_DRUID4,音乐的,,Musicales,musicaux|musicales,Musikalischen,Musicali,Musicais,音樂的
+TEAMNAME_ADJECTIVE_DRUID4,音樂的,,Musicales,musicaux|musicales,Musikalischen,Musicali,Musicais,音樂的
 TEAMNAME_ADJECTIVE_DRUID5,古怪的,,Ardillistas,agités|agitées,Schreckhaften,Strambi|Strambe,Assustadores,古怪的
-TEAMNAME_ADJECTIVE_DRUID6,召唤的,,Invocados,invoqués|invoquées,Beschworenen,Evocati|Evocate,Invocados,召喚的
-TEAMNAME_ADJECTIVE_DRUID7,多叶的,,Frondosos,feuillus|feuillues,Blättrigen,Floridi|Floride,Folhosos,多葉的
+TEAMNAME_ADJECTIVE_DRUID6,召喚的,,Invocados,invoqués|invoquées,Beschworenen,Evocati|Evocate,Invocados,召喚的
+TEAMNAME_ADJECTIVE_DRUID7,多葉的,,Frondosos,feuillus|feuillues,Blättrigen,Floridi|Floride,Folhosos,多葉的
 TEAMNAME_ADJECTIVE_DRUID8,高的,,Colocados,défoncés|défoncées,Vollgedröhnten,Inebriati|Inebriate,Altos,高的
 TEAMNAME_ADJECTIVE_DRUID9,跳舞的,,Danzantes,dansants|dansantes,Tanzenden,Ballerini|Ballerine,Dançantes,跳舞的
 TEAMNAME_ADJECTIVE_DRUID10,吹口哨的,,Silbantes,sifflotants|sifflotantes,Pfeifenden,Fischiettanti,Assobiadores,吹口哨的
-TEAMNAME_ADJECTIVE_DRUID11,无伴奏合唱,,Cantarines,a capella,A Capella,A Cappella,A Cappella,無伴奏合唱
+TEAMNAME_ADJECTIVE_DRUID11,無伴奏合唱,,Cantarines,a capella,A Capella,A Cappella,A Cappella,無伴奏合唱
 TEAMNAME_ADJECTIVE_PSYCHIC0,三眼的,,Videntes,à trois yeux,Dreiäugigen,Triclopi,de Três Olhos,三眼的
-TEAMNAME_ADJECTIVE_PSYCHIC1,星体的,,Astrales,astraux|astrales,Astralen,Astrali,Astrais,星體的
-TEAMNAME_ADJECTIVE_PSYCHIC2,有远见的,,Visionarios,visionnaires,Visionären,Veggenti,Visionários,有遠見的
-TEAMNAME_ADJECTIVE_PSYCHIC3,神秘的,,Místicos,mystiques,Mystischen,Mistici|Mistiche,Místicos,神祕的
-TEAMNAME_ADJECTIVE_PSYCHIC4,读心的,,Mentales,devins,Gedankenlesenden,Chiromanti,Leitores de Mentes,讀心的
+TEAMNAME_ADJECTIVE_PSYCHIC1,星體的,,Astrales,astraux|astrales,Astralen,Astrali,Astrais,星體的
+TEAMNAME_ADJECTIVE_PSYCHIC2,有遠見的,,Visionarios,visionnaires,Visionären,Veggenti,Visionários,有遠見的
+TEAMNAME_ADJECTIVE_PSYCHIC3,神祕的,,Místicos,mystiques,Mystischen,Mistici|Mistiche,Místicos,神祕的
+TEAMNAME_ADJECTIVE_PSYCHIC4,讀心的,,Mentales,devins,Gedankenlesenden,Chiromanti,Leitores de Mentes,讀心的
 TEAMNAME_ADJECTIVE_PSYCHIC5,算命的,,Adivinos,voyants|voyantes,Wahrsagenden,Indovini|Indovine,Videntes,算命的
-TEAMNAME_ADJECTIVE_PSYCHIC6,通灵者,,Mentalistas,médiums,Psychischen,Psionici|Psioniche,Psíquicos,通靈者
-TEAMNAME_ADJECTIVE_PSYCHIC7,心灵感应的,,Telepáticos,télépathes,Telepathischen,Telepatici|Telepatiche,Telepatas,心靈感應的
+TEAMNAME_ADJECTIVE_PSYCHIC6,通靈者,,Mentalistas,médiums,Psychischen,Psionici|Psioniche,Psíquicos,通靈者
+TEAMNAME_ADJECTIVE_PSYCHIC7,心靈感應的,,Telepáticos,télépathes,Telepathischen,Telepatici|Telepatiche,Telepatas,心靈感應的
 TEAMNAME_ADJECTIVE_PSYCHIC8,魅力,,Encantadores,charmeurs|charmeuses,Charmanten,Ammaliatori|Ammaliatrici,Charmosos,魅力
 TEAMNAME_ADJECTIVE_PSYCHIC9,操控的,,Manipuladores,manipulateurs|manipulatrices,Manipulierenden,Manipolatori|Manipolatrici,Manipulativos,操控的
-TEAMNAME_ADJECTIVE_PSYCHIC10,无所不知的,,Omniscientes,omniscients|omniscientes,Allwissenden,Onniscienti,Sabe-Tudo,無所不知的
-TEAMNAME_ADJECTIVE_PSYCHIC11,脉冲的,,Palpitantes,palpitants|palpitantes,Pulsierenden,Pulsanti,Pulsantes,脈衝的
-TEAMNAME_ADJECTIVE_PSYCHIC12,紧张僵直的,,Catatónicos,catatoniques,Katatonischen,Catatonici|Catatoniche,Catatônicos,緊張僵直的
-TEAMNAME_ADJECTIVE_BUTCHER0,饥饿,,Hambrientos,affamés|affamées,Hungrigen,Affamati|Affamate,Famintos,飢餓
+TEAMNAME_ADJECTIVE_PSYCHIC10,無所不知的,,Omniscientes,omniscients|omniscientes,Allwissenden,Onniscienti,Sabe-Tudo,無所不知的
+TEAMNAME_ADJECTIVE_PSYCHIC11,脈衝的,,Palpitantes,palpitants|palpitantes,Pulsierenden,Pulsanti,Pulsantes,脈衝的
+TEAMNAME_ADJECTIVE_PSYCHIC12,緊張僵直的,,Catatónicos,catatoniques,Katatonischen,Catatonici|Catatoniche,Catatônicos,緊張僵直的
+TEAMNAME_ADJECTIVE_BUTCHER0,飢餓,,Hambrientos,affamés|affamées,Hungrigen,Affamati|Affamate,Famintos,飢餓
 TEAMNAME_ADJECTIVE_BUTCHER1,出汗,,Sudorosos,en sueur,Schwitzenden,Sudaticci|Sudaticcie,Suados,出汗
 TEAMNAME_ADJECTIVE_BUTCHER2,多肉,,Cárnicos,charnus|charnues,Fleischigen,Carnosi|Carnose,Carnudos,多肉
 TEAMNAME_ADJECTIVE_BUTCHER3,切片,,Rebanados,en tranches,Geschnittenen,Affettati|Affettate,Fatiados,切片
-TEAMNAME_ADJECTIVE_BUTCHER4,上瘾者,,Ensartados,accrochés|accrochées,Hakenden,Appesi|Appese,Enganchados,上癮者
+TEAMNAME_ADJECTIVE_BUTCHER4,上癮者,,Ensartados,accrochés|accrochées,Hakenden,Appesi|Appese,Enganchados,上癮者
 TEAMNAME_ADJECTIVE_BUTCHER5,流血,,Sangrientos,ensanglantés|ensanglantées,Blutenden,Sanguinanti,Sangrentos,流血
-TEAMNAME_ADJECTIVE_BUTCHER6,永不满足,,Famélicos,insatiables,Nimmersatten,Insaziabili,Nunca Satisfeitos,永不滿足
+TEAMNAME_ADJECTIVE_BUTCHER6,永不滿足,,Famélicos,insatiables,Nimmersatten,Insaziabili,Nunca Satisfeitos,永不滿足
 TEAMNAME_ADJECTIVE_BUTCHER7,布奇,,Carniceros,barbares,Maskulin gelesenen,Macellati|Macellate,Machões,布奇
-TEAMNAME_ADJECTIVE_BUTCHER8,被锁链锁住,,Encadenados,enchaînés|enchaînées,Angeketteten,Incatenati|Incatenate,Acorrentados,被鎖鏈鎖住
+TEAMNAME_ADJECTIVE_BUTCHER8,被鎖鏈鎖住,,Encadenados,enchaînés|enchaînées,Angeketteten,Incatenati|Incatenate,Acorrentados,被鎖鏈鎖住
 TEAMNAME_ADJECTIVE_BUTCHER9,嗜血,,Sedientos de Sangre,sanguinaires,Blutdurstigen,Assetati di Sangue|Assetate di Sangue,Sedentos de Sangue,嗜血
-TEAMNAME_ADJECTIVE_BUTCHER10,砍杀,,Trinchadores,tranchants|tranchantes,Hackenden,Squartatori|Squartatrici,Estraçalhantes,砍殺
+TEAMNAME_ADJECTIVE_BUTCHER10,砍殺,,Trinchadores,tranchants|tranchantes,Hackenden,Squartatori|Squartatrici,Estraçalhantes,砍殺
 TEAMNAME_ADJECTIVE_NECROMANCER0,不死族,,de Ultratumba,morts-vivants|mortes-vivantes,Untoten,Non morti|Non morte,Mortos-Vivos,不死族
-TEAMNAME_ADJECTIVE_NECROMANCER1,腐烂中,,en Descomposición,pourrissants|pourrissantes,Verwesenden,Decomposti|Decomposte,Apodrecidos,腐爛中
+TEAMNAME_ADJECTIVE_NECROMANCER1,腐爛中,,en Descomposición,pourrissants|pourrissantes,Verwesenden,Decomposti|Decomposte,Apodrecidos,腐爛中
 TEAMNAME_ADJECTIVE_NECROMANCER2,黑暗,,Oscuros,sombres,Dunklen,Tenebrosi|Tenebrose,Sombreados,黑暗
-TEAMNAME_ADJECTIVE_NECROMANCER3,腐败,,Putrefactos,putréfiés|putréfiées,Verrottenden,Marcescenti,Apodrecidos,腐敗
+TEAMNAME_ADJECTIVE_NECROMANCER3,腐敗,,Putrefactos,putréfiés|putréfiées,Verrottenden,Marcescenti,Apodrecidos,腐敗
 TEAMNAME_ADJECTIVE_NECROMANCER4,哥特式,,Góticos,gothiques,format2|Gothic,Gotici|Gotiche,Góticos,哥特式
-TEAMNAME_ADJECTIVE_NECROMANCER5,情绪化,,Emo,emos,format2|Emo,Emo,Emo,情緒化
+TEAMNAME_ADJECTIVE_NECROMANCER5,情緒化,,Emo,emos,format2|Emo,Emo,Emo,情緒化
 TEAMNAME_ADJECTIVE_NECROMANCER6,黑色,,Negros,noirs|noires,Schwarzen,Neri|Nere,Negros,黑色
-TEAMNAME_ADJECTIVE_NECROMANCER7,邪恶,,Malvados,diaboliques,Bösen,Malvagi|Malvagie,Malignos,邪惡
-TEAMNAME_ADJECTIVE_NECROMANCER8,被诅咒的,,Condenados,damnés|damnées,Verdammten,Dannati|Dannate,Perdidos,被詛咒的
-TEAMNAME_ADJECTIVE_NECROMANCER9,疲惫,,Drenados,exsangues,Ausgesaugten,Prosciugati|Prosciugate,Drenados,疲憊
+TEAMNAME_ADJECTIVE_NECROMANCER7,邪惡,,Malvados,diaboliques,Bösen,Malvagi|Malvagie,Malignos,邪惡
+TEAMNAME_ADJECTIVE_NECROMANCER8,被詛咒的,,Condenados,damnés|damnées,Verdammten,Dannati|Dannate,Perdidos,被詛咒的
+TEAMNAME_ADJECTIVE_NECROMANCER9,疲憊,,Drenados,exsangues,Ausgesaugten,Prosciugati|Prosciugate,Drenados,疲憊
 TEAMNAME_ADJECTIVE_NECROMANCER10,午夜,,de Medianoche,de minuit,Nächtlichen,Crepuscolari,da Meia-Noite,午夜
 TEAMNAME_ADJECTIVE_NECROMANCER11,死亡,,Muertos,morts|mortes,Toten,Morti|Morte,Mortos,死亡
 TEAMNAME_ADJECTIVE_NECROMANCER12,恐怖,,Aterradores,flippants|flippantes,Gruseligen,Spettrali,Assustadores,恐怖
 TEAMNAME_ADJECTIVE_TINKERER0,狡猾,,Hábiles,ingénieux|ingénieuses,Gewieften,Astuti|Astute,Engenhosos,狡猾
-TEAMNAME_ADJECTIVE_TINKERER1,好斗,,Apañados,ferrailleurs|ferrailleuses,Rabiaten,Battaglieri|Battagliere,Brigões,好鬥
-TEAMNAME_ADJECTIVE_TINKERER2,有创造力,,Inventivos,inventifs|inventives,Erfinderischen,Ingegnosi|Ingegnose,Inventores,有創造力
-TEAMNAME_ADJECTIVE_TINKERER3,疯狂,,Locos,énervés|énervées,Verrückten,Folli,Loucos,瘋狂
+TEAMNAME_ADJECTIVE_TINKERER1,好鬥,,Apañados,ferrailleurs|ferrailleuses,Rabiaten,Battaglieri|Battagliere,Brigões,好鬥
+TEAMNAME_ADJECTIVE_TINKERER2,有創造力,,Inventivos,inventifs|inventives,Erfinderischen,Ingegnosi|Ingegnose,Inventores,有創造力
+TEAMNAME_ADJECTIVE_TINKERER3,瘋狂,,Locos,énervés|énervées,Verrückten,Folli,Loucos,瘋狂
 TEAMNAME_ADJECTIVE_TINKERER4,油炸,,Electrocutados,frits|frites,Durchgedrehten,Fritti|Fritte,Fritos,油炸
-TEAMNAME_ADJECTIVE_TINKERER5,电气的,,Eléctricos,électriques,Elektrischen,Elettrici|Elettriche,Elétricos,電氣的
-TEAMNAME_ADJECTIVE_TINKERER6,有创意,,Creativos,créatifs|créatives,Kreativen,Creativi|Creative,Criativos,有創意
-TEAMNAME_ADJECTIVE_TINKERER7,科学的,,Científicos,scientifiques,Wissenschaftlichen,Scientifici|Scientifiche,Científicos,科學的
-TEAMNAME_ADJECTIVE_TINKERER8,机器人,,Robóticos,robotiques,Mechanischen,Robotici|Robotiche,Robóticos,機器人
-TEAMNAME_ADJECTIVE_TINKERER9,金属,,Metálicos,métalliques,Metallischen,Metallici|Metalliche,de Metal,金屬
+TEAMNAME_ADJECTIVE_TINKERER5,電氣的,,Eléctricos,électriques,Elektrischen,Elettrici|Elettriche,Elétricos,電氣的
+TEAMNAME_ADJECTIVE_TINKERER6,有創意,,Creativos,créatifs|créatives,Kreativen,Creativi|Creative,Criativos,有創意
+TEAMNAME_ADJECTIVE_TINKERER7,科學的,,Científicos,scientifiques,Wissenschaftlichen,Scientifici|Scientifiche,Científicos,科學的
+TEAMNAME_ADJECTIVE_TINKERER8,機器人,,Robóticos,robotiques,Mechanischen,Robotici|Robotiche,Robóticos,機器人
+TEAMNAME_ADJECTIVE_TINKERER9,金屬,,Metálicos,métalliques,Metallischen,Metallici|Metalliche,de Metal,金屬
 TEAMNAME_ADJECTIVE_TINKERER10,爆炸的,,Explosivos,explosifs|explosives,Explodierenden,Esplosivi|Esplosive,Explosivos,爆炸的
-TEAMNAME_ADJECTIVE_TINKERER11,装甲的,,con Armadura,blindés|blindées,Gerüsteten,Corazzati|Corazzate,Blindados,裝甲的
-TEAMNAME_ADJECTIVE_TINKERER12,武装的,,Armados,armés|armées,Bewaffneten,Armati|Armate,Armados,武裝的
-TEAMNAME_ADJECTIVE_TINKERER13,遥控的,,Remotos,télécommandés|télécommandées,Ferngesteuerten,Telecomandati|Telecomandate,de Controle Remoto,遙控的
+TEAMNAME_ADJECTIVE_TINKERER11,裝甲的,,con Armadura,blindés|blindées,Gerüsteten,Corazzati|Corazzate,Blindados,裝甲的
+TEAMNAME_ADJECTIVE_TINKERER12,武裝的,,Armados,armés|armées,Bewaffneten,Armati|Armate,Armados,武裝的
+TEAMNAME_ADJECTIVE_TINKERER13,遙控的,,Remotos,télécommandés|télécommandées,Ferngesteuerten,Telecomandati|Telecomandate,de Controle Remoto,遙控的
 TEAMNAME_ADJECTIVE_COLORLESS0,普通,,Normales,normal|normales,Normalen,Normali,Normais,普通
-TEAMNAME_ADJECTIVE_COLORLESS1,基础的,,Básicos,basiques,Regulären,Basilari,Básicos,基礎的
-TEAMNAME_ADJECTIVE_COLORLESS2,标准,,Estándares,ordinaires,format2|Standard,Standard,Padrão,標準
-TEAMNAME_ADJECTIVE_JESTER0,疯狂,,Alocados,fous|folles,Verrückten,Pazzi|Pazze,Malucos,瘋狂
+TEAMNAME_ADJECTIVE_COLORLESS1,基礎的,,Básicos,basiques,Regulären,Basilari,Básicos,基礎的
+TEAMNAME_ADJECTIVE_COLORLESS2,標準,,Estándares,ordinaires,format2|Standard,Standard,Padrão,標準
+TEAMNAME_ADJECTIVE_JESTER0,瘋狂,,Alocados,fous|folles,Verrückten,Pazzi|Pazze,Malucos,瘋狂
 TEAMNAME_ADJECTIVE_JESTER1,古怪,,Chiflados,farfelus|farfelues,Schrulligen,Squinternati|Squinternate,Pirados,古怪
-TEAMNAME_ADJECTIVE_JESTER2,幸运,,Afortunados,chanceux|chanceuses,Glücklichen,Fortunati|Fortunate,Sortudos,幸運
+TEAMNAME_ADJECTIVE_JESTER2,幸運,,Afortunados,chanceux|chanceuses,Glücklichen,Fortunati|Fortunate,Sortudos,幸運
 TEAMNAME_ADJECTIVE_JESTER3,傻乎乎,,Bobalicones,loufoques,Exzentrischen,Goffi|Goffe,Bobões,傻乎乎
 TEAMNAME_ADJECTIVE_JESTER4,咯咯笑,,Nerviosos,gloussants|gloussantes,Giggelnden,Ridacchianti,Gargalhantes,咯咯笑
 TEAMNAME_ADJECTIVE_JESTER5,大笑,,Risueños,hilares,Lachenden,Sghignazzanti,Risonhos,大笑
 TEAMNAME_ADJECTIVE_JESTER6,有趣,,Graciosos,drôles,Lustigen,Divertenti,Engraçados,有趣
-TEAMNAME_ADJECTIVE_JESTER7,讽刺,,Sarcásticos,sarcastiques,Sarkastischen,Sarcastici|Sarcastiche,Sarcásticos,諷刺
+TEAMNAME_ADJECTIVE_JESTER7,諷刺,,Sarcásticos,sarcastiques,Sarkastischen,Sarcastici|Sarcastiche,Sarcásticos,諷刺
 TEAMNAME_ADJECTIVE_JESTER8,狂笑,,Desternillados,rigolos|rigolotes,Gackernden,Sguaiati|Sguaiate,Gargalhantes,狂笑
 TEAMNAME_ADJECTIVE_JESTER9,嘲笑,,Burlones,moqueurs|moqueuses,Spöttischen,Beffardi|Beffarde,Zombeteiros,嘲笑
 TEAMNAME_ADJECTIVE_JESTER10,彩虹,,Arcoíris,arcs-en-ciel,format2|Regenbogen,Arcobaleno,Arco-Íris,彩虹
-TEAMNAME_ADJECTIVE_JESTER11,轻笑,,Divertidos,amusés|amusées,Glucksenden,Sorridenti,Risonhos,輕笑
-TEAMNAME_ADJECTIVE_JESTER12,窃笑,,Socarrones,narquois|narquoises,Kichernden,Lieti|Liete,Joviais,竊笑
+TEAMNAME_ADJECTIVE_JESTER11,輕笑,,Divertidos,amusés|amusées,Glucksenden,Sorridenti,Risonhos,輕笑
+TEAMNAME_ADJECTIVE_JESTER12,竊笑,,Socarrones,narquois|narquoises,Kichernden,Lieti|Liete,Joviais,竊笑
 TEAMNAME_ADJECTIVE_JESTER13,微笑,,Sonrientes,souriants|souriantes,Lächelnden,Ilari,Sorridentes,微笑
-TEAMNAME_ADJECTIVE_JESTER14,同性恋,,Alegres,gais|gaies,Fröhlichen,Gioiosi|Gioiose,Alegres,同性戀
-TEAMNAME_ADJECTIVE_MISC0,完美无缺,,Ronroneantes,parrrfaits|parrrfaites,Schnurrenden,Miaosi|Miaosette,Purrrfeitos,完美無缺
+TEAMNAME_ADJECTIVE_JESTER14,同性戀,,Alegres,gais|gaies,Fröhlichen,Gioiosi|Gioiose,Alegres,同性戀
+TEAMNAME_ADJECTIVE_MISC0,完美無缺,,Ronroneantes,parrrfaits|parrrfaites,Schnurrenden,Miaosi|Miaosette,Purrrfeitos,完美無缺
 TEAMNAME_ADJECTIVE_MISC1,毛茸茸,,Suaves,duveteux|duveteuses,Fluffigen,Pelosetti|Pelosette,Fofinhos,毛茸茸
 TEAMNAME_ADJECTIVE_MISC2,format2|{Catname's},,format2|{Catname} y sus,format2|{Catname} et les,Namhaften,di {Catname},format2|de {Catname},format2|{Catname's}
 TEAMNAME_ADJECTIVE_MISC2_M,,,,,,,,
@@ -187,167 +187,167 @@ TEAMNAME_ADJECTIVE_MISC3,format2|{Catname} 和,,format2|{Catname} y los,format2|
 TEAMNAME_ADJECTIVE_MISC3_M,,,,,,,,
 TEAMNAME_ADJECTIVE_MISC3_F,,,,,,,,
 TEAMNAME_ADJECTIVE_MISC3_N,,,,,,,,
-TEAMNAME_NOUN_FIGHTER0,鲁克斯,,Zopencos,Balourds|male,Blödiane,I Gorilloni,Brutos,魯克斯
-TEAMNAME_NOUN_FIGHTER1,兄弟们,,Machotes,Frères|male,Bros,I Fratelli,Irmãos,兄弟們
-TEAMNAME_NOUN_FIGHTER2,拳头,,Puños,Poings|male,Fäuste,I Pugni,Punhos,拳頭
-TEAMNAME_NOUN_FIGHTER3,壮汉,,Matones,Castagneurs|male,Schlägertypen,I Picchiatori,Agressores,壯漢
-TEAMNAME_NOUN_FIGHTER4,拳头,,Puños,Poings|male,Fäuste,I Cazzotti,Punhos,拳頭
+TEAMNAME_NOUN_FIGHTER0,魯克斯,,Zopencos,Balourds|male,Blödiane,I Gorilloni,Brutos,魯克斯
+TEAMNAME_NOUN_FIGHTER1,兄弟們,,Machotes,Frères|male,Bros,I Fratelli,Irmãos,兄弟們
+TEAMNAME_NOUN_FIGHTER2,拳頭,,Puños,Poings|male,Fäuste,I Pugni,Punhos,拳頭
+TEAMNAME_NOUN_FIGHTER3,壯漢,,Matones,Castagneurs|male,Schlägertypen,I Picchiatori,Agressores,壯漢
+TEAMNAME_NOUN_FIGHTER4,拳頭,,Puños,Poings|male,Fäuste,I Cazzotti,Punhos,拳頭
 TEAMNAME_NOUN_FIGHTER5,笨蛋,,Memos,Sans-cervelles|male,Tölpel,Gli Imbranati,Tolos,笨蛋
 TEAMNAME_NOUN_FIGHTER6,英雄,,Héroes,Héros|male,Helden,Gli Eroi,Heróis,英雄
-TEAMNAME_NOUN_FIGHTER7,阿尔法,,Alfa,Alphas|male,Alphas,Gli Alfa,Alfas,阿爾法
-TEAMNAME_NOUN_FIGHTER8,运动健将,,Atletas,Athlètes|male,Sportskanonen,I Palestrati,Atletas,運動健將
-TEAMNAME_NOUN_FIGHTER9,爸爸们,,Forzudos,Papas|male,Daddys,I Paparini,Papais,爸爸們
-TEAMNAME_NOUN_FIGHTER10,恶霸,,Abusones,Harceleurs|male,Rabauken,I Bulli,Valentões,惡霸
-TEAMNAME_NOUN_FIGHTER11,击打者,,Vapuleadores,Batteurs|male,Schläger,I Pestatori,Espancadores,擊打者
-TEAMNAME_NOUN_HUNTER0,潜行者,,Acechadores,Désaxés|male,Pirscher,I Segugi,Espreitadores,潛行者
-TEAMNAME_NOUN_HUNTER1,游侠,,Guardabosques,Rôdeurs|male,Waldläufer,I Ranger,Guardiões,遊俠
-TEAMNAME_NOUN_HUNTER2,追踪者,,Rastreadores,Pisteurs|male,Spurensucher,I Tracciatori,Rastreadores,追蹤者
-TEAMNAME_NOUN_HUNTER3,箭头,,Arqueros,Têtes de flèche|male,Bogenschützen,I Predatori,Batedores,箭頭
-TEAMNAME_NOUN_HUNTER4,剥皮者,,Desolladores,Écorcheurs|male,Hautabzieher,I Scorticatori,Esfoladores,剝皮者
+TEAMNAME_NOUN_FIGHTER7,阿爾法,,Alfa,Alphas|male,Alphas,Gli Alfa,Alfas,阿爾法
+TEAMNAME_NOUN_FIGHTER8,運動健將,,Atletas,Athlètes|male,Sportskanonen,I Palestrati,Atletas,運動健將
+TEAMNAME_NOUN_FIGHTER9,爸爸們,,Forzudos,Papas|male,Daddys,I Paparini,Papais,爸爸們
+TEAMNAME_NOUN_FIGHTER10,惡霸,,Abusones,Harceleurs|male,Rabauken,I Bulli,Valentões,惡霸
+TEAMNAME_NOUN_FIGHTER11,擊打者,,Vapuleadores,Batteurs|male,Schläger,I Pestatori,Espancadores,擊打者
+TEAMNAME_NOUN_HUNTER0,潛行者,,Acechadores,Désaxés|male,Pirscher,I Segugi,Espreitadores,潛行者
+TEAMNAME_NOUN_HUNTER1,遊俠,,Guardabosques,Rôdeurs|male,Waldläufer,I Ranger,Guardiões,遊俠
+TEAMNAME_NOUN_HUNTER2,追蹤者,,Rastreadores,Pisteurs|male,Spurensucher,I Tracciatori,Rastreadores,追蹤者
+TEAMNAME_NOUN_HUNTER3,箭頭,,Arqueros,Têtes de flèche|male,Bogenschützen,I Predatori,Batedores,箭頭
+TEAMNAME_NOUN_HUNTER4,剝皮者,,Desolladores,Écorcheurs|male,Hautabzieher,I Scorticatori,Esfoladores,剝皮者
 TEAMNAME_NOUN_HUNTER5,陷阱,,Tramperos,Pièges|male,Fallensteller,Gli Intrappolatori,Armadilhas,陷阱
-TEAMNAME_NOUN_HUNTER6,侦查者,,Observadores,Guetteurs|male,Detektive,Gli Osservatori,Olheiros,偵查者
+TEAMNAME_NOUN_HUNTER6,偵查者,,Observadores,Guetteurs|male,Detektive,Gli Osservatori,Olheiros,偵查者
 TEAMNAME_NOUN_HUNTER7,神射手,,Francotiradores,Tirailleurs|male,Scharfschützen,I Cecchini,Atiradores de Elite,神射手
-TEAMNAME_NOUN_HUNTER8,单|包,,Compañeros,Mutins|male,Meute,I Cercatori,Matilha,單|包
+TEAMNAME_NOUN_HUNTER8,單|包,,Compañeros,Mutins|male,Meute,I Cercatori,Matilha,單|包
 TEAMNAME_NOUN_HUNTER9,野人,,Montaraces,Sauvageons|male,Wildlinge,I Selvaggi,Selvagens,野人
 TEAMNAME_NOUN_HUNTER10,自然之子,,Naturalistas,Campagnards|male,Naturburschen,I Silvestri,Naturais,自然之子
-TEAMNAME_NOUN_HUNTER11,侦察兵,,Exploradores,Scouts|male,Pfadfinder,Gli Esploratori,Batedores,偵察兵
-TEAMNAME_NOUN_HUNTER12,一窝,,Polluelos,Progénitures|female,Brüter,I Discendenti,Ninhada,一窩
-TEAMNAME_NOUN_MEDIC0,医生,,Médicos,Médecins|male,Ärzte,I Dottori,Doutores,醫生
+TEAMNAME_NOUN_HUNTER11,偵察兵,,Exploradores,Scouts|male,Pfadfinder,Gli Esploratori,Batedores,偵察兵
+TEAMNAME_NOUN_HUNTER12,一窩,,Polluelos,Progénitures|female,Brüter,I Discendenti,Ninhada,一窩
+TEAMNAME_NOUN_MEDIC0,醫生,,Médicos,Médecins|male,Ärzte,I Dottori,Doutores,醫生
 TEAMNAME_NOUN_MEDIC1,祭司,,Sacerdotes,Curés|male,Priester,I Sacerdoti,Sacerdotes,祭司
-TEAMNAME_NOUN_MEDIC2,十字军,,Cruzados,Croisés|male,Kreuzritter,I Crociati,Cruzados,十字軍
-TEAMNAME_NOUN_MEDIC3,圣经信徒,,Fanáticos,Matrixés de la Bible|male,Bibelfreunde,I Bacchettoni,Fanáticos Religiosos,聖經信徒
-TEAMNAME_NOUN_MEDIC4,神之战士,,Templarios,Guerriers divins|male,Gotteskrieger,I Guerrieri di Dio,Guerreiros Divinos,神之戰士
-TEAMNAME_NOUN_MEDIC5,圣徒,,Santos,Saints|male,Heiligen,I Santi,Santos,聖徒
-TEAMNAME_NOUN_MEDIC6,仆人,,Siervos,Serviteurs|male,Diener,I Servitori,Servos,僕人
-TEAMNAME_NOUN_MEDIC7,忠诚者,,Fieles,Croyants|male,Gläubigen,I Fedeli,Crentes,忠誠者
-TEAMNAME_NOUN_MEDIC8,圣骑士,,Paladines,Paladins|male,Paladine,I Paladini,Paladinos,聖騎士
-TEAMNAME_NOUN_MEDIC9,被选中者,,Elegidos,Élus|male,Auserwählten,I Prescelti,Escolhidos,被選中者
-TEAMNAME_NOUN_MAGE0,学生,,Estudiantes,Élèves|male,Studenten,Gli Studenti,Estudantes,學生
-TEAMNAME_NOUN_MAGE1,巫师,,Brujos,Sorciers|male,Hexenmeister,I Maghi,Magos,巫師
-TEAMNAME_NOUN_MAGE2,神秘学者,,Ocultistas,Occultistes|male,Okkultisten,Gli Occultisti,Ocultistas,神祕學者
-TEAMNAME_NOUN_MAGE3,魔术师,,Magos,Magiciens|male,Magier,I Prestigiatori,Mágicos,魔術師
-TEAMNAME_NOUN_MAGE4,法术投掷者,,Lanzahechizos,Enchanteurs|male,Zauberwirker,I Lanciaincantesimi,Encantadores,法術投擲者
-TEAMNAME_NOUN_MAGE5,采集者,,Taumaturgos,Initiés|male,Versammelten,Gli Adunatori,Compiladores,採集者
-TEAMNAME_NOUN_MAGE6,万事通,,Sabiondos,Prétentieux|male,Besserwisser,I Saputelli,Sabe-Tudo,萬事通
-TEAMNAME_NOUN_MAGE7,书虫,,Lectores,Bibliophiles|male,Leseratten,I Topi di Biblioteca,Leitores,書蟲
-TEAMNAME_NOUN_MAGE8,巫师,,Hechiceros,Sorceleurs|male,Zauberer,Gli Stregoni,Feiticeiros,巫師
+TEAMNAME_NOUN_MEDIC2,十字軍,,Cruzados,Croisés|male,Kreuzritter,I Crociati,Cruzados,十字軍
+TEAMNAME_NOUN_MEDIC3,聖經信徒,,Fanáticos,Matrixés de la Bible|male,Bibelfreunde,I Bacchettoni,Fanáticos Religiosos,聖經信徒
+TEAMNAME_NOUN_MEDIC4,神之戰士,,Templarios,Guerriers divins|male,Gotteskrieger,I Guerrieri di Dio,Guerreiros Divinos,神之戰士
+TEAMNAME_NOUN_MEDIC5,聖徒,,Santos,Saints|male,Heiligen,I Santi,Santos,聖徒
+TEAMNAME_NOUN_MEDIC6,僕人,,Siervos,Serviteurs|male,Diener,I Servitori,Servos,僕人
+TEAMNAME_NOUN_MEDIC7,忠誠者,,Fieles,Croyants|male,Gläubigen,I Fedeli,Crentes,忠誠者
+TEAMNAME_NOUN_MEDIC8,聖騎士,,Paladines,Paladins|male,Paladine,I Paladini,Paladinos,聖騎士
+TEAMNAME_NOUN_MEDIC9,被選中者,,Elegidos,Élus|male,Auserwählten,I Prescelti,Escolhidos,被選中者
+TEAMNAME_NOUN_MAGE0,學生,,Estudiantes,Élèves|male,Studenten,Gli Studenti,Estudantes,學生
+TEAMNAME_NOUN_MAGE1,巫師,,Brujos,Sorciers|male,Hexenmeister,I Maghi,Magos,巫師
+TEAMNAME_NOUN_MAGE2,神祕學者,,Ocultistas,Occultistes|male,Okkultisten,Gli Occultisti,Ocultistas,神祕學者
+TEAMNAME_NOUN_MAGE3,魔術師,,Magos,Magiciens|male,Magier,I Prestigiatori,Mágicos,魔術師
+TEAMNAME_NOUN_MAGE4,法術投擲者,,Lanzahechizos,Enchanteurs|male,Zauberwirker,I Lanciaincantesimi,Encantadores,法術投擲者
+TEAMNAME_NOUN_MAGE5,採集者,,Taumaturgos,Initiés|male,Versammelten,Gli Adunatori,Compiladores,採集者
+TEAMNAME_NOUN_MAGE6,萬事通,,Sabiondos,Prétentieux|male,Besserwisser,I Saputelli,Sabe-Tudo,萬事通
+TEAMNAME_NOUN_MAGE7,書蟲,,Lectores,Bibliophiles|male,Leseratten,I Topi di Biblioteca,Leitores,書蟲
+TEAMNAME_NOUN_MAGE8,巫師,,Hechiceros,Sorceleurs|male,Zauberer,Gli Stregoni,Feiticeiros,巫師
 TEAMNAME_NOUN_TANK0,岩石,,Pedruscos,Cailloux|male,Steine,I Sassi,Pedras,岩石
-TEAMNAME_NOUN_TANK1,胖子们,,Zampabollos,Parpaings|male,Klumpen,I Corpulenti,Pedaços,胖子們
-TEAMNAME_NOUN_TANK2,防御者,,Defensores,Défenseurs|male,Verteidiger,I Difensori,Defensores,防禦者
+TEAMNAME_NOUN_TANK1,胖子們,,Zampabollos,Parpaings|male,Klumpen,I Corpulenti,Pedaços,胖子們
+TEAMNAME_NOUN_TANK2,防禦者,,Defensores,Défenseurs|male,Verteidiger,I Difensori,Defensores,防禦者
 TEAMNAME_NOUN_TANK3,大肥佬,,Tragaldabas,Lardons|male,Fettwanste,I Lardosi,Rechonchudos,大肥佬
-TEAMNAME_NOUN_TANK4,胖胖们,,Tragones,Enrobés|male,Klöße,I Paffutelli,Gordurosos,胖胖們
-TEAMNAME_NOUN_TANK5,砖墙,,Muros,Murs|male,Ziegelmauern,I Fortini,Muralhas,磚牆
-TEAMNAME_NOUN_TANK6,线卫,,Armarios,Protecteurs|male,Linebacker,I Centravanti,Zagueiros,線衛
+TEAMNAME_NOUN_TANK4,胖胖們,,Tragones,Enrobés|male,Klöße,I Paffutelli,Gordurosos,胖胖們
+TEAMNAME_NOUN_TANK5,磚牆,,Muros,Murs|male,Ziegelmauern,I Fortini,Muralhas,磚牆
+TEAMNAME_NOUN_TANK6,線衛,,Armarios,Protecteurs|male,Linebacker,I Centravanti,Zagueiros,線衛
 TEAMNAME_NOUN_TANK7,坦克,,Tanques,Tanks|male,Panzer,I Carrarmati,Tanques,坦克
-TEAMNAME_NOUN_TANK8,大个子,,Grandullones,Gros tas|male,Supertypen,I Ragazzoni,Garotões,大個子
-TEAMNAME_NOUN_TANK9,胖子们,,Gordinflones,Bouboules|male,Dickerchen,I Grassi,Gorduchos,胖子們
-TEAMNAME_NOUN_TANK10,面包,,Holgazanes,Miches|female,Moppel,I Manzi,Gordinhos,麪包
-TEAMNAME_NOUN_TANK11,肿块,,Gandules,Blocs|male,Bullen,I Bitorzoli,Caroços,腫塊
-TEAMNAME_NOUN_TANK12,乌龟,,Acorazados,Tortues|female,Schildkröten,Le Tartarughe|female,Tartarugas,烏龜
+TEAMNAME_NOUN_TANK8,大個子,,Grandullones,Gros tas|male,Supertypen,I Ragazzoni,Garotões,大個子
+TEAMNAME_NOUN_TANK9,胖子們,,Gordinflones,Bouboules|male,Dickerchen,I Grassi,Gorduchos,胖子們
+TEAMNAME_NOUN_TANK10,麪包,,Holgazanes,Miches|female,Moppel,I Manzi,Gordinhos,麪包
+TEAMNAME_NOUN_TANK11,腫塊,,Gandules,Blocs|male,Bullen,I Bitorzoli,Caroços,腫塊
+TEAMNAME_NOUN_TANK12,烏龜,,Acorazados,Tortues|female,Schildkröten,Le Tartarughe|female,Tartarugas,烏龜
 TEAMNAME_NOUN_THIEF0,暗影,,Anónimos,Ombres|female,Schatten,Le Ombre|female,Sombras,暗影
-TEAMNAME_NOUN_THIEF1,强盗,,Bandidos,Bandits|male,Banditen,I Banditi,Bandidos,強盜
-TEAMNAME_NOUN_THIEF2,恶棍,,Bribones,Canailles|female,Schurken,I Mascalzoni,Cafajestes,惡棍
+TEAMNAME_NOUN_THIEF1,強盜,,Bandidos,Bandits|male,Banditen,I Banditi,Bandidos,強盜
+TEAMNAME_NOUN_THIEF2,惡棍,,Bribones,Canailles|female,Schurken,I Mascalzoni,Cafajestes,惡棍
 TEAMNAME_NOUN_THIEF3,作弊者,,Tramposos,Tricheurs|male,Betrüger,Gli Imbroglioni,Safados,作弊者
-TEAMNAME_NOUN_THIEF4,骗子,,Estafadores,Arnaqueurs|male,Schwindler,I Truffatori,Enganadores,騙子
+TEAMNAME_NOUN_THIEF4,騙子,,Estafadores,Arnaqueurs|male,Schwindler,I Truffatori,Enganadores,騙子
 TEAMNAME_NOUN_THIEF5,背叛者,,Traidores,Traîtres|male,Verräter,I Pugnalatori,Apunhaladores,背叛者
 TEAMNAME_NOUN_THIEF6,小偷,,Ladrones,Voleurs|male,Diebe,I Ladri,Ladrões,小偷
-TEAMNAME_NOUN_THIEF7,偷窃者,,Rateros,Brigands|male,Schlitzohren,I Rapinatori,Larápios,偷竊者
-TEAMNAME_NOUN_THIEF8,囤积者,,Cleptómanos,Thésauriseurs|male,Hamsterer,Gli Accaparratori,Acumuladores,囤積者
+TEAMNAME_NOUN_THIEF7,偷竊者,,Rateros,Brigands|male,Schlitzohren,I Rapinatori,Larápios,偷竊者
+TEAMNAME_NOUN_THIEF8,囤積者,,Cleptómanos,Thésauriseurs|male,Hamsterer,Gli Accaparratori,Acumuladores,囤積者
 TEAMNAME_NOUN_THIEF9,流氓,,Pícaros,Voyous|male,Gauner,Le Canaglie|female,Rebeldes,流氓
-TEAMNAME_NOUN_THIEF10,掠夺者,,Saqueadores,Pillards|male,Plünderer,I Saccheggiatori,Saqueadores,掠奪者
-TEAMNAME_NOUN_THIEF11,抢劫者,,Maleantes,Filous|male,Schufte,I Razziatori,Malfeitores,搶劫者
-TEAMNAME_NOUN_MONK0,singular|道场,,Monjes,Ceintures noires|female,Samurai,Gli Accademici,singular|Dojo,singular|道場
-TEAMNAME_NOUN_MONK1,轮脉,,Chakras,Chakras|male,Chakras,I Chakra,Chakras,輪脈
-TEAMNAME_NOUN_MONK2,莲花,,Lotos,Lotus|male,Lotusblüten,I Loti,Lótus,蓮花
-TEAMNAME_NOUN_MONK3,飞拳,,Golpes,Poings volants|male,Fliegenden Fäuste,I Pugni volanti,Punhos Voadores,飛拳
+TEAMNAME_NOUN_THIEF10,掠奪者,,Saqueadores,Pillards|male,Plünderer,I Saccheggiatori,Saqueadores,掠奪者
+TEAMNAME_NOUN_THIEF11,搶劫者,,Maleantes,Filous|male,Schufte,I Razziatori,Malfeitores,搶劫者
+TEAMNAME_NOUN_MONK0,singular|道場,,Monjes,Ceintures noires|female,Samurai,Gli Accademici,singular|Dojo,singular|道場
+TEAMNAME_NOUN_MONK1,輪脈,,Chakras,Chakras|male,Chakras,I Chakra,Chakras,輪脈
+TEAMNAME_NOUN_MONK2,蓮花,,Lotos,Lotus|male,Lotusblüten,I Loti,Lótus,蓮花
+TEAMNAME_NOUN_MONK3,飛拳,,Golpes,Poings volants|male,Fliegenden Fäuste,I Pugni volanti,Punhos Voadores,飛拳
 TEAMNAME_NOUN_MONK4,存在,,Seres,Êtres|male,Wesen,Gli Esseri,Seres,存在
 TEAMNAME_NOUN_MONK5,佛教徒,,Budistas,Bouddhistes|male,Buddhisten,I Buddisti,Budistas,佛教徒
-TEAMNAME_NOUN_MONK6,武术家,,Ascetas,Artistes martiaux|male,Kampfkünstler,I Maestri di Arti Marziali,Artistas Marciais,武術家
-TEAMNAME_NOUN_MONK7,和谐,,Adeptos,Harmonies|female,Harmoniesuchenden,Gli Armonici,Harmonias,和諧
+TEAMNAME_NOUN_MONK6,武術家,,Ascetas,Artistes martiaux|male,Kampfkünstler,I Maestri di Arti Marziali,Artistas Marciais,武術家
+TEAMNAME_NOUN_MONK7,和諧,,Adeptos,Harmonies|female,Harmoniesuchenden,Gli Armonici,Harmonias,和諧
 TEAMNAME_NOUN_MONK8,掌,,Acólitos,Paumes|female,Hände,I Palmi,Palmas,掌
-TEAMNAME_NOUN_MONK9,隐士,,Ermitaños,Hermites|male,Einsiedler,Gli Eremiti,Eremitas,隱士
-TEAMNAME_NOUN_MONK10,singular|门派,,Religiosos,Sectaires|male,Sektenjünger,I Cultisti,singular|Secto,singular|門派
+TEAMNAME_NOUN_MONK9,隱士,,Ermitaños,Hermites|male,Einsiedler,Gli Eremiti,Eremitas,隱士
+TEAMNAME_NOUN_MONK10,singular|門派,,Religiosos,Sectaires|male,Sektenjünger,I Cultisti,singular|Secto,singular|門派
 TEAMNAME_NOUN_MONK11,沉睡者,,Dormilones,Dormeurs|male,Schläfer,I Dormienti,Dorminhocos,沉睡者
 TEAMNAME_NOUN_MONK12,寓言,,Ejemplos,Paraboles|female,Parabeln,Le Parabole|female,Parábolas,寓言
-TEAMNAME_NOUN_DRUID0,动物,,Animales,Animaux|male,Tiere,Gli Animali,Animais,動物
-TEAMNAME_NOUN_DRUID1,音乐家,,Músicos,Musiciens|male,Musiker,I Musicisti,Músicos,音樂家
-TEAMNAME_NOUN_DRUID2,动物园管理员,,Cuidadores,Amis des bêtes|male,Zoowärter,I Custodi dello Zoo,Zoólogos,動物園管理員
-TEAMNAME_NOUN_DRUID3,单数|帮派,,Colegas,Malfrats|male,Grobiane,Le Cosche|female,singular|Gangue,單數|幫派
-TEAMNAME_NOUN_DRUID4,集体,,Hermanos,Associés|male,Pazifisten,I Collettivi,Coletivo,集體
+TEAMNAME_NOUN_DRUID0,動物,,Animales,Animaux|male,Tiere,Gli Animali,Animais,動物
+TEAMNAME_NOUN_DRUID1,音樂家,,Músicos,Musiciens|male,Musiker,I Musicisti,Músicos,音樂家
+TEAMNAME_NOUN_DRUID2,動物園管理員,,Cuidadores,Amis des bêtes|male,Zoowärter,I Custodi dello Zoo,Zoólogos,動物園管理員
+TEAMNAME_NOUN_DRUID3,單數|幫派,,Colegas,Malfrats|male,Grobiane,Le Cosche|female,singular|Gangue,單數|幫派
+TEAMNAME_NOUN_DRUID4,集體,,Hermanos,Associés|male,Pazifisten,I Collettivi,Coletivo,集體
 TEAMNAME_NOUN_DRUID5,嬉皮士,,Hippies,Hippies|male,Hippies,Gli Hippie,Hippies,嬉皮士
-TEAMNAME_NOUN_DRUID6,变形者,,Cambiaformas,Métamorphes|male,Gestaltwandler,I Mutaforma,Metamorfos,變形者
-TEAMNAME_NOUN_DRUID7,小动物,,Bichos,Créatures|female,Viecher,Le Creaturine|female,Criaturas,小動物
+TEAMNAME_NOUN_DRUID6,變形者,,Cambiaformas,Métamorphes|male,Gestaltwandler,I Mutaforma,Metamorfos,變形者
+TEAMNAME_NOUN_DRUID7,小動物,,Bichos,Créatures|female,Viecher,Le Creaturine|female,Criaturas,小動物
 TEAMNAME_NOUN_DRUID8,歌手,,Cantantes,Chanteurs|male,Sänger,I Cantanti,Cantores,歌手
-TEAMNAME_NOUN_DRUID9,单数|合唱团,,Coristas,Choristes|female,Chormitglieder,I Coristi,singular|Coro,單數|合唱團
+TEAMNAME_NOUN_DRUID9,單數|合唱團,,Coristas,Choristes|female,Chormitglieder,I Coristi,singular|Coro,單數|合唱團
 TEAMNAME_NOUN_DRUID10,花童,,Pimpollos,Pacifistes|male,Blumenkinder,I Figli dei Fiori,Floristas,花童
 TEAMNAME_NOUN_DRUID11,朋友,,Amigos,Amis|male,Freunde,Gli Amici,Amigos,朋友
 TEAMNAME_NOUN_PSYCHIC0,千里眼,,Clarividentes,Éclairés|male,Hellseher,I Chiaroveggenti,Clarividentes,千里眼
-TEAMNAME_NOUN_PSYCHIC1,预言者,,Videntes,Prophètes|male,Seher,Gli Indovini,Adivinhadores,預言者
+TEAMNAME_NOUN_PSYCHIC1,預言者,,Videntes,Prophètes|male,Seher,Gli Indovini,Adivinhadores,預言者
 TEAMNAME_NOUN_PSYCHIC2,眼睛,,Ojos,Yeux|male,Augen,Gli Occhi,Olhos,眼睛
-TEAMNAME_NOUN_PSYCHIC3,算命师,,Adivinos,Cartomanciens|male,Wahrsager,I Cartomanti,Videntes,算命師
-TEAMNAME_NOUN_PSYCHIC4,操纵者,,Manipuladores,Manipulateurs|male,Drahtzieher,I Manipolatori,Manipuladores,操縱者
-TEAMNAME_NOUN_PSYCHIC5,读心者,,Pitonisos,Télépathes|male,Gedankenleser,I Sensitivi,Leitores de Mentes,讀心者
-TEAMNAME_NOUN_PSYCHIC6,骗子,,Timadores,Mystificateurs|male,Trickbetrüger,I Truffatori,Golpistas,騙子
-TEAMNAME_NOUN_PSYCHIC7,推销员,,Profetas,Gratte-papiers|male,Löffelverbieger,Gli Spacciatori,Traficantes,推銷員
-TEAMNAME_NOUN_PSYCHIC8,算命师,,Augures,Chiromanciens|male,Handleser,I Chiromanti,Leitores de Mãos,算命師
-TEAMNAME_NOUN_PSYCHIC9,心灵感应者,,Telépatas,Spiritistes|male,Telepathen,I Telepati,Telepatas,心靈感應者
-TEAMNAME_NOUN_BUTCHER0,烧烤大师,,Cocineros,Pros du grill|male,Grillmeister,I Maestri della Griglia,Mestres do Churrasco,燒烤大師
+TEAMNAME_NOUN_PSYCHIC3,算命師,,Adivinos,Cartomanciens|male,Wahrsager,I Cartomanti,Videntes,算命師
+TEAMNAME_NOUN_PSYCHIC4,操縱者,,Manipuladores,Manipulateurs|male,Drahtzieher,I Manipolatori,Manipuladores,操縱者
+TEAMNAME_NOUN_PSYCHIC5,讀心者,,Pitonisos,Télépathes|male,Gedankenleser,I Sensitivi,Leitores de Mentes,讀心者
+TEAMNAME_NOUN_PSYCHIC6,騙子,,Timadores,Mystificateurs|male,Trickbetrüger,I Truffatori,Golpistas,騙子
+TEAMNAME_NOUN_PSYCHIC7,推銷員,,Profetas,Gratte-papiers|male,Löffelverbieger,Gli Spacciatori,Traficantes,推銷員
+TEAMNAME_NOUN_PSYCHIC8,算命師,,Augures,Chiromanciens|male,Handleser,I Chiromanti,Leitores de Mãos,算命師
+TEAMNAME_NOUN_PSYCHIC9,心靈感應者,,Telépatas,Spiritistes|male,Telepathen,I Telepati,Telepatas,心靈感應者
+TEAMNAME_NOUN_BUTCHER0,燒烤大師,,Cocineros,Pros du grill|male,Grillmeister,I Maestri della Griglia,Mestres do Churrasco,燒烤大師
 TEAMNAME_NOUN_BUTCHER1,暴食者,,Glotones,Gloutons|male,Vielfraße,I Ghiottoni,Glutões,暴食者
 TEAMNAME_NOUN_BUTCHER2,胃袋,,Estómagos,Estomacs|male,Schlemmerer,Gli Stomaci,Estômagos,胃袋
-TEAMNAME_NOUN_BUTCHER3,猪,,Comilones,Porcelets|male,Schweine,I Porci,Porcos,豬
-TEAMNAME_NOUN_BUTCHER4,小猪,,Lechones,Cochons|male,Schweinchen,I Suini,Porquinhos,小豬
+TEAMNAME_NOUN_BUTCHER3,豬,,Comilones,Porcelets|male,Schweine,I Porci,Porcos,豬
+TEAMNAME_NOUN_BUTCHER4,小豬,,Lechones,Cochons|male,Schweinchen,I Suini,Porquinhos,小豬
 TEAMNAME_NOUN_BUTCHER5,屠夫,,Carniceros,Bouchers|male,Metzger,I Macellai,Açougueiros,屠夫
-TEAMNAME_NOUN_BUTCHER6,恶魔,,Demonios,Démons|male,Teufel,I Diavoli,Diabos,惡魔
-TEAMNAME_NOUN_BUTCHER7,砍头者,,Charcuteros,Côtelettes|female,Chop-Tops,I Decapitatori,Canibais,砍頭者
-TEAMNAME_NOUN_BUTCHER8,singular|群,,Salchicheros,Puants|male,Insekten,Le Orde|female,singular|Enxame,singular|羣
-TEAMNAME_NOUN_BUTCHER9,苍蝇,,Matarifes,Mouches|female,Fliegen,Le Mosche|female,Moscas,蒼蠅
-TEAMNAME_NOUN_BUTCHER10,呕吐者,,Destripadores,Vomitos|male,Schwelger,I Vomitatori,Vomitadores,嘔吐者
-TEAMNAME_NOUN_BUTCHER11,狂欢者,,Zampones,Boulimique|male,Leckermäulchen,Gli Ingozzatori,Descontrolados,狂歡者
-TEAMNAME_NOUN_NECROMANCER0,僵尸,,Zombis,Zombies|male,Zombies,Gli Zombie,Zumbis,殭屍
-TEAMNAME_NOUN_NECROMANCER1,骷髅,,Esqueletos,Squelettes|male,Skelette,Gli Scheletri,Esqueletos,骷髏
+TEAMNAME_NOUN_BUTCHER6,惡魔,,Demonios,Démons|male,Teufel,I Diavoli,Diabos,惡魔
+TEAMNAME_NOUN_BUTCHER7,砍頭者,,Charcuteros,Côtelettes|female,Chop-Tops,I Decapitatori,Canibais,砍頭者
+TEAMNAME_NOUN_BUTCHER8,singular|羣,,Salchicheros,Puants|male,Insekten,Le Orde|female,singular|Enxame,singular|羣
+TEAMNAME_NOUN_BUTCHER9,蒼蠅,,Matarifes,Mouches|female,Fliegen,Le Mosche|female,Moscas,蒼蠅
+TEAMNAME_NOUN_BUTCHER10,嘔吐者,,Destripadores,Vomitos|male,Schwelger,I Vomitatori,Vomitadores,嘔吐者
+TEAMNAME_NOUN_BUTCHER11,狂歡者,,Zampones,Boulimique|male,Leckermäulchen,Gli Ingozzatori,Descontrolados,狂歡者
+TEAMNAME_NOUN_NECROMANCER0,殭屍,,Zombis,Zombies|male,Zombies,Gli Zombie,Zumbis,殭屍
+TEAMNAME_NOUN_NECROMANCER1,骷髏,,Esqueletos,Squelettes|male,Skelette,Gli Scheletri,Esqueletos,骷髏
 TEAMNAME_NOUN_NECROMANCER2,水蛭,,Chupasangres,Sangsues|female,Blutsauger,Le Sanguisughe|female,Sanguessugas,水蛭
 TEAMNAME_NOUN_NECROMANCER3,吸血鬼,,Vampiros,Suceurs|male,Absauger,I Parassiti,Sugadores,吸血鬼
-TEAMNAME_NOUN_NECROMANCER4,死猫,,Gatos Muertos,Morts-vivants|male,Toten Katzen,I Gatti Morti,Gatos Mortos,死貓
-TEAMNAME_NOUN_NECROMANCER5,尸体,,Difuntos,Carcasses|female,Leichen,I Corpi,Corpos,屍體
-TEAMNAME_NOUN_NECROMANCER6,尸体,,Cadáveres,Cadavres|male,Kadaver,I Cadaveri,Cadáveres,屍體
-TEAMNAME_NOUN_NECROMANCER7,异类,,Inadaptados,Marginaux|male,Außenseiter,Gli Emarginati,Desajustados,異類
-TEAMNAME_NOUN_NECROMANCER8,蛆虫,,Gusanos,Asticots|male,Maden,Le Larve|female,Vermes,蛆蟲
+TEAMNAME_NOUN_NECROMANCER4,死貓,,Gatos Muertos,Morts-vivants|male,Toten Katzen,I Gatti Morti,Gatos Mortos,死貓
+TEAMNAME_NOUN_NECROMANCER5,屍體,,Difuntos,Carcasses|female,Leichen,I Corpi,Corpos,屍體
+TEAMNAME_NOUN_NECROMANCER6,屍體,,Cadáveres,Cadavres|male,Kadaver,I Cadaveri,Cadáveres,屍體
+TEAMNAME_NOUN_NECROMANCER7,異類,,Inadaptados,Marginaux|male,Außenseiter,Gli Emarginati,Desajustados,異類
+TEAMNAME_NOUN_NECROMANCER8,蛆蟲,,Gusanos,Asticots|male,Maden,Le Larve|female,Vermes,蛆蟲
 TEAMNAME_NOUN_NECROMANCER9,教徒,,Sectarios,Fanatiques|male,Kultisten,I Seguaci,Cultistas,教徒
 TEAMNAME_NOUN_NECROMANCER10,鬼怪,,Espectros,Revenants|male,Gespenster,Gli Spettri,Assustados,鬼怪
-TEAMNAME_NOUN_TINKERER0,机器人,,Robots,Robots|male,Roboter,I Robot,Robôs,機器人
-TEAMNAME_NOUN_TINKERER1,科学家,,Científicos,Scientifiques|male,Wissenschaftler,Gli Scienziati,Cientistas,科學家
+TEAMNAME_NOUN_TINKERER0,機器人,,Robots,Robots|male,Roboter,I Robot,Robôs,機器人
+TEAMNAME_NOUN_TINKERER1,科學家,,Científicos,Scientifiques|male,Wissenschaftler,Gli Scienziati,Cientistas,科學家
 TEAMNAME_NOUN_TINKERER2,工人,,Trabajadores,Travailleurs|male,Arbeiter,Gli Operai,Trabalhadores,工人
 TEAMNAME_NOUN_TINKERER3,工具,,Aparatos,Outils|male,Werkzeuge,Gli Strumenti,Ferramentas,工具
-TEAMNAME_NOUN_TINKERER4,炸弹,,Explosivos,Bombes|female,Bomben,Le Bombe|female,Bombas,炸彈
+TEAMNAME_NOUN_TINKERER4,炸彈,,Explosivos,Bombes|female,Bomben,Le Bombe|female,Bombas,炸彈
 TEAMNAME_NOUN_TINKERER5,火花,,Electricistas,Étincelles|female,Funken,I Bagliori,Fagulhas,火花
-TEAMNAME_NOUN_TINKERER6,自动机,,Autómatas,Automates|male,Maschinen,Gli Automi,Autômatos,自動機
+TEAMNAME_NOUN_TINKERER6,自動機,,Autómatas,Automates|male,Maschinen,Gli Automi,Autômatos,自動機
 TEAMNAME_NOUN_TINKERER7,CPU,,Artilugios,Processeurs|male,Prozessoren,Le CPU|female,CPUs,CPU
-TEAMNAME_NOUN_TINKERER8,电池,,Circuitos,Batteries|female,Batterien,I Generatori,Pilhas,電池
-TEAMNAME_NOUN_TINKERER9,发明家,,Inventores,Inventeurs|male,Erfinder,Gli Inventori,Inventores,發明家
-TEAMNAME_NOUN_TINKERER10,书呆子,,Frikis,Nerds|male,Nerds,I Nerd,Nerds,書呆子
-TEAMNAME_NOUN_TINKERER11,极客,,Empollones,Geeks|male,Streber,I Secchioni,Geeks,極客
-TEAMNAME_NOUN_COLORLESS0,猫,,Gatos,Chats|male,Katzen,I Gatti,Gatos,貓
+TEAMNAME_NOUN_TINKERER8,電池,,Circuitos,Batteries|female,Batterien,I Generatori,Pilhas,電池
+TEAMNAME_NOUN_TINKERER9,發明家,,Inventores,Inventeurs|male,Erfinder,Gli Inventori,Inventores,發明家
+TEAMNAME_NOUN_TINKERER10,書呆子,,Frikis,Nerds|male,Nerds,I Nerd,Nerds,書呆子
+TEAMNAME_NOUN_TINKERER11,極客,,Empollones,Geeks|male,Streber,I Secchioni,Geeks,極客
+TEAMNAME_NOUN_COLORLESS0,貓,,Gatos,Chats|male,Katzen,I Gatti,Gatos,貓
 TEAMNAME_NOUN_COLORLESS1,男孩,,Fulanos,Garçons|male,Jungen,I Ragazzi,Meninos,男孩
 TEAMNAME_NOUN_COLORLESS2,女孩,,Mendas,Filles|female,Mädchen,Le Ragazze|female,Meninas,女孩
 TEAMNAME_NOUN_JESTER0,小丑,,Bromistas,Bouffons|male,Witzbolde,I Saltimbanchi,Curingas,小丑
 TEAMNAME_NOUN_JESTER1,巨魔,,Liantes,Trolls|male,Trolle,I Troll,Trolls,巨魔
-TEAMNAME_NOUN_JESTER2,孩子们,,Jóvenes,Enfants|male,Kinder,I Bimbi,Crianças,孩子們
+TEAMNAME_NOUN_JESTER2,孩子們,,Jóvenes,Enfants|male,Kinder,I Bimbi,Crianças,孩子們
 TEAMNAME_NOUN_JESTER3,明星,,Artistas,Étoiles|female,Sterne,Le Stelle|female,Estrelas,明星
-TEAMNAME_NOUN_JESTER4,喜剧演员,,Comediantes,Comiques|male,Comedians,I Comici,Comediantes,喜劇演員
+TEAMNAME_NOUN_JESTER4,喜劇演員,,Comediantes,Comiques|male,Comedians,I Comici,Comediantes,喜劇演員
 TEAMNAME_NOUN_JESTER5,小丑,,Payasos,Clowns|male,Clowns,I Clown,Palhaços,小丑
 TEAMNAME_NOUN_JESTER6,弄臣,,Bufones,Fous|male,Narren,I Buffoni,Bobos da Corte,弄臣
-TEAMNAME_NOUN_JESTER7,哑剧演员,,Mimos,Mimes|male,Pantomimen,I Mimi,Mímicos,啞劇演員
-TEAMNAME_NOUN_JESTER8,万能牌,,Comodines,Zinzolins|male,Joker,I Jolly,Curingas,萬能牌
+TEAMNAME_NOUN_JESTER7,啞劇演員,,Mimos,Mimes|male,Pantomimen,I Mimi,Mímicos,啞劇演員
+TEAMNAME_NOUN_JESTER8,萬能牌,,Comodines,Zinzolins|male,Joker,I Jolly,Curingas,萬能牌
 TEAMNAME_NOUN_JESTER9,彩虹,,Arcoíris,Arcs-en-ciel|male,Regenbögen,Gli Arcobaleni,Arcos-Íris,彩虹
-TEAMNAME_NOUN_JESTER10,巴拉特罗斯,,Augustos,Balatros|male,Balatros,I Ciarlatani,Bufões,巴拉特羅斯
+TEAMNAME_NOUN_JESTER10,巴拉特羅斯,,Augustos,Balatros|male,Balatros,I Ciarlatani,Bufões,巴拉特羅斯
 TEAMNAME_NOUN_JESTER11,笨蛋,,Idiotas,Guignols|male,Dussel,I Pagliacci,Bozos,笨蛋
-TEAMNAME_NOUN_MISC0,伙计们,,Tipos,Types|male,Kerle,I Tipi,Caras,夥計們
-TEAMNAME_NOUN_MISC1,单数|队伍,,Socios,Coéquipiers|male,Teamplayer,Le Squadre|female,singular|Equipe,單數|隊伍
-TEAMNAME_NOUN_MISC2,猫,,Gatos,Chats|male,Katzen,I Gatti,Gatos,貓
-TEAMNAME_NOUN_MISC3,单数|帮派,,Colegas,Gangsters|male,Grobiane,Gli Schieramenti,singular|Gangue,單數|幫派
-TEAMNAME_NOUN_MISC4,小猫,,Gatitos,Chatons|male,Kätzchen,I Gattini,Gatinhos,小貓
-TEAMNAME_NOUN_MISC5,猫咪,,Mininos,Chattes|female,Muschis,Le Gattine|female,Filhotinhos de Gato,貓咪
+TEAMNAME_NOUN_MISC0,夥計們,,Tipos,Types|male,Kerle,I Tipi,Caras,夥計們
+TEAMNAME_NOUN_MISC1,單數|隊伍,,Socios,Coéquipiers|male,Teamplayer,Le Squadre|female,singular|Equipe,單數|隊伍
+TEAMNAME_NOUN_MISC2,貓,,Gatos,Chats|male,Katzen,I Gatti,Gatos,貓
+TEAMNAME_NOUN_MISC3,單數|幫派,,Colegas,Gangsters|male,Grobiane,Gli Schieramenti,singular|Gangue,單數|幫派
+TEAMNAME_NOUN_MISC4,小貓,,Gatitos,Chatons|male,Kätzchen,I Gattini,Gatinhos,小貓
+TEAMNAME_NOUN_MISC5,貓咪,,Mininos,Chattes|female,Muschis,Le Gattine|female,Filhotinhos de Gato,貓咪
 TEAMNAME_NOUN_MISC6,毛球,,Michinos,Boules de poils|female,Fellknäuel,I Pelosetti,Bolas de Pelo,毛球
-TEAMNAME_NOUN_MISC7,蓬松者,,Félidos,Poilus|male,Fluffis,I Morbidoni,Velas,蓬鬆者
-TEAMNAME_NOUN_MISC8,召猫者,,Llamagatos,Coquettes|female,Schnatterer,I Fischiatori,Conquistadores,召貓者
-TEAMNAME_NOUN_MISC9,加托斯,,Felinos,Gatos|male,Gatos,I Gatos,Gatitos,加託斯
+TEAMNAME_NOUN_MISC7,蓬鬆者,,Félidos,Poilus|male,Fluffis,I Morbidoni,Velas,蓬鬆者
+TEAMNAME_NOUN_MISC8,召貓者,,Llamagatos,Coquettes|female,Schnatterer,I Fischiatori,Conquistadores,召貓者
+TEAMNAME_NOUN_MISC9,加託斯,,Felinos,Gatos|male,Gatos,I Gatos,Gatitos,加託斯

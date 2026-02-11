@@ -1,30 +1,30 @@
 KEY,en,notes,sp,fr,de,it,pt-br,zh
-KEYWORD_DEHYDRATED_NAME,热浪,,Ola de calor,Vague de chaleur,Hitzewelle,Ondata di calore,Onda de Calor,熱浪
-KEYWORD_DEHYDRATED_DESC,治疗效果减少1。战斗后不恢复生命值。可用水缓解。,,Las curaciones se reducen en 1. No se cura tras los combates. Se puede mitigar con agua.,Les soins sont réduits de 1. Aucune régénération de PV après le combat. Peut être dissipé avec de l'eau.,Heilungen sind um 1 reduziert. Heilt sich nach dem Kampf nicht. Kann durch Wasser entfernt werden.,Le cure sono ridotte di 1. Non ci si cura dopo la battaglia. Può essere mitigato con l'acqua.,Curas são reduzidas em 1. Não se cura após a batalha. Pode ser mitigada com água.,治療效果減少1。戰鬥後不恢復生命值。可用水緩解。
+KEYWORD_DEHYDRATED_NAME,熱浪,,Ola de calor,Vague de chaleur,Hitzewelle,Ondata di calore,Onda de Calor,熱浪
+KEYWORD_DEHYDRATED_DESC,治療效果減少1。戰鬥後不恢復生命值。可用水緩解。,,Las curaciones se reducen en 1. No se cura tras los combates. Se puede mitigar con agua.,Les soins sont réduits de 1. Aucune régénération de PV après le combat. Peut être dissipé avec de l'eau.,Heilungen sind um 1 reduziert. Heilt sich nach dem Kampf nicht. Kann durch Wasser entfernt werden.,Le cure sono ridotte di 1. Non ci si cura dopo la battaglia. Può essere mitigato con l'acqua.,Curas são reduzidas em 1. Não se cura após a batalha. Pode ser mitigada com água.,治療效果減少1。戰鬥後不恢復生命值。可用水緩解。
 ,,,,,,,,
 DEBUG_TEST_GERMAN_WORDWRAPPING,WWWW&nbsp;WWW[img:str]WWWW WWWWWWWW,"you dont need to localize this, this was just for testing stuff",WWWW&nbsp;WWW[img:str]WWWW WWWWWWWW,WWWW&nbsp;WWW[img:str]WWWW WWWWWWWW,,WWW&nbsp;WWW[img:str]WWWW WWWWWWWWW,WWW&nbsp;WWW[img:str]WWWW WWWWWWWWW,WWWW&nbsp;WWW[img:str]WWWW WWWWWWWW
 ,,,,,,,,
-ADVENTURE_BOX_LABEL,[b]冒险[/b],"this is drawn art in english, and a text box in other languages",[b]Aventura[/b],[b]Aventure[/b],[b]Abenteuer[/b],[b]Avventura[/b],[b]Aventura[/b],[b]冒險[/b]
+ADVENTURE_BOX_LABEL,[b]冒險[/b],"this is drawn art in english, and a text box in other languages",[b]Aventura[/b],[b]Aventure[/b],[b]Abenteuer[/b],[b]Avventura[/b],[b]Aventura[/b],[b]冒險[/b]
 ,,,,,,,,
-EVENT_GENIE_CHOICE_WEALTH,财富！,,,La richesse&nbsp;!,Reichtum!,Ricchezza!,Riqueza!,財富！
-EVENT_GENIE_CHOICE_LOOKS,外观！,,,La beauté&nbsp;!,Aussehen!,Aspetto!,Beleza!,外觀！
+EVENT_GENIE_CHOICE_WEALTH,財富！,,,La richesse&nbsp;!,Reichtum!,Ricchezza!,Riqueza!,財富！
+EVENT_GENIE_CHOICE_LOOKS,外觀！,,,La beauté&nbsp;!,Aussehen!,Aspetto!,Beleza!,外觀！
 EVENT_GENIE_CHOICE_POWER,力量！,,,Le pouvoir&nbsp;!,Macht!,Potere!,Poder!,力量！
-EVENT_GENIE_CHOICE_CURSEMIND,诅咒心灵,,,Malédiction de l'esprit,Deinen Geist verfluchen,Maledizione della mente,Amaldiçoar mente,詛咒心靈
-EVENT_GENIE_CHOICE_CURSEBODY,诅咒身体,,,Malédiction du corps,Deinen Körper verfluchen,Maledizione del corpo,Amaldiçoar corpo,詛咒身體
-EVENT_GENIE_CHOICE_CURSESOUL,诅咒灵魂,,,Malédiction de l'âme,Deine Seele verfluchen,Maledizione dell'anima,Amaldiçoar alma,詛咒靈魂
+EVENT_GENIE_CHOICE_CURSEMIND,詛咒心靈,,,Malédiction de l'esprit,Deinen Geist verfluchen,Maledizione della mente,Amaldiçoar mente,詛咒心靈
+EVENT_GENIE_CHOICE_CURSEBODY,詛咒身體,,,Malédiction du corps,Deinen Körper verfluchen,Maledizione del corpo,Amaldiçoar corpo,詛咒身體
+EVENT_GENIE_CHOICE_CURSESOUL,詛咒靈魂,,,Malédiction de l'âme,Deine Seele verfluchen,Maledizione dell'anima,Amaldiçoar alma,詛咒靈魂
 ,,,,,,,,
-POPUP_SWITCH_LANGUAGE_INGAME_WARNING,某些文本可能在重新启动游戏前不会更新为新语言。,,Es posible que algunos textos no se actualicen al nuevo idioma hasta que reinicies el juego.,Il se peut que certains textes ne changent qu'après avoir redémarré le jeu.,"Starte das Spiel neu, um alle Texte zu aktualisieren.",Alcuni testi potrebbero non aggiornarsi alla nuova lingua finché non riavvii il gioco.,Partes do texto podem não ser atualizadas para o novo idioma até que você reinicie o jogo.,某些文本可能在重新啓動遊戲前不會更新爲新語言。
+POPUP_SWITCH_LANGUAGE_INGAME_WARNING,某些文本可能在重新啓動遊戲前不會更新爲新語言。,,Es posible que algunos textos no se actualicen al nuevo idioma hasta que reinicies el juego.,Il se peut que certains textes ne changent qu'après avoir redémarré le jeu.,"Starte das Spiel neu, um alle Texte zu aktualisieren.",Alcuni testi potrebbero non aggiornarsi alla nuova lingua finché non riavvii il gioco.,Partes do texto podem não ser atualizadas para o novo idioma até que você reinicie o jogo.,某些文本可能在重新啓動遊戲前不會更新爲新語言。
 ,,,,,,,,
-TOOLTIP_HINT_UNCOMPLETABLE_QUEST_LABEL,有些东西丢失了...,,,Il manque quelque chose...,Etwas fehlt hier&nbsp;…,Manca qualcosa...,Algo está faltando...,有些東西丟失了...
-TOOLTIP_HINT_UNCOMPLETABLE_QUEST_DESC,你当前没有完成此任务的手段。,,,Vous ne pouvez pas effectuer cette quête pour le moment.,Du kannst diese Quest momentan nicht abschließen.,Al momento non hai i mezzi per completare questa missione.,Você não possui os meios para concluir esta missão neste momento.,你當前沒有完成此任務的手段。
+TOOLTIP_HINT_UNCOMPLETABLE_QUEST_LABEL,有些東西丟失了...,,,Il manque quelque chose...,Etwas fehlt hier&nbsp;…,Manca qualcosa...,Algo está faltando...,有些東西丟失了...
+TOOLTIP_HINT_UNCOMPLETABLE_QUEST_DESC,你當前沒有完成此任務的手段。,,,Vous ne pouvez pas effectuer cette quête pour le moment.,Du kannst diese Quest momentan nicht abschließen.,Al momento non hai i mezzi per completare questa missione.,Você não possui os meios para concluir esta missão neste momento.,你當前沒有完成此任務的手段。
 ,,,,,,,,
-EVENT_MYSTERIOUSTENT_PROMPT,进入商店,,,Accès boutique,Shop betreten,Entra nel negozio,Entrar na loja,進入商店
-EVENT_TRACY_REW3B,[i]“这里，吃点东西。”[/i],,,"[i]«&nbsp;Tiens, de quoi manger.&nbsp;»[/i]","[i]„Hier, ein bisschen Futter.“[/i]","[i]""Ecco, prendi del cibo.""[/i]","[i]""Aqui, tome um pouco de comida.""[/i]",[i]“這裏，喫點東西。”[/i]
+EVENT_MYSTERIOUSTENT_PROMPT,進入商店,,,Accès boutique,Shop betreten,Entra nel negozio,Entrar na loja,進入商店
+EVENT_TRACY_REW3B,[i]“這裏，喫點東西。”[/i],,,"[i]«&nbsp;Tiens, de quoi manger.&nbsp;»[/i]","[i]„Hier, ein bisschen Futter.“[/i]","[i]""Ecco, prendi del cibo.""[/i]","[i]""Aqui, tome um pouco de comida.""[/i]",[i]“這裏，喫點東西。”[/i]
 ,,,,,,,,
-QEVENT_STACYMUTANT1_NAME,斯泰西实验,,,Expérience Stacy,Stacys Experiment,Esperimento di Stacy,Experimento de Stacy,斯泰西實驗
-QEVENT_STACYMUTANT1_QUES1,"{catname} 发现了一台带有多个按钮的大型机器。
+QEVENT_STACYMUTANT1_NAME,斯泰西實驗,,,Expérience Stacy,Stacys Experiment,Esperimento di Stacy,Experimento de Stacy,斯泰西實驗
+QEVENT_STACYMUTANT1_QUES1,"{catname} 發現了一臺帶有多個按鈕的大型機器。
 
-透过透明的窗户，{he} 看到一只带有额外头部的奇怪猫咪。",First time seeing event only.,,"{catname} découvre une grande machine dotée d'un tas de boutons.
+透過透明的窗戶，{he} 看到一隻帶有額外頭部的奇怪貓咪。",First time seeing event only.,,"{catname} découvre une grande machine dotée d'un tas de boutons.
 
 À travers la fenêtre transparente, {he} aperçoit un étrange chat avec une tête supplémentaire.","{catname} findet eine große Maschine mit mehreren Knöpfen.
 
@@ -37,9 +37,9 @@ Através da janela transparente, é possível ver um gato estranho com uma cabe�
 透過透明的窗戶，{he} 看到一隻帶有額外頭部的奇怪貓咪。"
 QEVENT_STACYMUTANT1_QUES1_M,,,,,,,,
 QEVENT_STACYMUTANT1_QUES1_F,,,,,,,,
-QEVENT_STACYMUTANT1_QUES1_N,"{catname} 发现了一台带有多个按钮的大型机器。
+QEVENT_STACYMUTANT1_QUES1_N,"{catname} 發現了一臺帶有多個按鈕的大型機器。
 
-透过透明的窗户，他们看到一只带有额外头部的奇怪猫咪。",,,"{catname} découvre une grande machine dotée d'un tas de boutons.
+透過透明的窗戶，他們看到一隻帶有額外頭部的奇怪貓咪。",,,"{catname} découvre une grande machine dotée d'un tas de boutons.
 
 À travers la fenêtre transparente, iel aperçoit un étrange chat avec une tête supplémentaire.","{catname} findet eine große Maschine mit mehreren Knöpfen.
 
@@ -48,9 +48,9 @@ Durch das Fenster ist eine komische Katze mit zwei Köpfen zu sehen.","{catname}
 Attraverso la finestra trasparente vede uno strano gatto con una testa in più.",,"{catname} 發現了一臺帶有多個按鈕的大型機器。
 
 透過透明的窗戶，他們看到一隻帶有額外頭部的奇怪貓咪。"
-QEVENT_STACYMUTANT1_QUES2,"{catname} 靠近机器，考虑{his}的选择。
+QEVENT_STACYMUTANT1_QUES2,"{catname} 靠近機器，考慮{his}的選擇。
 
-应该给斯泰西克隆体带来什么身体变异？",,,"{catname} s'approche de la machine et soupèse ses options.
+應該給斯泰西克隆體帶來什麼身體變異？",,,"{catname} s'approche de la machine et soupèse ses options.
 
 Quelle mutation corporelle devrait-{he} donner au clone de Stacy&nbsp;?","{catname} nähert sich der Maschine und fragt sich, was {he} tun soll.
 
@@ -64,10 +64,10 @@ Qual mutação corporal será dada ao clone de Stacy?","{catname} 靠近機器�
 QEVENT_STACYMUTANT1_QUES2_M,,,,,,,,
 QEVENT_STACYMUTANT1_QUES2_F,,,,,,,,
 QEVENT_STACYMUTANT1_QUES2_N,,,,,,,,
-QEVENT_STACYMUTANT1_ANSW1,荆棘,,,Épines,Dornen,Spine,Espinhos,荊棘
-QEVENT_STACYMUTANT1_REW1,"一个机械臂挥下，注射了克隆体。
+QEVENT_STACYMUTANT1_ANSW1,荊棘,,,Épines,Dornen,Spine,Espinhos,荊棘
+QEVENT_STACYMUTANT1_REW1,"一個機械臂揮下，注射了克隆體。
 
-荆棘从猫的皮肤中冒出！",,,"Un bras robotique s'abaisse et injecte le clone.
+荊棘從貓的皮膚中冒出！",,,"Un bras robotique s'abaisse et injecte le clone.
 
 Des épines jaillissent à travers la peau du chat&nbsp;!","Ein Roboterarm fährt herunter und verpasst dem Klon eine Spritze.
 
@@ -81,15 +81,15 @@ Espinhos irrompem pela pele do gato!","一個機械臂揮下，注射了克隆�
 QEVENT_STACYMUTANT1_REW1_M,,,,,,,,
 QEVENT_STACYMUTANT1_REW1_F,,,,,,,,
 QEVENT_STACYMUTANT1_REW1_N,,,,,,,,
-QEVENT_STACYMUTANT1_ANSW2,蓄势待发,,,Garde,Wappnen,Guardia,Preparação,蓄勢待發
-QEVENT_STACYMUTANT1_REW2,一个机械臂挥下，注射了克隆体，赋予它[ Brace ]！,,,"Un bras robotique s'abaisse et pique le clone, lui conférant Garde&nbsp;!",Ein Roboterarm fährt herunter und verpasst dem Klon eine Spritze. Er verfügt jetzt über Wappnen!,"Compare un braccio robotico che inietta qualcosa al clone, che ora ha Guardia!","Um braço robótico desce e injeta algo no clone, concedendo preparação!",一個機械臂揮下，注射了克隆體，賦予它[ Brace ]！
+QEVENT_STACYMUTANT1_ANSW2,蓄勢待發,,,Garde,Wappnen,Guardia,Preparação,蓄勢待發
+QEVENT_STACYMUTANT1_REW2,一個機械臂揮下，注射了克隆體，賦予它[ Brace ]！,,,"Un bras robotique s'abaisse et pique le clone, lui conférant Garde&nbsp;!",Ein Roboterarm fährt herunter und verpasst dem Klon eine Spritze. Er verfügt jetzt über Wappnen!,"Compare un braccio robotico che inietta qualcosa al clone, che ora ha Guardia!","Um braço robótico desce e injeta algo no clone, concedendo preparação!",一個機械臂揮下，注射了克隆體，賦予它[ Brace ]！
 QEVENT_STACYMUTANT1_REW2_M,,,,,,,,
 QEVENT_STACYMUTANT1_REW2_F,,,,,,,,
 QEVENT_STACYMUTANT1_REW2_N,,,,,,,,
-QEVENT_STACYMUTANT1_ANSW3,圣盾,,,Défense divine,Heiliger Schild,Scudo Sacro,Escudo sagrado,聖盾
-QEVENT_STACYMUTANT1_REW3,"一个机械臂挥下，注射了克隆体...
+QEVENT_STACYMUTANT1_ANSW3,聖盾,,,Défense divine,Heiliger Schild,Scudo Sacro,Escudo sagrado,聖盾
+QEVENT_STACYMUTANT1_REW3,"一個機械臂揮下，注射了克隆體...
 
-它开始散发出圣盾的光环！",,,"Un bras robotique s’abaisse et injecte le clone...
+它開始散發出聖盾的光環！",,,"Un bras robotique s’abaisse et injecte le clone...
 
 L'aura d’un bouclier sacré le fait scintiller&nbsp;!","Ein Roboterarm fährt herunter und verpasst dem Klon eine Spritze&nbsp;…
 
@@ -103,10 +103,10 @@ Ele começa a brilhar com a aura de um escudo sagrado!","一個機械臂揮下�
 QEVENT_STACYMUTANT1_REW3_M,,,,,,,,
 QEVENT_STACYMUTANT1_REW3_F,,,,,,,,
 QEVENT_STACYMUTANT1_REW3_N,,,,,,,,
-QEVENT_STACYMUTANT1_ANSW4,不，谢谢,,,Non merci,"Nein, danke","No, grazie","Não, obrigado",不，謝謝
-QEVENT_STACYMUTANT1_REW4,"{catname}拉动杠杆跳过，机器向{him}发出响亮的哔声。
+QEVENT_STACYMUTANT1_ANSW4,不，謝謝,,,Non merci,"Nein, danke","No, grazie","Não, obrigado",不，謝謝
+QEVENT_STACYMUTANT1_REW4,"{catname}拉動槓桿跳過，機器向{him}發出響亮的嗶聲。
 
-一个机械臂挥下，注射了{catname}！",,,"{catname} tire le levier pour passer, puis la machine émet un bip strident.
+一個機械臂揮下，注射了{catname}！",,,"{catname} tire le levier pour passer, puis la machine émet un bip strident.
 
 Un bras robotique s'abaisse et pique {catname}&nbsp;!","{catname} betätigt den Schalter zum Überspringen und die Maschine piepst laut auf.
 
@@ -120,19 +120,19 @@ Um braço robótico desce e injeta algo em {catname}!","{catname}拉動槓桿跳
 QEVENT_STACYMUTANT1_REW4_M,,,,,,,,
 QEVENT_STACYMUTANT1_REW4_F,,,,,,,,
 QEVENT_STACYMUTANT1_REW4_N,,,,,,,,
-QEVENT_STACYMUTANT1_REW4_B,{catname}中毒了，感觉不适...,,,{catname} s'est fait empoisonner. {He} se sent malade...,{catname} wurde vergiftet&nbsp;…,Il veleno è entrato nel flusso sanguigno di {catname} che si sente male...,{catname} se envenenou e se sente doente...,{catname}中毒了，感覺不適...
+QEVENT_STACYMUTANT1_REW4_B,{catname}中毒了，感覺不適...,,,{catname} s'est fait empoisonner. {He} se sent malade...,{catname} wurde vergiftet&nbsp;…,Il veleno è entrato nel flusso sanguigno di {catname} che si sente male...,{catname} se envenenou e se sente doente...,{catname}中毒了，感覺不適...
 QEVENT_STACYMUTANT1_REW4_B_M,,,,,,,,
 QEVENT_STACYMUTANT1_REW4_B_F,,,,,,,,
 QEVENT_STACYMUTANT1_REW4_B_N,,,,,,,,
-QEVENT_STACYMUTANT2_NAME,斯泰西实验,,,Expérience Stacy,Stacys Experiment,Esperimento di Stacy,Experimento de Stacy,斯泰西實驗
-QEVENT_STACYMUTANT2_QUES,机器向{catname}展示带有元素符号的按钮。,,,La machine présente à {catname} des boutons ornés de symboles élémentaires.,Auf der Maschine befinden sich Knöpfe mit Elementarsymbolen.,La macchina davanti a {catname} ha dei pulsanti con simboli elementali.,A máquina apresenta botões com símbolos de elementos para {catname}.,機器向{catname}展示帶有元素符號的按鈕。
+QEVENT_STACYMUTANT2_NAME,斯泰西實驗,,,Expérience Stacy,Stacys Experiment,Esperimento di Stacy,Experimento de Stacy,斯泰西實驗
+QEVENT_STACYMUTANT2_QUES,機器向{catname}展示帶有元素符號的按鈕。,,,La machine présente à {catname} des boutons ornés de symboles élémentaires.,Auf der Maschine befinden sich Knöpfe mit Elementarsymbolen.,La macchina davanti a {catname} ha dei pulsanti con simboli elementali.,A máquina apresenta botões com símbolos de elementos para {catname}.,機器向{catname}展示帶有元素符號的按鈕。
 QEVENT_STACYMUTANT2_QUES_M,,,,,,,,
 QEVENT_STACYMUTANT2_QUES_F,,,,,,,,
 QEVENT_STACYMUTANT2_QUES_N,,,,,,,,
 QEVENT_STACYMUTANT2_ANSW1,火,,,Feu,Feuer,Fuoco,Fogo,火
-QEVENT_STACYMUTANT2_REW1,"机器注射克隆体...
+QEVENT_STACYMUTANT2_REW1,"機器注射克隆體...
 
-它的毛发变成绯红色，头顶出现了火焰球！",,,"La machine pique le clone...
+它的毛髮變成緋紅色，頭頂出現了火焰球！",,,"La machine pique le clone...
 
 Son pelage devient cramoisi et un orbe enflammé apparaît au-dessus de sa tête&nbsp;!","Die Maschine verpasst dem Klon eine Spritze&nbsp;…
 
@@ -147,55 +147,55 @@ QEVENT_STACYMUTANT2_REW1_M,,,,,,,,
 QEVENT_STACYMUTANT2_REW1_F,,,,,,,,
 QEVENT_STACYMUTANT2_REW1_N,,,,,,,,
 QEVENT_STACYMUTANT2_ANSW2,冰,,,Glace,Eis,Ghiaccio,Gelo,冰
-QEVENT_STACYMUTANT2_REW2,克隆体变成冰蓝色，被注入元素冰！,,,Le clone devient tout bleu quand il est imprégné de l'élément glace&nbsp;!,"Der Klon wird eisblau, als die Maschine ihm Eiselement spritzt!",Il clone diventa di colore blu ghiaccio dopo l'infusione di ghiaccio elementale!,O clone fica azul gelo ao ser infundido com gelo elemental!,克隆體變成冰藍色，被注入元素冰！
+QEVENT_STACYMUTANT2_REW2,克隆體變成冰藍色，被注入元素冰！,,,Le clone devient tout bleu quand il est imprégné de l'élément glace&nbsp;!,"Der Klon wird eisblau, als die Maschine ihm Eiselement spritzt!",Il clone diventa di colore blu ghiaccio dopo l'infusione di ghiaccio elementale!,O clone fica azul gelo ao ser infundido com gelo elemental!,克隆體變成冰藍色，被注入元素冰！
 QEVENT_STACYMUTANT2_REW2_M,,,,,,,,
 QEVENT_STACYMUTANT2_REW2_F,,,,,,,,
 QEVENT_STACYMUTANT2_REW2_N,,,,,,,,
-QEVENT_STACYMUTANT2_ANSW3,闪电,,,Éclair,Blitz,Fulmini,Eletricidade,閃電
-QEVENT_STACYMUTANT2_REW3,闪电火花在克隆体的毛发中闪烁！,,,Des étincelles de foudre parcourent le pelage du clone&nbsp;!,Winzige Funken blitzen im Fell des Klons auf!,Scintille di fulmini attraversano la pelliccia del clone!,Faíscas cintilam pela pelagem do clone!,閃電火花在克隆體的毛髮中閃爍！
+QEVENT_STACYMUTANT2_ANSW3,閃電,,,Éclair,Blitz,Fulmini,Eletricidade,閃電
+QEVENT_STACYMUTANT2_REW3,閃電火花在克隆體的毛髮中閃爍！,,,Des étincelles de foudre parcourent le pelage du clone&nbsp;!,Winzige Funken blitzen im Fell des Klons auf!,Scintille di fulmini attraversano la pelliccia del clone!,Faíscas cintilam pela pelagem do clone!,閃電火花在克隆體的毛髮中閃爍！
 QEVENT_STACYMUTANT2_REW3_M,,,,,,,,
 QEVENT_STACYMUTANT2_REW3_F,,,,,,,,
 QEVENT_STACYMUTANT2_REW3_N,,,,,,,,
-QEVENT_STACYMUTANT2_ANSW4,不，谢谢,,,Non merci,"Nein, danke","No, grazie","Não, obrigado",不，謝謝
-QEVENT_STACYMUTANT2_REW4,{catname}拉动终止杠杆，机器改为注射{him}！,,,{catname} tire le levier d'abandon et se fait piquer par la machine à la place&nbsp;!,{catname} betätigt den Schalter zum abbrechen und die Maschine wählt {him} als neues Ziel!,{catname} tira la leva per annullare e subisce un'iniezione da parte della macchina!,{catname} puxa a alavanca de abortar e a máquina injeta algo em seu próprio corpo!,{catname}拉動終止槓桿，機器改爲注射{him}！
+QEVENT_STACYMUTANT2_ANSW4,不，謝謝,,,Non merci,"Nein, danke","No, grazie","Não, obrigado",不，謝謝
+QEVENT_STACYMUTANT2_REW4,{catname}拉動終止槓桿，機器改爲注射{him}！,,,{catname} tire le levier d'abandon et se fait piquer par la machine à la place&nbsp;!,{catname} betätigt den Schalter zum abbrechen und die Maschine wählt {him} als neues Ziel!,{catname} tira la leva per annullare e subisce un'iniezione da parte della macchina!,{catname} puxa a alavanca de abortar e a máquina injeta algo em seu próprio corpo!,{catname}拉動終止槓桿，機器改爲注射{him}！
 QEVENT_STACYMUTANT2_REW4_M,,,,,,,,
 QEVENT_STACYMUTANT2_REW4_F,,,,,,,,
 QEVENT_STACYMUTANT2_REW4_N,,,,,,,,
-QEVENT_STACYMUTANT3_NAME,斯泰西实验,,,Expérience Stacy,Stacys Experiment,Esperimento di Stacy,Experimento de Stacy,斯泰西實驗
-QEVENT_STACYMUTANT3_QUES,透过窗户，克隆体兴奋地咕噜着，机器向{catname}展示属性修改按钮...,,,Le clone derrière la vitre ronronne d'excitation tandis que la machine présente à {catname} des boutons de modification de caractéristiques...,"Der Klon hinter dem Fenster schnurrt gespannt, als die Maschine {catname} verschiedene Knöpfe für die Modifikation von Attributen präsentiert&nbsp;…",Il clone dall'altra parte del vetro fa le fusa per l'emozione mentre la macchina propone a {catname} dei pulsanti di modifica delle statistiche...,O clone do outro lado da janela ronrona de excitação enquanto a máquina apresenta a {catname} botões de modificação de atributos...,透過窗戶，克隆體興奮地咕嚕着，機器向{catname}展示屬性修改按鈕...
+QEVENT_STACYMUTANT3_NAME,斯泰西實驗,,,Expérience Stacy,Stacys Experiment,Esperimento di Stacy,Experimento de Stacy,斯泰西實驗
+QEVENT_STACYMUTANT3_QUES,透過窗戶，克隆體興奮地咕嚕着，機器向{catname}展示屬性修改按鈕...,,,Le clone derrière la vitre ronronne d'excitation tandis que la machine présente à {catname} des boutons de modification de caractéristiques...,"Der Klon hinter dem Fenster schnurrt gespannt, als die Maschine {catname} verschiedene Knöpfe für die Modifikation von Attributen präsentiert&nbsp;…",Il clone dall'altra parte del vetro fa le fusa per l'emozione mentre la macchina propone a {catname} dei pulsanti di modifica delle statistiche...,O clone do outro lado da janela ronrona de excitação enquanto a máquina apresenta a {catname} botões de modificação de atributos...,透過窗戶，克隆體興奮地咕嚕着，機器向{catname}展示屬性修改按鈕...
 QEVENT_STACYMUTANT3_QUES_M,,,,,,,,
 QEVENT_STACYMUTANT3_QUES_F,,,,,,,,
 QEVENT_STACYMUTANT3_QUES_N,,,,,,,,
 QEVENT_STACYMUTANT3_ANSW1,生命值提升，速度降低,,,Santé (+) & Vitesse (-),"Gesundheit hoch, Geschwindigkeit runter","Salute +, Velocità -","Saúde aumentada, velocidade diminuída",生命值提升，速度降低
-QEVENT_STACYMUTANT3_REW1,克隆体已被改造为生命值提升和速度降低！,,,Le clone gagne en santé et perd en vitesse&nbsp;!,Die Gesundheit des Klons wurde erhöht und seine Geschwindigkeit verringert!,Il clone ha subito una modifica: ora ha Salute + e Velocità -!,O clone foi modificado para obter saúde aumentada e velocidade diminuída!,克隆體已被改造爲生命值提升和速度降低！
+QEVENT_STACYMUTANT3_REW1,克隆體已被改造爲生命值提升和速度降低！,,,Le clone gagne en santé et perd en vitesse&nbsp;!,Die Gesundheit des Klons wurde erhöht und seine Geschwindigkeit verringert!,Il clone ha subito una modifica: ora ha Salute + e Velocità -!,O clone foi modificado para obter saúde aumentada e velocidade diminuída!,克隆體已被改造爲生命值提升和速度降低！
 QEVENT_STACYMUTANT3_REW1_M,,,,,,,,
 QEVENT_STACYMUTANT3_REW1_F,,,,,,,,
 QEVENT_STACYMUTANT3_REW1_N,,,,,,,,
-QEVENT_STACYMUTANT3_ANSW2,伤害提升，生命值降低,,,Dégâts (+) & Santé (-),"Schaden hoch, Gesundheit runter","Danno +, Salute -","Dano aumentado, saúde diminuída",傷害提升，生命值降低
-QEVENT_STACYMUTANT3_REW2,克隆体已被改造为伤害提升和生命值降低！,,,Le clone gagne en dégâts et perd en santé&nbsp;!,Der Schaden des Klons wurde erhöht und seine Gesundheit verringert!,Il clone ha subito una modifica: ora ha Danno + e Salute -!,O clone foi modificado para obter dano aumentado e saúde diminuída!,克隆體已被改造爲傷害提升和生命值降低！
+QEVENT_STACYMUTANT3_ANSW2,傷害提升，生命值降低,,,Dégâts (+) & Santé (-),"Schaden hoch, Gesundheit runter","Danno +, Salute -","Dano aumentado, saúde diminuída",傷害提升，生命值降低
+QEVENT_STACYMUTANT3_REW2,克隆體已被改造爲傷害提升和生命值降低！,,,Le clone gagne en dégâts et perd en santé&nbsp;!,Der Schaden des Klons wurde erhöht und seine Gesundheit verringert!,Il clone ha subito una modifica: ora ha Danno + e Salute -!,O clone foi modificado para obter dano aumentado e saúde diminuída!,克隆體已被改造爲傷害提升和生命值降低！
 QEVENT_STACYMUTANT3_REW2_M,,,,,,,,
 QEVENT_STACYMUTANT3_REW2_F,,,,,,,,
 QEVENT_STACYMUTANT3_REW2_N,,,,,,,,
-QEVENT_STACYMUTANT3_ANSW3,速度提升，伤害降低,,,Vitesse (+) & Dégâts (-),"Geschwindigkeit hoch, Schaden runter","Velocità +, Danno -","Velocidade aumentada, dano diminuído",速度提升，傷害降低
-QEVENT_STACYMUTANT3_REW3,克隆体获得了速度提升和伤害降低！,,,Le clone gagne en vitesse et perd en dégâts&nbsp;!,Die Geschwindigkeit des Klons wurde erhöht und sein Schaden verringert!,Il clone ha subito una modifica: ora ha Velocità + e Danno -!,O clone foi modificado para obter velocidade aumentada e dano diminuído!,克隆體獲得了速度提升和傷害降低！
+QEVENT_STACYMUTANT3_ANSW3,速度提升，傷害降低,,,Vitesse (+) & Dégâts (-),"Geschwindigkeit hoch, Schaden runter","Velocità +, Danno -","Velocidade aumentada, dano diminuído",速度提升，傷害降低
+QEVENT_STACYMUTANT3_REW3,克隆體獲得了速度提升和傷害降低！,,,Le clone gagne en vitesse et perd en dégâts&nbsp;!,Die Geschwindigkeit des Klons wurde erhöht und sein Schaden verringert!,Il clone ha subito una modifica: ora ha Velocità + e Danno -!,O clone foi modificado para obter velocidade aumentada e dano diminuído!,克隆體獲得了速度提升和傷害降低！
 QEVENT_STACYMUTANT3_REW3_M,,,,,,,,
 QEVENT_STACYMUTANT3_REW3_F,,,,,,,,
 QEVENT_STACYMUTANT3_REW3_N,,,,,,,,
-QEVENT_STACYMUTANT3_ANSW4,不，谢谢,,,Non merci,"Nein, danke","No, grazie","Não, obrigado",不，謝謝
-QEVENT_STACYMUTANT3_REW4,机器注射了{catname}。[He]在全身被撕裂破碎时尖叫着！,,,La machine pique {catname}. {He} hurle de douleur tandis que son corps tout entier se retrouve déchiqueté&nbsp;!,"Die Maschine spritzt {catname} eine Flüssigkeit. {He} jault laut auf, als {his} gesamter Körper auseinandergerissen wird!",La macchina inietta qualcosa a {catname} che urla di dolore mentre il suo intero corpo viene lacerato!,"A máquina injeta algo em {catname}, que grita de dor enquanto seu corpo inteiro é dilacerado e quebrado!",機器注射了{catname}。[He]在全身被撕裂破碎時尖叫着！
+QEVENT_STACYMUTANT3_ANSW4,不，謝謝,,,Non merci,"Nein, danke","No, grazie","Não, obrigado",不，謝謝
+QEVENT_STACYMUTANT3_REW4,機器注射了{catname}。[He]在全身被撕裂破碎時尖叫着！,,,La machine pique {catname}. {He} hurle de douleur tandis que son corps tout entier se retrouve déchiqueté&nbsp;!,"Die Maschine spritzt {catname} eine Flüssigkeit. {He} jault laut auf, als {his} gesamter Körper auseinandergerissen wird!",La macchina inietta qualcosa a {catname} che urla di dolore mentre il suo intero corpo viene lacerato!,"A máquina injeta algo em {catname}, que grita de dor enquanto seu corpo inteiro é dilacerado e quebrado!",機器注射了{catname}。[He]在全身被撕裂破碎時尖叫着！
 QEVENT_STACYMUTANT3_REW4_M,,,,,,,,
 QEVENT_STACYMUTANT3_REW4_F,,,,,,,,
-QEVENT_STACYMUTANT3_REW4_N,机器注射了{catname}。他们在全身被撕裂破碎时尖叫着！,,,La machine pique {catname}. Iel hurle de douleur tandis que son corps tout entier se retrouve déchiqueté&nbsp;!,Die Maschine spritzt {catname} eine Flüssigkeit. {catname} jault vor Schmerzen laut auf!,La macchina inietta qualcosa a {catname} che urla di dolore mentre il suo intero corpo viene lacerato!,,機器注射了{catname}。他們在全身被撕裂破碎時尖叫着！
-QEVENT_STACYMUTANT4_NAME,斯泰西实验,,,Expérience Stacy,Stacys Experiment,Esperimento di Stacy,Experimento de Stacy,斯泰西實驗
-QEVENT_STACYMUTANT4_QUES,克隆体变异的最终阶段到了。{catname}必须选择一种头部变异！,,,La phase finale de mutation du clone est là. {catname} doit choisir une mutation de tête&nbsp;!,"Dies ist die letzte Mutationsphase. {catname} muss eine Mutation für den Kopf wählen!
+QEVENT_STACYMUTANT3_REW4_N,機器注射了{catname}。他們在全身被撕裂破碎時尖叫着！,,,La machine pique {catname}. Iel hurle de douleur tandis que son corps tout entier se retrouve déchiqueté&nbsp;!,Die Maschine spritzt {catname} eine Flüssigkeit. {catname} jault vor Schmerzen laut auf!,La macchina inietta qualcosa a {catname} che urla di dolore mentre il suo intero corpo viene lacerato!,,機器注射了{catname}。他們在全身被撕裂破碎時尖叫着！
+QEVENT_STACYMUTANT4_NAME,斯泰西實驗,,,Expérience Stacy,Stacys Experiment,Esperimento di Stacy,Experimento de Stacy,斯泰西實驗
+QEVENT_STACYMUTANT4_QUES,克隆體變異的最終階段到了。{catname}必須選擇一種頭部變異！,,,La phase finale de mutation du clone est là. {catname} doit choisir une mutation de tête&nbsp;!,"Dies ist die letzte Mutationsphase. {catname} muss eine Mutation für den Kopf wählen!
 ",È iniziata la fase finale della mutazione del clone. {catname} deve scegliere una mutazione della testa!,A fase final da mutação do clone foi atingida. {catname} deve selecionar uma mutação de cabeça!,克隆體變異的最終階段到了。{catname}必須選擇一種頭部變異！
 QEVENT_STACYMUTANT4_QUES_M,,,,,,,,
 QEVENT_STACYMUTANT4_QUES_F,,,,,,,,
 QEVENT_STACYMUTANT4_QUES_N,,,,,,,,
-QEVENT_STACYMUTANT4_ANSW1,双头,,,Double tête,Zwei Köpfe,Doppia Testa,Cabeça dupla,雙頭
-QEVENT_STACYMUTANT4_REW1,"克隆体爆发出额外的一个头颅！
+QEVENT_STACYMUTANT4_ANSW1,雙頭,,,Double tête,Zwei Köpfe,Doppia Testa,Cabeça dupla,雙頭
+QEVENT_STACYMUTANT4_REW1,"克隆體爆發出額外的一個頭顱！
 
-每回合现在多一个额外行动。",,,"Une tête supplémentaire jaillit du clone&nbsp;!
+每回合現在多一個額外行動。",,,"Une tête supplémentaire jaillit du clone&nbsp;!
 
 Il dispose désormais d'un tour supplémentaire à chaque manche.","Ein zusätzlicher Kopf sprießt aus dem Klon hervor!
 
@@ -209,10 +209,10 @@ Agora ele possui um turno extra em cada rodada.","克隆體爆發出額外的一
 QEVENT_STACYMUTANT4_REW1_M,,,,,,,,
 QEVENT_STACYMUTANT4_REW1_F,,,,,,,,
 QEVENT_STACYMUTANT4_REW1_N,,,,,,,,
-QEVENT_STACYMUTANT4_ANSW2,第三只爪,,,Troisième patte,Dritte Pfote,Terza Zampa,Terceira pata,第三隻爪
-QEVENT_STACYMUTANT4_REW2,"机器对克隆体进行最后一次注射……
+QEVENT_STACYMUTANT4_ANSW2,第三隻爪,,,Troisième patte,Dritte Pfote,Terza Zampa,Terceira pata,第三隻爪
+QEVENT_STACYMUTANT4_REW2,"機器對克隆體進行最後一次注射……
 
-第三只爪从头部长出，赋予流血和反击效果！",,,"La machine pique le clone une dernière fois...
+第三隻爪從頭部長出，賦予流血和反擊效果！",,,"La machine pique le clone une dernière fois...
 
 Une troisième patte pousse hors de sa tête, lui conférant des attaques de saignement et de contre&nbsp;!","Die Maschine injiziert den Klon ein letztes Mal&nbsp;…
 
@@ -226,10 +226,10 @@ Uma terceira pata cresce em sua cabeça, concedendo sangramento e contra-ataques
 QEVENT_STACYMUTANT4_REW2_M,,,,,,,,
 QEVENT_STACYMUTANT4_REW2_F,,,,,,,,
 QEVENT_STACYMUTANT4_REW2_N,,,,,,,,
-QEVENT_STACYMUTANT4_ANSW3,镜面光辉,,,Reflet miroir,Spiegelglanz,Specchio Riflesso,Brilho espelhado,鏡面光輝
-QEVENT_STACYMUTANT4_REW3,"克隆体的眼睛变成了反光镜面！
+QEVENT_STACYMUTANT4_ANSW3,鏡面光輝,,,Reflet miroir,Spiegelglanz,Specchio Riflesso,Brilho espelhado,鏡面光輝
+QEVENT_STACYMUTANT4_REW3,"克隆體的眼睛變成了反光鏡面！
 
-获得了投射反射和魔法释放！",,,"Les yeux du clone deviennent des miroirs réfléchissants&nbsp;!
+獲得了投射反射和魔法釋放！",,,"Les yeux du clone deviennent des miroirs réfléchissants&nbsp;!
 
 Il obtient Renvoi de projectiles et Libération magique&nbsp;!","Die Augen des Klons werden zu kreisrunden Spiegeln!
 
@@ -243,12 +243,12 @@ Ele obtém reflexão de projéteis e liberação de magia!","克隆體的眼睛�
 QEVENT_STACYMUTANT4_REW3_M,,,,,,,,
 QEVENT_STACYMUTANT4_REW3_F,,,,,,,,
 QEVENT_STACYMUTANT4_REW3_N,,,,,,,,
-QEVENT_STACYMUTANT4_ANSW4,不，谢谢,,,Non merci,"Nein, danke","No, grazie","Não, obrigado",不，謝謝
-QEVENT_STACYMUTANT4_REW4,{catname}猜到了即将发生的事，但注射时仍然皱眉！,,,"{catname} se doute de ce qui l'attend, mais tire quand même la gueule quand la machine pique&nbsp;!","{catname} kann sich schon denken, was jetzt passiert, zuckt aber trotzdem zusammen, als {he} eine Spritze von der Maschine bekommt!","{catname} indovina cosa sta per succedere, ma non può fare a meno di sussultare quando subisce l'iniezione dalla macchina.","{catname} adivinha o que está por vir, mas mesmo assim recua quando a máquina injeta algo em seu corpo!",{catname}猜到了即將發生的事，但注射時仍然皺眉！
+QEVENT_STACYMUTANT4_ANSW4,不，謝謝,,,Non merci,"Nein, danke","No, grazie","Não, obrigado",不，謝謝
+QEVENT_STACYMUTANT4_REW4,{catname}猜到了即將發生的事，但注射時仍然皺眉！,,,"{catname} se doute de ce qui l'attend, mais tire quand même la gueule quand la machine pique&nbsp;!","{catname} kann sich schon denken, was jetzt passiert, zuckt aber trotzdem zusammen, als {he} eine Spritze von der Maschine bekommt!","{catname} indovina cosa sta per succedere, ma non può fare a meno di sussultare quando subisce l'iniezione dalla macchina.","{catname} adivinha o que está por vir, mas mesmo assim recua quando a máquina injeta algo em seu corpo!",{catname}猜到了即將發生的事，但注射時仍然皺眉！
 QEVENT_STACYMUTANT4_REW4_M,,,,,,,,
 QEVENT_STACYMUTANT4_REW4_F,,,,,,,,
 QEVENT_STACYMUTANT4_REW4_N,,,,,,,,
-QEVENT_STACYMUTANT4_REW5,{Catname}感到筋疲力尽……,,,{Catname} est tout raplapla...,{Catname} ist erschöpft&nbsp;…,{catname} avverte una forte spossatezza...,{Catname} sente um grande cansaço...,{Catname}感到筋疲力盡……
+QEVENT_STACYMUTANT4_REW5,{Catname}感到筋疲力盡……,,,{Catname} est tout raplapla...,{Catname} ist erschöpft&nbsp;…,{catname} avverte una forte spossatezza...,{Catname} sente um grande cansaço...,{Catname}感到筋疲力盡……
 QEVENT_STACYMUTANT4_REW5_M,,,,,,,,
 QEVENT_STACYMUTANT4_REW5_F,,,,,,,,
 QEVENT_STACYMUTANT4_REW5_N,,,,,,,,
