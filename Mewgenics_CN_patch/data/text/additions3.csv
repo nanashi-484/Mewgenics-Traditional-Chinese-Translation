@@ -1,8 +1,8 @@
 KEY,en,notes,sp,fr,de,it,pt-br,zh
-HOUSE_BUTTON_DEFEND,防禦！,,,Défendre !,Verteidigen!,Difendi!,Defender!,防禦！
-ENDING_CUTSCENE_FIN,結束？,,,Fin ?,Ende?,La fine?,Fim?,結束？
-LEVELUP_OPTION_STATUP,屬性提升！,,,Stat+ !,Attribut hoch!,Statistica +!,Atributo +!,屬性提升！
-ITEM_UI_NEW,新,,,NOUVEAU,NEU,NUOVO,NOVO,新
+HOUSE_BUTTON_DEFEND,Defend!,,,Défendre !,Verteidigen!,Difendi!,Defender!,防御！
+ENDING_CUTSCENE_FIN,The End?,,,Fin ?,Ende?,La fine?,Fim?,结束？
+LEVELUP_OPTION_STATUP,Stat Up!,,,Stat+ !,Attribut hoch!,Statistica +!,Atributo +!,属性提升！
+ITEM_UI_NEW,NEW,,,NOUVEAU,NEU,NUOVO,NOVO,新
 ITEM_UI_WORN_INDICATOR,w,,,p,a,ind,g,w
-CAT_UI_BOX_SHORTCUT_LABEL,盒子,,,BOÎTE,BOX,SCATOLA,CAIXA,盒子
-KEYWORD_PERMABLIND_DESC,30% 躲避率。,,,Risques d'échec +30&nbsp;%,"30%ige Wahrscheinlichkeit, dass Angriffe verfehlen.",30% di possibilità di mancare.,30% de chance de errar.,30% 躲避率。
+CAT_UI_BOX_SHORTCUT_LABEL,BOX,,,BOÎTE,BOX,SCATOLA,CAIXA,盒子
+KEYWORD_PERMABLIND_DESC,30% miss chance.,,,Risques d'échec +30&nbsp;%,"30%ige Wahrscheinlichkeit, dass Angriffe verfehlen.",30% di possibilità di mancare.,30% de chance de errar.,30% 躲避率。
