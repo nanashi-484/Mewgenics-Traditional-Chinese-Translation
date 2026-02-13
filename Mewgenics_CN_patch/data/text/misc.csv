@@ -1,4 +1,4 @@
-KEY,en,notes,sp,fr,de,it,pt-br,zh
+﻿KEY,en,notes,sp,fr,de,it,pt-br,zh
 //misc,,,,,,,,
 AREA_NAME_TUTORIAL,The Path,,El camino,La Route,Der Trampelpfad,Il Sentiero,O Caminho,小徑
 AREA_NAME_HOUSE,Home,,Casa,La Maison,Dein Haus,Casa,Casa,家
@@ -39,15 +39,15 @@ AREA_NAME_JUNKYARD_BANNER,JUNKYARD,,DESGUACE,DÉCHARGE,SCHROTTPLATZ,DISCARICA,FE
 AREA_NAME_CAVES_BANNER,CAVES,,CUEVAS,GROTTES,HÖHLEN,CAVERNE,CAVERNAS,洞穴
 AREA_NAME_BONEYARD_BANNER,BONEYARD,,CEMENTERIO,CIMETIÈRE,FRIEDHOF,CIMITERO,CEMITÉRIO,骨場
 AREA_NAME_MEATWORLD_BANNER,THROBBING DOMAIN,,DOMINIO PALPITANTE,DOMAINE LANCINANT,PULSIERENDES REICH,REGNO PULSANTE,DOMÍNIO PULSANTE,跳動領域
-AREA_NAME_DESERT_BANNER,DESERT,,DESIERTO,DÉSERT,WÜSTE,DESERTO,DESERTO,沙漠
+AREA_NAME_DESERT_BANNER,DESERT,,DESIERTO,DÉSERT,DIE WÜSTE,DESERTO,DESERTO,沙漠
 AREA_NAME_CRATER_BANNER,THE CRATER,,EL CRÁTER,CRATÈRE,DER KRATER,IL CRATERE,A CRATERA,隕石坑
-AREA_NAME_BUNKER_BANNER,BUNKER,,BÚNKER,BUNKER,BUNKER,BUNKER,BUNKER,掩體
+AREA_NAME_BUNKER_BANNER,BUNKER,,BÚNKER,BUNKER,DER BUNKER,BUNKER,BUNKER,掩體
 AREA_NAME_MOON_BANNER,THE MOON,,LA LUNA,LUNE,DER MOND,LA LUNA,A LUA,月亮
 AREA_NAME_CORE_BANNER,THE CORE,,EL NÚCLEO,NOYAU,DER KERN,IL NUCLEO,O NÚCLEO,核心
 AREA_NAME_DIMENSIONX_BANNER,THE RIFT,,LA GRIETA,FAILLE,DER RISS,LA FENDITURA,A FISSURA,裂縫
 AREA_NAME_LAB_BANNER,THE LAB,,EL LABORATORIO,LABO,DAS LABOR,IL LABORATORIO,O LABORATÓRIO,實驗室
-AREA_NAME_ICEAGE_BANNER,ICE AGE,,EDAD DE HIELO,ÂGE DE GLACE,EISZEIT,L'ERA GLACIALE,ERA DO GELO,冰河時代
-AREA_NAME_JURASSIC_BANNER,JURASSIC,,JURÁSICO,JURASSIQUE,JURA,GIURASSICO,JURÁSSICO,侏羅紀
+AREA_NAME_ICEAGE_BANNER,ICE AGE,,EDAD DE HIELO,ÂGE DE GLACE,DIE EISZEIT,L'ERA GLACIALE,ERA DO GELO,冰河時代
+AREA_NAME_JURASSIC_BANNER,JURASSIC,,JURÁSICO,JURASSIQUE,DER JURA,GIURASSICO,JURÁSSICO,侏羅紀
 AREA_NAME_FUTURE_BANNER,THE FUTURE,,EL FUTURO,FUTUR,DIE ZUKUNFT,IL FUTURO,O FUTURO,未來
 AREA_NAME_THEEND_BANNER,THE END,,EL FIN,FIN,DAS ENDE,IL FINE,O FIM,終結
 AREA_NAME_ENDOFTIME_BANNER,∞,,∞,∞,∞,∞,∞,∞
@@ -58,7 +58,7 @@ WORLDEVENT_ENDBUTTON_REPLACEABILITY,Select an ability to replace,,Selecciona una
 WORLDEVENT_ENDBUTTON_REPLACEPASSIVE,Select a passive to replace,,Selecciona una habilidad pasiva para remplazarla.,Remplacer une compétence passive,Wähle einen Passiveffekt zum Ersetzen,Seleziona un'abilità passiva da sostituire,Selecione uma habilidade passiva para substituir,選擇一個被動技能進行替換
 WORLDEVENT_ENDBUTTON_TRYAGAIN,Try again,,Reintentar,Réessayer,Noch einmal versuchen,Riprova,Tentar novamente,再試一次
 WORLDEVENT_ENDBUTTON_LEVELUP,Level Up!,,Subir de nivel,Gain de niveau&nbsp;!,Level Up!,Livello superato!,Novo nível!,升級！
-WORLDEVENT_ENDBUTTON_LEVELUP_CAT,Level Up {Catname}!,,Subir de nivel a {Catname},{Catname} gagne un niveau&nbsp;!,{Catname} bekommt ein Level Up!,{Catname} ha superato il livello!,{CatName} subiu de nível!,升級了 {Catname}！
+WORLDEVENT_ENDBUTTON_LEVELUP_CAT,Level Up {Catname}!,,Subir de nivel a {Catname},{Catname} gagne un niveau&nbsp;!,{Catname} bekommt ein Level Up!,{Catname} ha superato il livello!,{Catname} subiu de nível!,升級了 {Catname}！
 WORLDEVENT_ENDBUTTON_LEVELUP_CAT_M,,,,,,,,
 WORLDEVENT_ENDBUTTON_LEVELUP_CAT_F,,,,,,,,
 WORLDEVENT_ENDBUTTON_LEVELUP_CAT_N,,,,,,,,
@@ -152,19 +152,19 @@ WORLDEVENT_SPEND_1_COIN,{Catname} hands over 1 coin.,,{Catname} entrega 1 moneda
 WORLDEVENT_SPEND_1_COIN_M,,,,,,,,
 WORLDEVENT_SPEND_1_COIN_F,,,,,,,,
 WORLDEVENT_SPEND_1_COIN_N,,,,,,,,
-WORLDEVENT_GAIN_FOOD,{Catname} stored {amount} food!,,¡{Catname} ha almacenado {amount} de comida!,{Catname} obtient {amount} nourritures&nbsp;!,{Catname} hat {amount}&nbsp;Futter bekommen!,{Catname} ha accumulato {amount} unità di cibo!,{Catname} guardou {amount} alimentos!,{Catname} 儲存了 {amount} 份食物！
+WORLDEVENT_GAIN_FOOD,{Catname} stored {amount} food!,,¡{Catname} ha almacenado {amount} de comida!,{Catname} obtient {amount} nourritures&nbsp;!,{Catname} hat {amount}&nbsp;Futter bekommen!,{Catname} ha accumulato {amount} unità di cibo!,{Catname} armazenou {amount} de comida!,{Catname} 儲存了 {amount} 份食物！
 WORLDEVENT_GAIN_FOOD_M,,,,,,,,
 WORLDEVENT_GAIN_FOOD_F,,,,,,,,
 WORLDEVENT_GAIN_FOOD_N,,,,,,,,
-WORLDEVENT_GAIN_1_FOOD,{Catname} stored 1 food!,,¡{Catname} ha almacenado 1 de comida!,{Catname} obtient 1&nbsp;nourriture&nbsp;!,{Catname} hat 1&nbsp;Futter bekommen!,{Catname} ha conservato 1 unità di cibo!,{Catname} guardou 1 alimento!,{Catname} 儲存了 1 份食物！
+WORLDEVENT_GAIN_1_FOOD,{Catname} stored 1 food!,,¡{Catname} ha almacenado 1 de comida!,{Catname} obtient 1&nbsp;nourriture&nbsp;!,{Catname} hat 1&nbsp;Futter bekommen!,{Catname} ha conservato 1 unità di cibo!,{Catname} armazenou 1 de comida!,{Catname} 儲存了 1 份食物！
 WORLDEVENT_GAIN_1_FOOD_M,,,,,,,,
 WORLDEVENT_GAIN_1_FOOD_F,,,,,,,,
 WORLDEVENT_GAIN_1_FOOD_N,,,,,,,,
-WORLDEVENT_LOSE_FOOD,{Catname} stored 1 food!,,¡{Catname} ha almacenado 1 de comida!,{Catname} obtient 1&nbsp;nourriture&nbsp;!,{Catname} hat 1&nbsp;Futter bekommen!,{Catname} ha conservato 1 unità di cibo!,{Catname} guardou 1 alimento!,{Catname} 儲存了 1 份食物！
+WORLDEVENT_LOSE_FOOD,{Catname} stored 1 food!,,¡{Catname} ha almacenado 1 de comida!,{Catname} obtient 1&nbsp;nourriture&nbsp;!,{Catname} hat 1&nbsp;Futter bekommen!,{Catname} ha conservato 1 unità di cibo!,{Catname} armazenou 1 de comida!,{Catname} 儲存了 1 份食物！
 WORLDEVENT_LOSE_FOOD_M,,,,,,,,
 WORLDEVENT_LOSE_FOOD_F,,,,,,,,
 WORLDEVENT_LOSE_FOOD_N,,,,,,,,
-WORLDEVENT_LOSE_1_FOOD,{Catname} stored 1 food!,,¡{Catname} ha almacenado 1 de comida!,{Catname} obtient 1&nbsp;nourriture&nbsp;!,{Catname} hat 1&nbsp;Futter bekommen!,{Catname} ha conservato 1 unità di cibo!,{Catname} guardou 1 alimento!,{Catname} 儲存了 1 份食物！
+WORLDEVENT_LOSE_1_FOOD,{Catname} stored 1 food!,,¡{Catname} ha almacenado 1 de comida!,{Catname} obtient 1&nbsp;nourriture&nbsp;!,{Catname} hat 1&nbsp;Futter bekommen!,{Catname} ha conservato 1 unità di cibo!,{Catname} armazenou 1 de comida!,{Catname} 儲存了 1 份食物！
 WORLDEVENT_LOSE_1_FOOD_M,,,,,,,,
 WORLDEVENT_LOSE_1_FOOD_F,,,,,,,,
 WORLDEVENT_LOSE_1_FOOD_N,,,,,,,,
@@ -264,7 +264,7 @@ HOUSE_INTERSTITIAL_DIE_OLD_AGE_F,,,,,,{Catname} è morta di vecchiaia.,,
 HOUSE_INTERSTITIAL_DIE_OLD_AGE_N,,,,,,La vecchiaia ha avuto la meglio su {Catname}.,,
 HOUSE_INTERSTITIAL_CALM,The night was calm. Nothing of significance occurred.,,La noche ha sido tranquila. No ha ocurrido nada destacable.,"La nuit se déroula paisiblement, sans que rien de notable ne se produise.",Die Nacht war ruhig. Es ist nichts Besonderes passiert.,La notte è stata tranquilla. Non è successo nulla di significativo.,A noite foi calma. Nada digno de nota ocorreu.,夜晚平靜。沒有發生任何重大事件。
 HOUSE_INTERSTITIAL_BUTTON_OK,Ok,,Vale,OK,Ok,Ok,Ok,好的
-HOUSE_INTERSTITIAL_BUTTON_CONTINUE,>>>,,>>>,>>>,>>>,>>>,>>>,>>>
+HOUSE_INTERSTITIAL_BUTTON_CONTINUE,>>>,,>>>,>>>,>>>,>>>,>>>,繼續
 HOUSEBOSS_COUNTDOWN,{amount} Days,,{amount} días,{amount} jours,{amount}&nbsp;Tage,{amount} giorni,{amount} dias,{amount} 天
 HOUSEBOSS_COUNTDOWN_TOMORROW,Tomorrow!,,¡Mañana!,Demain&nbsp;!,Morgen!,Domani!,Amanhã!,明天！
 HOUSEBOSS_COUNTDOWN_TODAY,!!!,,¡!,!!!,!!!,!!!,!!!,！！！
@@ -325,30 +325,30 @@ HOUSE_CAT_INFO_RIVAL,Hates {Catname},,Odia a {Catname},Déteste {Catname},Hasst 
 HOUSE_CAT_INFO_RIVAL_M,,,,,,,,
 HOUSE_CAT_INFO_RIVAL_F,,,,,,,,
 HOUSE_CAT_INFO_RIVAL_N,,,,,,,,
-HOUSE_CAT_INFO_AGE,Age {age},,Edad: {age},{age},Alter {age},Età: {age},Idade: {age},年齡 {age}
+HOUSE_CAT_INFO_AGE,Age {age},,Edad: {age},Âge&nbsp;: {age},Alter {age},Età: {age},Idade: {age},年齡 {age}
 HOUSE_CAT_INFO_HP,HP:,,PS:,PV&nbsp;:,LP:,PS:,PV:,生命值:
 HOUSE_CAT_INFO_LEVEL,Lv.,,Nv.,Niv.,Lv.,Liv:,Nv.,等級.
 HOUSE_CAT_INFO_OLD,old,,viejo,ans,alt,vecchio,,歲
-HOUSE_CAT_INFO_STR_NAME,[img:str]Strength,,[img:str]Fuerza,[img:str]Force,[img:str]Stärke,[img:str]Forza,[img:str]Força,[img:str]力量
-HOUSE_CAT_INFO_STR_DESC,Strength affects melee attack and melee ability damage.,,La fuerza afecta al daño de los ataques y las habilidades cuerpo a cuerpo.,La force affecte les dégâts des attaques et compétences au corps à corps.,Stärke wirkt sich auf den Schaden von Nahkampfangriffen und -fähigkeiten aus.,La forza influenza l'attacco corpo a corpo e il danno delle abilità corpo a corpo.,A força afeta o dano de ataques e habilidades corpo-a-corpo.,力量影響近戰攻擊和近戰技能傷害。
-HOUSE_CAT_INFO_DEX_NAME,[img:dex]Dexterity,,[img:dex]Destreza,[img:dex]Dextérité,[img:dex]Geschicklichkeit,[img:dex]Destrezza,[img:dex]Destreza,[img:dex]敏捷
+HOUSE_CAT_INFO_STR_NAME,[img:str]Strength,,[img:str] Fuerza,[img:str]Force,[img:str]Stärke,[img:str]Forza,[img:str]Força,[img:str]力量
+HOUSE_CAT_INFO_STR_DESC,Strength affects melee attack and melee ability damage.,,La fuerza afecta al daño de los ataques y las habilidades cuerpo a cuerpo.,La force affecte les dégâts des attaques et compétences au corps-à-corps.,Stärke wirkt sich auf den Schaden von Nahkampfangriffen und -fähigkeiten aus.,La forza influenza l'attacco corpo a corpo e il danno delle abilità corpo a corpo.,A força afeta o dano de ataques e habilidades corpo-a-corpo.,力量影響近戰攻擊和近戰技能傷害。
+HOUSE_CAT_INFO_DEX_NAME,[img:dex]Dexterity,,[img:dex] Destreza,[img:dex]Dextérité,[img:dex]Geschicklichkeit,[img:dex]Destrezza,[img:dex]Destreza,[img:dex]敏捷
 HOUSE_CAT_INFO_DEX_DESC,Dexterity affects ranged attack and ranged ability damage.,,La destreza afecta al daño de los ataques y las habilidades a distancia.,La dextérité affecte les dégâts des attaques et compétences à distance.,Geschicklichkeit wirkt sich auf den Schaden von Fernkampfangriffen und -fähigkeiten aus.,La destrezza influenza il danno da attacco a distanza e il danno da abilità a distanza.,A destreza afeta o dano de ataques e habilidades à distância.,敏捷影響遠程攻擊和遠程技能傷害。
-HOUSE_CAT_INFO_CON_NAME,[img:con]Constitution,,[img:con]Constitución,[img:con]Constitution,[img:con]Konstitution,[img:con]Costituzione,[img:con]Constituição,[img:con]體質
+HOUSE_CAT_INFO_CON_NAME,[img:con]Constitution,,[img:con] Constitución,[img:con]Constitution,[img:con]Konstitution,[img:con]Costituzione,[img:con]Constituição,[img:con]體質
 HOUSE_CAT_INFO_CON_DESC,Constitution affects max health and post-combat regen.,,La constitución afecta al máximo de salud y a la regeneración tras el combate.,La constitution affecte les PV max. et la régénération de PV après les combats.,Konstitution wirkt sich auf max. Gesundheit und Lebensregeneration nach dem Kampf aus.,La costituzione influenza la salute massima e la rigenerazione della salute dopo le battaglie.,A constituição afeta a saúde máxima e a regeneração após o combate.,體質影響最大生命值和戰後恢復。
-HOUSE_CAT_INFO_INT_NAME,[img:int]Intelligence,,[img:int]Inteligencia,[img:int]Intelligence,[img:int]Intelligenz,[img:int]Intelligenza,[img:int]Inteligência,[img:int]智力
+HOUSE_CAT_INFO_INT_NAME,[img:int]Intelligence,,[img:int] Inteligencia,[img:int]Intelligence,[img:int]Intelligenz,[img:int]Intelligenza,[img:int]Inteligência,[img:int]智力
 HOUSE_CAT_INFO_INT_DESC,Intelligence affects mana regen.,,La inteligencia afecta a la regeneración de maná.,L'intelligence affecte la régénération de mana.,Intelligenz wirkt sich auf Manaregeneration aus.,L'intelligenza influenza la rigenerazione del mana.,A inteligência afeta a regeneração de mana.,智力影響法力值恢復。
-HOUSE_CAT_INFO_CHA_NAME,[img:cha]Charisma,,[img:cha]Carisma,[img:cha]Charisma,[img:cha]Charisma,[img:cha]Carisma,[img:cha]Carisma,[img:cha]魅力
+HOUSE_CAT_INFO_CHA_NAME,[img:cha]Charisma,,[img:cha] Carisma,[img:cha]Charisme,[img:cha]Charisma,[img:cha]Carisma,[img:cha]Carisma,[img:cha]魅力
 HOUSE_CAT_INFO_CHA_DESC,Charisma affects max mana and starting mana.,,El carisma afecta al maná inicial y al máximo de maná.,Le charisme affecte le mana max. et le mana de départ.,Charisma wirkt sich auf max. Mana und Mana zu Kampfbeginn aus.,Il carisma influenza il mana massimo e il mana iniziale.,O carisma afeta a mana máxima e a mana inicial.,魅力影響最大法力值和初始法力值。
-HOUSE_CAT_INFO_SPD_NAME,[img:spd]Speed,,[img:spd]Velocidad,[img:spd]Vitesse,[img:spd]Geschwindigkeit,[img:spd]Velocità,[img:spd]Velocidade,[img:spd]速度
+HOUSE_CAT_INFO_SPD_NAME,[img:spd]Speed,,[img:spd] Velocidad,[img:spd]Vitesse,[img:spd]Geschwindigkeit,[img:spd]Velocità,[img:spd]Velocidade,[img:spd]速度
 HOUSE_CAT_INFO_SPD_DESC,Speed affects turn order and movement range.,,La velocidad afecta al orden de los turnos y al alcance del movimiento.,La vitesse affecte l'ordre du tour et la portée des déplacements.,Geschwindigkeit wirkt sich auf die Zugreihenfolge und Bewegungsreichweite aus.,La velocità influenza il raggio di movimento e l'ordine dei turni.,A velocidade afeta a ordem dos turnos e o alcance de movimento.,速度影響出手順序和移動範圍。
-HOUSE_CAT_INFO_LCK_NAME,[img:lck]Luck,,[img:lck]Suerte,[img:lck]Chance,[img:lck]Glück,[img:lck]Fortuna,[img:lck]Sorte,[img:lck]運氣
+HOUSE_CAT_INFO_LCK_NAME,[img:lck]Luck,,[img:lck] Suerte,[img:lck]Chance,[img:lck]Glück,[img:lck]Fortuna,[img:lck]Sorte,[img:lck]運氣
 HOUSE_CAT_INFO_LCK_DESC,Luck affects base crit chance and all randomness.,,La suerte afecta a la probabilidad de crítico base y a todo lo que depende del azar.,La chance affecte les chances de coup critique de base ainsi que toute forme d'aléatoire.,Glück wirkt sich auf die kritische Trefferchance und alle zufälligen Ereignisse aus.,La fortuna influenza la probabilità di colpo critico base e tutte le casualità.,A sorte afeta a chance de crítico base e tudo que é aleatório.,運氣影響基礎暴擊率和所有隨機因素。
 ,,,,,,,,
 MUTATION_BODY_NAME,Body Mutation,,Mutación de cuerpo,Mutation du corps,Mutation (Körper),Mutazione del corpo,Mutação de corpo,身體變異
 MUTATION_HEAD_NAME,Head Mutation,,Mutación de cabeza,Mutation de la tête,Mutation (Kopf),Mutazione della testa,Mutação de cabeça,頭部變異
 MUTATION_TAIL_NAME,Tail Mutation,,Mutación de cola,Mutation de la queue,Mutation (Schwanz),Mutazione della coda,Mutação de cauda,尾巴變異
-MUTATION_LEG_NAME,Leg Mutation,,Mutación de pierna trasera,Mutation des jambes,Mutation (Beine),Mutazione delle zampe posteriori,Mutação de perna,腿部變異
-MUTATION_ARM_NAME,Arm Mutation,,Mutación de pierna delantera,Mutation des bras,Mutation (Arme),Mutazione delle zampe anteriori,Mutação de braço,手臂變異
+MUTATION_LEG_NAME,Leg Mutation,,Mutación de pata trasera,Mutation des jambes,Mutation (Beine),Mutazione delle zampe posteriori,Mutação de perna,腿部變異
+MUTATION_ARM_NAME,Arm Mutation,,Mutación de pata delantera,Mutation des bras,Mutation (Arme),Mutazione delle zampe anteriori,Mutação de braço,手臂變異
 MUTATION_EYE_NAME,Eye Mutation,,Mutación de ojo,Mutation des yeux,Mutation (Augen),Mutazione degli occhi,Mutação de olho,眼睛變異
 MUTATION_EYEBROW_NAME,Eyebrow Mutation,,Mutación de ceja,Mutation des sourcils,Mutation (Augenbrauen),Mutazione delle sopracciglia,Mutação de sobrancelha,眉毛變異
 MUTATION_EAR_NAME,Ear Mutation,,Mutación de oreja,Mutation des oreilles,Mutation (Ohren),Mutazione delle orecchie,Mutação de orelha,耳朵變異
@@ -396,7 +396,7 @@ LEVELUP_CHOICE_EXTRAFULLHEAL,& Full Heal,,y curación total,& PV complets,& voll
 LEVELUP_CHOICE_STATS_STR,"[img:str]Strength[img:str]
 affects melee attack and melee ability damage",,"[img:str]Fuerza[img:str]
 Afecta al daño de los ataques y las habilidades cuerpo a cuerpo.","La [img:str]force[img:str]
-affecte les dégâts des attaques et compétences au corps à corps.","[img:str]Stärke[img:str]
+affecte les dégâts des attaques et compétences au corps-à-corps.","[img:str]Stärke[img:str]
 wirkt sich auf den Schaden von Nahkampfangriffen und -fähigkeiten aus","La [img:str]Forza[img:str]
 influenza l'attacco corpo a corpo e il danno delle abilità corpo a corpo","A [img:str]força[img:str]
 afeta o dano de ataques e habilidades corpo-a-corpo","[img:str]力量[img:str]
@@ -533,9 +533,9 @@ COMBAT_POPUP_BRAINSTORM,Brainstorm!,,Lluvia de ideas,Introspection&nbsp;!,Geiste
 COMBAT_POPUP_REPAIRED,Repaired,,Reparación,Réparé,Repariert,Riparato,Reparação,修復完成
 COMBAT_POPUP_IMMUNE,Immune,,Inmune,Immunité,Immun,Immune,Imune,免疫
 ,,,,,,,,
-COMBAT_WIN_ROUNDSTAKEN,in {rounds} rounds:,,en {rounds} rondas:,dans {rounds} manches&nbsp;:,in {rounds} Runden:,in {rounds} round:,em {rounds} rodadas:,在 {rounds} 回合內：
-COMBAT_WIN_ROUNDSTAKEN_SINGULAR,in 1 round:,,en 1 ronda:,dans 1&nbsp;manche&nbsp;:,in 1 Runde:,in 1 round:,em 1 rodada:,在 1 回合內：
-COMBAT_WIN_ENEMIESRAN,{count} enemies ran away,,{count} enemigos han huido,{count} ennemis ont fui,{count} Gegner sind geflohen,{count} nemici sono scappati,{count} inimigos fugiram,{count} 個敵人逃跑了
+COMBAT_WIN_ROUNDSTAKEN,in {rounds} rounds:,,en {rounds} rondas:,en {rounds} manches&nbsp;:,in {rounds} Runden:,in {rounds} round:,em {rounds} rodadas:,在 {rounds} 回合內：
+COMBAT_WIN_ROUNDSTAKEN_SINGULAR,in 1 round:,,en 1 ronda:,en 1&nbsp;manche&nbsp;:,in 1 Runde:,in 1 round:,em 1 rodada:,在 1 回合內：
+COMBAT_WIN_ENEMIESRAN,{count} enemies ran away,,{count} enemigos han huido,{count}&nbsp;ennemis ont fui,{count} Gegner sind geflohen,{count} nemici sono scappati,{count} inimigos fugiram,{count} 個敵人逃跑了
 COMBAT_WIN_ENEMIESRAN_SINGULAR,1 enemy ran away,,1 enemigo ha huido,1&nbsp;ennemi a fui,1 Gegner ist geflohen,1 nemico è scappato,1 inimigo fugiu,1 個敵人逃跑了
 ,,,,,,,,
 INJURY_NAME_BROKENPAW,Broken Paw,,Pata delantera rota,Patte brisée,Gebrochene Pfote,Zampa Rotta,Pata quebrada,斷爪
@@ -580,7 +580,7 @@ NPC_MAP_TOOLTIP_BUTCH9,Wants cats that killed God... on hard difficulty.,,Quiere
 NPC_MAP_TOOLTIP_BUTCH10,Wants cats that killed God... on crazy difficulty.,,Quieren gatos que hayan matado a Dios... en modo Locura.,Recherche des chats qui ont tué Dieu... en difficulté Dingue.,"Will Katzen, die Gott getötet haben&nbsp;… auf dem Schwierigkeitsgrad „Verrückt“.",Cerca gatti che hanno ucciso Dio... a livello folle.,Deseja gatos que mataram Deus... na dificuldade Maluca.,想要在瘋狂難度下殺死過神的貓咪。
 NPC_MAP_TOOLTIP_BUTCH11,Wants cats that killed God... on impossible difficulty.,,Quieren gatos que hayan matado a Dios... en modo Imposible.,Recherche des chats qui ont tué Dieu... en difficulté Impossible.,"Will Katzen, die Gott getötet haben&nbsp;… auf dem Schwierigkeitsgrad „Unmöglich“.",Cerca gatti che hanno ucciso Dio... a livello impossibile.,Deseja gatos que mataram Deus... na dificuldade Impossível.,想要在不可能難度下殺死過神的貓咪。
 NPC_MAP_TOOLTIP_TINK,Wants kittens.,,Quiere gatitos.,Recherche des chatons.,Will Kätzchen.,Cerca gattini.,Deseja filhotes de gato.,想要小貓。
-NPC_MAP_TOOLTIP_FRANK,Wants retired cats.,,Quiere gatos jubilados.,Recherche des chats à la retraite/,Will Katzen im Ruhestand.,Cerca gatti in pensione.,Deseja gatos aposentados.,想要退休的貓咪。
+NPC_MAP_TOOLTIP_FRANK,Wants retired cats.,,Quiere gatos jubilados.,Recherche des chats à la retraite.,Will Katzen im Ruhestand.,Cerca gatti in pensione.,Deseja gatos aposentados.,想要退休的貓咪。
 NPC_MAP_TOOLTIP_JACK,Wants cats with injuries.,,Quiere gatos con lesiones.,Recherche des chats blessés.,Will Katzen mit Verletzungen.,Cerca gatti con ferite.,Deseja gatos com ferimentos.,想要受傷的貓咪。
 NPC_MAP_TOOLTIP_TRACY,Wants cats age {age} or higher.,,Quiere gatos que tengan {age} años o más.,Recherche des chats de {age} ans ou plus.,"Will Katzen, die {age} oder älter sind.",Cerca gatti di età pari o superiore a {age}.,Deseja gatos com idade igual ou superior a {age}.,想要年齡爲 {age} 或更高的貓咪。
 NPC_MAP_TOOLTIP_ORGANGRINDER,"Wants dead cats.
@@ -618,10 +618,12 @@ POPUP_TRY_RESUMMON_TINA3,Do you wish to resummon Guillotina 3?,,¿Quieres volver
 POPUP_TRY_RESUMMON_PYRO,Do you wish to resummon Pyrophina?,,¿Quieres volver a invocar a Pyrophina?,Voulez-vous réinvoquer Pyrophina&nbsp;?,Willst du Pyrophina neu beschwören?,Vuoi rievocare Pyrophina?,Você deseja invocar Pyrophina novamente?,你想要重新召喚 Pyrophina 嗎？
 POPUP_TRY_RESUMMON_ZARA,Do you wish to resummon Zaratana?,,¿Quieres volver a invocar a Zaratana?,Voulez-vous réinvoquer Zaratana&nbsp;?,Willst du Zaratana neu beschwören?,Vuoi rievocare Zaratana?,Você deseja invocar Zaratana novamente?,你想要重新召喚 Zaratana 嗎？
 POPUP_TRY_RESUMMON_KAIJUFIGHT,"Do you wish to resummon
-Pyrophina vs. Zaratana?",,¿Quieres volver a invocar a Pyrophina contra Zaratana?,"Voulez-vous réinvoquer
+Pyrophina vs. Zaratana?",,"¿Quieres volver a invocar a
+Pyrophina contra Zaratana?","Voulez-vous réinvoquer
 Pyrophina contre Zaratana&nbsp;?","Willst du Pyrophina vs. Zaratana
 neu beschwören?","Vuoi rievocare
-Pyrophina contro Zaratana?",Você deseja invocar Pyrophina vs. Zaratana novamente?,"你想要重新召喚
+Pyrophina contro Zaratana?","Você deseja invocar novamente
+Pyrophina vs. Zaratana?","你想要重新召喚
 Pyrophina vs. Zaratana 嗎？"
 POPUP_TRY_RESUMMON_T1,Do you wish to resummon the C-800?,,¿Quieres volver a invocar al C-800?,Voulez-vous réinvoquer C-800&nbsp;?,Willst du den C-800 neu beschwören?,Vuoi rievocare il C-800?,Você deseja invocar G-800 novamente?,你想要重新召喚 C-800 嗎？
 POPUP_TRY_RESUMMON_T2,Do you wish to resummon the C-1000?,,¿Quieres volver a invocar al C-1000?,Voulez-vous réinvoquer C-1000&nbsp;?,Willst du den C-1000 neu beschwören?,Vuoi rievocare il C-1000?,Você deseja invocar G-1000 novamente?,你想重新召喚 C-1000 嗎？
@@ -742,9 +744,9 @@ COMBAT_UI_VICTORY,VICTORY!,,¡VICTORIA!,VICTOIRE&nbsp;!,SIEG!,VITTORIA!,VITÓRIA
 COMBAT_UI_DEFEAT,Defeat!,,¡Derrota!,Défaite&nbsp;!,Niederlage!,Sconfitta!,Derrota!,失敗！
 ,,,,,,,,
 INVENTORY_EQUIPPED_HEADER,Equipped,,Equipado,Équipement,Ausrüstung,Equipaggiato,Equipado,已裝備
-INVENTORY_BACKPACK_HEADER,Backpack,,Mochila,Sac à dos,Rucksack,Zaino,Mochila,揹包
+INVENTORY_BACKPACK_HEADER,Backpack,,Mochila,Sac à dos,Rucksack,Zaino,Mochila,背包
 INVENTORY_STORAGE_HEADER,Storage,,Almacén,Rangement,Lager,Deposito,Armazenamento,倉庫
-INVENTORY_COLLARS_HEADER,Equip Class Collars!,,¡Equipa collares de clase!,Équipez un collier de classe&nbsp;!,Halsbänder ausrüsten!,Equipaggia collari di classe!,Equipar coleiras de classe!,裝備職業項圈！
+INVENTORY_COLLARS_HEADER,Equip Class Collars!,,¡Equipa collares de clase!,Équipez un collier de classe&nbsp;!,Halsbänder ausrüsten!,Equipaggia collari di classe!,Equipe as coleiras de classe!,裝備職業項圈！
 INVENTORY_COLLARS_SIDE_HEADER,Collars,,Collares,Colliers,Halsbänder,Collari,Coleiras,項圈
 INVENTORY_LOCKIN_BUTTON,Lock In!,,Asignar,Valider,Fertig!,Conferma!,Travar!,鎖定！
 ,,,,,,,,
@@ -765,46 +767,46 @@ DIFFICULTY_NAME_3,IMPOSSIBLE,,IMPOSIBLE,IMPOSSIBLE,UNMÖGLICH,IMPOSSIBILE,IMPOSS
 ,,,,,,,,
 MAP_HARDPATH_BANNER,HARD,,DIFÍCIL,DIFFICILE,HART,DIFFICILE,DIFÍCIL,困難
 ,,,,,,,,
-STRINGFUCKUP_CAVESPEAK_1CH_0,a,"if a cat has 0 intelligence or less, the event text gets transformed into ""idiot speak/cavespeak"". its not critical that these pieces get localized, but you said they might need to be. The character length of these pieces is strict because they're glued together randomly to match the length of the words they're replacing. The 1-character strings should be vowels since they're often inserted in between other pieces",a,a,a,a,a,a
+STRINGFUCKUP_CAVESPEAK_1CH_0,a,"if a cat has 0 intelligence or less, the event text gets transformed into ""idiot speak/cavespeak"". its not critical that these pieces get localized, but you said they might need to be. The character length of these pieces is strict because they're glued together randomly to match the length of the words they're replacing. The 1-character strings should be vowels since they're often inserted in between other pieces",a,a,a,a,a,一個
 STRINGFUCKUP_CAVESPEAK_1CH_1,o,,o,o,o,o,o,o
 STRINGFUCKUP_CAVESPEAK_1CH_2,u,,u,u,u,u,u,u
-STRINGFUCKUP_CAVESPEAK_1CH_3,i,,i,i,i,i,i,i
-STRINGFUCKUP_CAVESPEAK_2CH_0,gu,,gu,gu,gu,gu,gu,gu
+STRINGFUCKUP_CAVESPEAK_1CH_3,i,,i,i,i,i,i,我
+STRINGFUCKUP_CAVESPEAK_2CH_0,gu,,gu,gu,gu,gu,gu,咕
 STRINGFUCKUP_CAVESPEAK_2CH_1,bu,,bu,bu,bu,bu,bu,bu
 STRINGFUCKUP_CAVESPEAK_2CH_2,og,,og,og,ok,og,og,og
 STRINGFUCKUP_CAVESPEAK_2CH_3,ag,,ag,ag,ak,ag,ag,ag
 STRINGFUCKUP_CAVESPEAK_2CH_4,mo,,mo,mo,mo,mo,mo,mo
 STRINGFUCKUP_CAVESPEAK_2CH_5,fu,,fu,fu,fu,fu,fu,fu
 STRINGFUCKUP_CAVESPEAK_2CH_6,ba,,ba,ba,ba,ba,ba,ba
-STRINGFUCKUP_CAVESPEAK_3CH_0,duh,,duh,duh,duh,duh,duh,duh
-STRINGFUCKUP_CAVESPEAK_3CH_1,hur,,hur,hur,hrr,hur,hur,hur
+STRINGFUCKUP_CAVESPEAK_3CH_0,duh,,duh,duh,duh,duh,duh,呃
+STRINGFUCKUP_CAVESPEAK_3CH_1,hur,,hur,hur,hrr,hur,hur,嗚
 STRINGFUCKUP_CAVESPEAK_3CH_2,bug,,bug,boug,buk,bug,bug,bug
 STRINGFUCKUP_CAVESPEAK_3CH_3,oog,,oog,oug,uck,oog,oog,oog
-STRINGFUCKUP_CAVESPEAK_3CH_4,fug,,fug,fug,fuk,fug,fug,fug
-STRINGFUCKUP_CAVESPEAK_3CH_5,mur,,mur,mur,mur,mur,mur,mur
-STRINGFUCKUP_CAVESPEAK_3CH_6,doh,,doh,doh,doh,doh,doh,doh
-STRINGFUCKUP_CAVESPEAK_3CH_7,bah,,bah,bah,bah,bah,bah,bah
+STRINGFUCKUP_CAVESPEAK_3CH_4,fug,,fug,fug,fuk,fug,fug,嗚
+STRINGFUCKUP_CAVESPEAK_3CH_5,mur,,mur,mur,mur,mur,mur,哞
+STRINGFUCKUP_CAVESPEAK_3CH_6,doh,,doh,doh,doh,doh,doh,呃
+STRINGFUCKUP_CAVESPEAK_3CH_7,bah,,bah,bah,bah,bah,bah,呸
 STRINGFUCKUP_CAVESPEAK_3CH_8,der,,der,der,der,der,der,der
 STRINGFUCKUP_CAVESPEAK_3CH_9,dur,,dur,dur,dur,dur,dur,dur
 STRINGFUCKUP_CAVESPEAK_4CH_0,grog,,grog,grog,grok,grog,grog,grog
 STRINGFUCKUP_CAVESPEAK_4CH_1,mook,,mook,mouk,muck,mook,mook,mook
-STRINGFUCKUP_CAVESPEAK_4CH_2,ooga,,ooga,ouga,ugga,ooga,ooga,ooga
+STRINGFUCKUP_CAVESPEAK_4CH_2,ooga,,ooga,ouga,ugga,ooga,ooga,嗚嘎
 STRINGFUCKUP_CAVESPEAK_4CH_3,boog,,boog,boug,bugg,boog,boog,boog
 STRINGFUCKUP_CAVESPEAK_4CH_4,durh,,durh,durh,durh,durh,durh,durh
-STRINGFUCKUP_CAVESPEAK_4CH_5,durr,,durr,durr,durr,durr,durr,durr
-STRINGFUCKUP_CAVESPEAK_4CH_6,duhh,,duhh,duhh,duhh,duhh,duhh,duhh
+STRINGFUCKUP_CAVESPEAK_4CH_5,durr,,durr,durr,durr,durr,durr,呃
+STRINGFUCKUP_CAVESPEAK_4CH_6,duhh,,duhh,duhh,duhh,duhh,duhh,呃
 STRINGFUCKUP_CAVESPEAK_4CH_7,muhh,,muhh,muhh,muhh,muhh,muhh,muhh
-STRINGFUCKUP_CAVESPEAK_4CH_8,derp,,derp,baba,derp,derp,derp,derp
-STRINGFUCKUP_CAVESPEAK_4CH_9,poop,,poop,caca,pups,caca,poop,poop
+STRINGFUCKUP_CAVESPEAK_4CH_8,derp,,derp,baba,derp,derp,derp,傻瓜
+STRINGFUCKUP_CAVESPEAK_4CH_9,poop,,poop,caca,pups,caca,poop,屎
 STRINGFUCKUP_CAVESPEAK_4CH_10,herp,,herp,herp,herp,herp,herp,herp
 STRINGFUCKUP_CAVESPEAK_4CH_11,herr,,herr,herr,herr,herr,herr,herr
 STRINGFUCKUP_CAVESPEAK_4CH_12,hurr,,hurr,hurr,hurr,hurr,hurr,hurr
 STRINGFUCKUP_CAVESPEAK_4CH_13,ugna,,ugna,ugna,ukna,ugna,ugna,ugna
 STRINGFUCKUP_CAVESPEAK_5CH_0,booga,,booga,bouga,bugga,booga,booga,booga
-STRINGFUCKUP_CAVESPEAK_5CH_1,duhhh,,duhhh,duhhh,duhhh,duhhh,duhhh,duhhh
+STRINGFUCKUP_CAVESPEAK_5CH_1,duhhh,,duhhh,duhhh,duhhh,duhhh,duhhh,呃……
 STRINGFUCKUP_CAVESPEAK_5CH_2,mooga,,mooga,mouga,mugga,mooga,mooga,mooga
 STRINGFUCKUP_CAVESPEAK_5CH_3,poopy,,poopy,popo,pupsi,cacca,poopy,poopy
-STRINGFUCKUP_CAVESPEAK_5CH_4,derpy,,derpy,bobo,dupsi,scemo,derpy,呆萌
+STRINGFUCKUP_CAVESPEAK_5CH_4,derpy,,derpy,bobo,dupsi,scemo,derpy,derpy
 ,,,,,,,,
 //unit types,,,,,,,,
 UNIT_TYPE_ALIEN,Alien,,Extraterrestre,Extraterrestre,Alien,Alieno,Alienígena,外星人
@@ -850,12 +852,12 @@ UNIT_TYPE_SQUIRREL,Squirrel,,Ardilla,Écureuil,Eichhörnchen,Scoiattolo,Esquilo,
 UNIT_TYPE_TRASH,Trash,,Basura,Déchet,Müll,Spazzatura,Lixo,垃圾
 UNIT_TYPE_TUMOR,Tumor,,Tumor,Tumeur,Tumor,Tumore,Tumor,腫瘤
 UNIT_TYPE_UNDEAD,Undead,,Muerto viviente,Mort-vivant,Untoter,Non morto,Morto-Vivo,不死族
-UNIT_TYPE_WORM,Worm,,Lombriz,Ver,Wurm,Verme,Minhoca,蟲子
+UNIT_TYPE_WORM,Worm,,Lombriz,Ver,Wurm,Verme,Verme,蟲子
 UNIT_TYPE_ZOMBIE,Zombie,,Zombi,Zombie,Zombie,Zombie,Zumbi,殭屍
 ,,,,,,,,
 //cat classes,,,,,,,,
 CAT_CLASS_FIGHTER_NAME,Fighter,,Luchador,Pugiliste,Krieger,Guerriero,Lutador,戰士
-CAT_CLASS_FIGHTER_DESC,Punch your way to victory! Fighters are great at doing big strong melee attacks and smashing things to pieces!,,¡Alcanza la victoria a puñetazo limpio! Los luchadores asestan grandes ataques cuerpo a cuerpo y machacan lo que se les ponga por delante.,Foncez vers la victoire à coups de poing&nbsp;! Les pugilistes excellent dans les attaques au corps à corps surpuissantes et réduisent tout en miettes.,Lass deine Fäuste sprechen! Krieger verfügen über starke Nahkampfangriffe und schlagen gern Dinge zu Brei!,Avanza a suon di pugni! I guerrieri sono bravissimi a sferrare potenti attacchi corpo a corpo e a spaccare tutto!,Abra caminho até a vitória a socos e pontapés! Lutadores são ótimos em realizar poderosos ataques corpo-a-corpo e destruir coisas!,"用拳頭打出勝利！
+CAT_CLASS_FIGHTER_DESC,Punch your way to victory! Fighters are great at doing big strong melee attacks and smashing things to pieces!,,¡Alcanza la victoria a puñetazo limpio! Los luchadores asestan grandes ataques cuerpo a cuerpo y machacan lo que se les ponga por delante.,Foncez vers la victoire à coups de poing&nbsp;! Les pugilistes excellent dans les attaques au corps-à-corps surpuissantes et réduisent tout en miettes.,Lass deine Fäuste sprechen! Krieger verfügen über starke Nahkampfangriffe und schlagen gern Dinge zu Brei!,Avanza a suon di pugni! I guerrieri sono bravissimi a sferrare potenti attacchi corpo a corpo e a spaccare tutto!,Abra caminho até a vitória a socos e pontapés! Lutadores são ótimos em realizar poderosos ataques corpo-a-corpo e destruir coisas!,"用拳頭打出勝利！
 戰士擅長進行強力的近戰攻擊並粉碎一切！"
 CAT_CLASS_HUNTER_NAME,Hunter,,Cazador,Sentinelle,Jäger,Cacciatore,Caçador,獵人
 CAT_CLASS_HUNTER_DESC,Shoot things from afar! Hunters are great at hitting things from a distance while staying out of danger themselves!,,¡Dispara cosas desde lejos! Los cazadores se encargan de atacar a distancia mientras se mantienen a salvo del peligro.,Attaquez vos adversaires à distance&nbsp;! Les sentinelles excellent dans les attaques à longue portée qui leur permettent de rester loin du danger.,Schieß deine Gegner aus der Ferne ab! Jäger sind ausgezeichnete Fernkämpfer und können selbst außer Reichweite bleiben!,Spara da lontano! I cacciatori sono bravissimi a colpire da lontano restando a distanza di sicurezza!,Dispare coisas de longe! Caçadores são ótimos em acertar alvos de longe enquanto se mantêm fora do perigo!,"遠距離射擊！
@@ -875,7 +877,7 @@ CAT_CLASS_THIEF_DESC,"Attack from the shadows! Thiefs are great at evading hits,
 CAT_CLASS_COLORLESS_NAME,Collarless,,Sin collar,Sans collier,Klassenlos,Senza Collare,Sem coleira,無領
 CAT_CLASS_COLORLESS_DESC,It's a cat!,,¡Es un gato!,C'est... juste un chat&nbsp;!,Eine normale Katze!,È un gatto!,É um gato!,它是一隻貓！
 CAT_CLASS_MONK_NAME,Monk,,Monje,Moine,Mönch,Monaco,Monge,僧侶
-CAT_CLASS_MONK_DESC,A versatile combat master! Monks can switch between ranged and melee stances and attack twice per turn!,,¡Domina las artes marciales con versatilidad! Los monjes pueden alternar posturas a distancia con otras cuerpo a cuerpo y atacar dos veces por turno.,"Nul combattant n'est plus polyvalent&nbsp;! Les moines alternent entre attaques à distance et au corps à corps, et peuvent attaquer deux fois par tour.",Ein vielseitiger Kampfkünstler! Mönche können zwischen Fern- und Nahkampfhaltung wechseln und zweimal pro Zug angreifen!,Un maestro del combattimento versatile! I monaci possono passare dalla postura a distanza a quella corpo a corpo e attaccare due volte per turno!,Mestres do combate versátil! Monges podem alternar entre posturas à distância e corpo-a-corpo e atacar duas vezes por turno!,"多才多藝的戰鬥大師！
+CAT_CLASS_MONK_DESC,A versatile combat master! Monks can switch between ranged and melee stances and attack twice per turn!,,¡Domina las artes marciales con versatilidad! Los monjes pueden alternar posturas a distancia con otras cuerpo a cuerpo y atacar dos veces por turno.,"Nul combattant n'est plus polyvalent&nbsp;! Les moines alternent entre attaques à distance et au corps-à-corps, et peuvent attaquer deux fois par tour.",Ein vielseitiger Kampfkünstler! Mönche können zwischen Fern- und Nahkampfhaltung wechseln und zweimal pro Zug angreifen!,Un maestro del combattimento versatile! I monaci possono passare dalla postura a distanza a quella corpo a corpo e attaccare due volte per turno!,Mestres do combate versátil! Monges podem alternar entre posturas à distância e corpo-a-corpo e atacar duas vezes por turno!,"多才多藝的戰鬥大師！
 僧侶可以在遠程和近戰姿態之間切換，每回合攻擊兩次！"
 CAT_CLASS_BUTCHER_NAME,Butcher,,Carnicero,Barbare,Schlachter,Macellaio,Açougueiro,屠夫
 CAT_CLASS_BUTCHER_DESC,Meat Meat Meat Meat Meat! Butchers are great at cleaving chunks of meat off of things and have a hook to pull stuff towards them!,,"¡Carne, carne, carne, carne, carne! A los carniceros se les da genial rebanar trozos de carne, y tienen un gancho con el que pueden tirar de las cosas hacia ellos.",L'expert de la découpe&nbsp;! Les barbares tranchent leurs ennemis en rondelles et usent de leur crochet pour les ramener à portée.,"Fleisch, Fleisch, Fleisch! Schlachter schneiden ganze Stücke von ihren Gegnern ab und haben einen Fleischerhaken im Gepäck, mit dem sie alles Mögliche an sich heranziehen können!",Carne carne carne carne carne! I macellai sono bravissimi a staccare pezzi di carne dalle cose e hanno un uncino per attirarle verso di loro!,"Carne, carne, carne, carne, carne! Açougueiros são ótimos em cortar pedaços de carne das coisas e têm um gancho para puxá-las em sua direção!","肉 肉 肉 肉 肉！

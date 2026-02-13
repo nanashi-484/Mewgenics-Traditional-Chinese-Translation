@@ -1,4 +1,4 @@
-KEY,en,notes,sp,fr,de,it,pt-br,zh
+﻿KEY,en,notes,sp,fr,de,it,pt-br,zh
 EABILITY_HOLYBLAST_NAME,Holy Blast,,Explosión sagrada,Explosion sacrée,Heilige Explosion,Esplosione Sacra,Explosão Sagrada,神聖爆發
 EABILITY_PRECOGNITION_NAME,Precognition,,Premonición,Prémonition,Vorausahnung,Precognizione,Predição,預知
 EABILITY_ANNIHILATION_NAME,Annihilation,,Aniquilación,Annihilation,Vernichtung,Annientamento,Aniquilação,消滅
@@ -30,13 +30,13 @@ EABILITY_METEORNADO_NAME,Meteornado,,Meteornado,Météornade,Meteornado,Meteorna
 EABILITY_TURTLE_NAME,Turtle,,Tortuga,Tortue,Panzerschutz,Tartaruga,Tartaruga,海龜
 EABILITY_MAGNETPULL_NAME,Magnet Pull,,Atracción magnética,Attirance magnétique,Magnetzug,Attrazione Magnetica,Atração Magnética,磁力拉扯
 EABILITY_METEORBOMBARD_NAME,Meteor Bombardment,,Bombardeo de meteoritos,Bombardement météore,Meteorbeschuss,Bombardamento Meteoritico,Bombardeio de Meteoros,隕石轟炸
-EABILITY_HSULF_NAME,Hsulf,"""Flush"" backwards (for chaos boss) [backwards version of flushmaster Flush]",Anretsic,Odessahc,Gnulüps,Enouqcaics,Agracsed,Hsulf
-EABILITY_TSALBDNIMAGEM_NAME,Tsalb Dnim Agem,"""Mega Mind Blast"" backwards (for chaos boss) [backwards version of johnny's Mega Mind Blast]",Latnem nóisolpxeagem,Euqihcysp epparf agèm,Noisolpxeneknadeg Egiseir,Elatnem Enoisolpse Agem,Latnem Oãsolpxe Agem,Tsalb Dnim Agem
-EABILITY_TUODAERPS_NAME,Tuo Daerps.,"""Spread Out"" backwards (for chaos boss) [backwards version of throbbing king's Spread Out]",Adadnabsed,Suov-zesrepsid.,Nelietrev.,Ivetailgapraps.,Otnemahlapse,Tuo Daerps.
+EABILITY_HSULF_NAME,Hsulf,"""Flush"" backwards (for chaos boss) [backwards version of flushmaster Flush]",Anretsic,Odessahc,Gnulüps,Enouqcaics,Orieugracsed,虛空之影
+EABILITY_TSALBDNIMAGEM_NAME,Tsalb Dnim Agem,"""Mega Mind Blast"" backwards (for chaos boss) [backwards version of johnny's Mega Mind Blast]",Latnem nóisolpxeagem,Euqihcysp epparf agèm,Noisolpxeneknadeg Egiseir,Elatnem Enoisolpse Agem,Latnem Oãsolpxe Agem,逆轉游戲
+EABILITY_TUODAERPS_NAME,Tuo Daerps.,"""Spread Out"" backwards (for chaos boss) [backwards version of throbbing king's Spread Out]",Adadnabsed,Suov-zesrepsid.,Nelietrev.,Ivetailgapraps.,Otnemahlapse,託達爾普斯
 EABILITY_THROWGRENADE_NAME,Throw Grenade,,Lanzamiento de granada,Lancer de grenade,Granate werfen,Lancio di Granata,Lançar Granada,投擲手榴彈
 EABILITY_SNIPER_NAME,Sniper,,Tiro de francotirador,Sniper,Scharfschütze,Cecchino,Sniper,狙擊手
 EABILITY_BOULDERDROP_NAME,Boulder Drop!,,¡Peñasco va!,Lancer de rocher,Steinschlag!,Caduta Massi!,Pedrada!,巨石墜落！
-EABILITY_T3RIPANDTEAR_NAME,Auseinanderreißen,,Auseinanderreißen,Auseinanderreißen,Auseinanderreißen,Auseinanderreißen,Auseinanderreißen,Auseinanderreißen
+EABILITY_T3RIPANDTEAR_NAME,Auseinanderreißen,,Auseinanderreißen,Auseinanderreißen,Auseinanderreißen,Auseinanderreißen,Auseinanderreißen,撕裂之力
 EABILITY_ROULETTE_NAME,Roulette.,,Ruleta,Roulette.,Roulette.,Roulette.,Roleta.,輪盤賭。
 EABILITY_KNEEL_NAME,Kneel.,,Postración,À genoux.,Kniet nieder.,Inginocchiatevi.,Ajoelhar.,跪下。
 EABILITY_GOAWAY_NAME,Go Away.,,Distanciamiento,Dégage.,Aus meinen Augen.,Andatevene.,Partida.,走開。
@@ -52,12 +52,12 @@ EABILITY_DUSTDASH_NAME,Dust Dash,,Carrera polvorienta,Charge poussiéreuse,Staub
 EABILITY_SPELLSHIELD_NAME,Spell Shield,,Escudo antihechizos,Bouclier magique,Zauberschild,Scudo Magico,Escudo Encantado,魔法盾
 EABILITY_FLAMETHROWER_NAME,Flamethrower,,Lanzallamas,Lance-flammes,Flammenwerfer,Lanciafiamme,Lança-Chamas,火焰噴射器
 EABILITY_WIZBLIZZ_NAME,Wiz Blizz,,Viento embrujado,Blizzard magique,Zauberschnee,Bufera Magica,Nevascaria,巫師暴風雪
-EABILITY_WIZSTORM_NAME,xXx_Thunder_xXx,,xXx_Trueno_xXx,xXx_Tonnerre_xXx,xXx_Donner_xXx,xXx_Tuono_xXx,xXx_Trovão_xXx,xXx_Thunder_xXx
+EABILITY_WIZSTORM_NAME,xXx_Thunder_xXx,,xXx_Trueno_xXx,xXx_Tonnerre_xXx,xXx_Donner_xXx,xXx_Tuono_xXx,xXx_Trovão_xXx,雷霆巫師
 EABILITY_SWIPE_NAME,Swipe,,Golpe,Baffe,Schlag,Zampata,Passada,揮擊
 EABILITY_BITE_NAME,Bite,,Mordisco,Morsure,Biss,Morso,Mordida,咬
 EABILITY_GEMINADO_NAME,Geminado,,Geminado,Tornades jumelles,Geminado,Geminado,Geminado,雙重
-EABILITY_SUICIDEMELEE_NAME,Melee Attack,,Ataque cuerpo a cuerpo,Attaque au corps à corps,Nahkampfangriff,Attacco Corpo a Corpo,Ataque Corpo-a-Corpo,近戰攻擊
-EABILITY_SUICIDEMELEE_DESC,A melee attack that also damages yourself.,,Un ataque cuerpo a cuerpo que también daña a esta unidad.,Une attaque au corps à corps qui vous inflige également des dégâts.,"Ein Nahkampfangriff, der dir auch selbst Schaden zufügt.",Un attacco corpo a corpo che danneggia anche te.,Um ataque corpo-a-corpo que também causa dano a você.,一種近戰攻擊，也會傷害自己。
+EABILITY_SUICIDEMELEE_NAME,Melee Attack,,Ataque cuerpo a cuerpo,Attaque au corps-à-corps,Nahkampfangriff,Attacco Corpo a Corpo,Ataque Corpo-a-Corpo,近戰攻擊
+EABILITY_SUICIDEMELEE_DESC,A melee attack that also damages yourself.,,Un ataque cuerpo a cuerpo que también daña a esta unidad.,Une attaque au corps-à-corps qui vous inflige également des dégâts.,"Ein Nahkampfangriff, der dir auch selbst Schaden zufügt.",Un attacco corpo a corpo che danneggia anche te.,Um ataque corpo-a-corpo que também causa dano a você.,一種近戰攻擊，也會傷害自己。
 EABILITY_SPAWNMAGGOT_NAME,Spawn Maggot,,Generación de gusano,Invocation d'asticot,Made rufen,Generazione Larva,Gerar Verme,生成蛆
 EABILITY_SPAWNMAGGOTS_NAME,Spawn Maggots,,Generación de gusanos,Invocation d'asticots,Maden rufen,Generazione Larve,Gerar Vermes,生成蛆蟲
 EABILITY_SPAWNFLEA_NAME,Spawn Flea,,Generación de pulga,Invocation de puce,Floh rufen,Generazione Pulce,Gerar Pulga,生成跳蚤
@@ -84,7 +84,7 @@ EABILITY_D6STORM_NAME,5 : Storm,,5 : Tormenta,5&nbsp;: Tempête,5 : Sturm,5: Tem
 EABILITY_D6WRATH_NAME,6 : Wrath,,6 : Ira,6&nbsp;: Colère,6 : Zorn,6: Ira,6 : Ira,6 : 憤怒
 EABILITY_ROLLDICE_NAME,Roll!,,¡Tirada!,Roule&nbsp;!,Wurf!,Tira!,Cambalhota!,擲骰！
 EABILITY_SHOVE_NAME,Shove,,Envite,Bourrade,Schubsen,Spinta,Encontrão,推搡
-EABILITY_POISONKNIFE_NAME,Poison Knife,,Cuchillo venenoso,Couteau empoisonné,Giftmesser,Coltello Avvelenato,Faca Envenenada,毒刃
+EABILITY_POISONKNIFE_NAME,Poison Knife,,Cuchillo venenoso,Couteau empoisonné,Giftmesser,Coltello Avvelenato,Faca Envenenada,中毒刀
 EABILITY_HEALBOMB_NAME,Heal Bomb,,Bomba curativa,Bombe de soin,Heilbombe,Bomba Curativa,Bomba de Cura,治療炸彈
 EABILITY_MASSHEAL_NAME,Mass Heal,,Curación colectiva,Soin de masse,Massenheilung,Cura di Massa,Cura em Massa,羣體治療
 EABILITY_CHAINDASH_NAME,Chain Dash,,Carrera encadenada,Charge en chaîne,Mehrfachansturm,Scatto a Catena,Impulso Encadeado,連鎖衝刺
@@ -110,7 +110,7 @@ EABILITY_WIGGLE_NAME,Wiggle,,Serpenteo,Trémoussage,Wackel,Dimenamento,Balançad
 EABILITY_MEATMINION_NAME,Meat Minion,,Secuaz carnoso,Viande de serviteur,Fleischdiener,Servitore di Carne,Servo de Carne,肉爪牙
 EABILITY_BLOATYEXPLODE_NAME,Explode,,Explosión,Explosion,Explodieren,Esplosione,Explosão,爆炸
 EABILITY_BLOATYEXPLODE_DESC,he explode,,explota,Une explosion.,er macht Bumm,lui esplode,ele faz bum,他爆炸
-EABILITY_SPAWNDIP_NAME,Spawn Dip,,Generación de catalino,Invocation de caca,Köttel rufen,Generazione Cacchina,Gerar Cocô,生成蘸料
+EABILITY_SPAWNDIP_NAME,Spawn Dip,,Generación de catalino,Invocation de caca,Köttel rufen,Generazione Cacchina,Gerar Caquinha,生成蘸料
 EABILITY_LEECHDASH_NAME,Leech Dash,,Carrera de sanguijuelas,Charge de sangsue,Blutegelansturm,Scatto della Sanguisuga,Impulso Sanguessuga,水蛭衝刺
 EABILITY_BUMBLEJUMP_NAME,Bumble Jump,,Bumblesalto,Saut de ver glouton,Bummelsprung,Bubbosalto,Salto Confuso,大黃蜂跳躍
 EABILITY_FEAST_NAME,Feast,,Festín,Festin,Festmahl,Banchetto,Banquete,盛宴
@@ -118,7 +118,7 @@ EABILITY_BONESPURT_NAME,Bone Spurt,,Borbotón óseo,Jet d'os,Knochensporn,Schizz
 EABILITY_ROCKSONG_NAME,Rock Song,,Canción roquera,Morceau de rock,Steinlied,Canzone della Roccia,Canção de Rock,石歌
 EABILITY_CHUBSPIN_NAME,Chub Spin,,Giro de Chub,Toupie moignon,Chub-Wirbel,Trottola di Chubs,Giro Gorduroso,肥仔旋轉
 EABILITY_NUKE_NAME,Nuke,,Arma nuclear,Bombe nucléaire,Atombombe,Bomba Nucleare,Nuclear,核彈
-EABILITY_NUBFLUB_NAME,Nub Flub,,Pifia de Nub,Bourde moignon,Nub-Sprung,Pasticcio di Flubs,Bochechada,殘廢失誤
+EABILITY_NUBFLUB_NAME,Nub Flub,,Pifia de Nub,Bourde moignon,Nub-Sprung,Pasticcio di Flubs,Catotada,殘廢失誤
 EABILITY_FLUSH_NAME,Flush,,Cisterna,Chasse d'eau,Spülung,Sciacquone,Descarga,沖刷
 EABILITY_TENTICKLES_NAME,Ten Tickles,,Pulpillitas,Tentaccule,Kitzler,Solletico Tentacolare,Dez Cócegas,十次撓癢
 EABILITY_BOTTOMSUP_NAME,Bottoms Up,,¡Salud!,Cul sec,Prost,Cin Cin,Inversão,乾杯
@@ -135,9 +135,13 @@ Wenn Zauberkonter bis zu deinem nächsten Zug nicht ausgelöst wurde, erhalte +2
 Se il controincantesimo non viene attivato entro il tuo prossimo turno, lo assorbi e ottieni +2 al Danno e +2 Aumento delle Statistiche.","Contra-ataca o próximo encantamento lançado por um inimigo.
 Se o contrafeitiço não for ativado no seu próximo turno, absorva-o para obter +2 de dano e +2 em todos os atributos.","反制敵人下一次施放的法術。
 如果反魔法術在你下一回合之前未被觸發，
-則吸收該法術，獲得+2傷害和+2所有屬性提升。"
+
+則吸收該法術，
+獲得+2傷害和+2所有屬性提升。
+"
 EABILITY_BRAINMISSLE_NAME,Brain Missile,,Misil cerebral,Missile psy,Hirnrakete,Missile Mentale,Míssil Cerebral,腦導彈
-EABILITY_BRAINMISSLE_DESC,Shoot an infinite-range projectile that can't miss.,,Dispara un proyectil de alcance infinito que no puede fallar.,Tire un projectile à portée infinie qui ne rate jamais sa cible.,"Feuere ein Geschoss mit unendlicher Reichweite ab, das nicht verfehlen kann.",Spara un proiettile a raggio d'azione infinito che non può mancare il bersaglio.,Dispare um projétil de alcance infinito que não pode errar.,發射一個不會失手的無限射程彈幕。
+EABILITY_BRAINMISSLE_DESC,Shoot an infinite-range projectile that can't miss.,,Dispara un proyectil de alcance infinito que no puede fallar.,Tire un projectile à portée infinie qui ne rate jamais sa cible.,"Feuere ein Geschoss mit unendlicher Reichweite ab, das nicht verfehlen kann.",Spara un proiettile a raggio d'azione infinito che non può mancare il bersaglio.,Dispare um projétil de alcance infinito que não pode errar.,"發射一個不會失手的無限射程彈幕。
+"
 EABILITY_ACIDSHOT_NAME,Acid Shot,,Tiro ácido,Tir acide,Säureschuss,Colpo Acido,Disparo Ácido,酸液射擊
 EABILITY_SUCK_NAME,Suck,,Succión,Aspiration,Sauger,Risucchio,Sugar,吸入
 EABILITY_SUCK_DESC,"Inhale a unit, then spit it out.",,Aspira a una unidad y luego la escupe.,"Aspire une unité, puis la recrache.",Atme eine Einheit ein und spucke sie anschließend aus.,Inala un'unita e poi la sputa via.,Inale uma unidade e então cuspa-a.,吸入一個單位，然後吐出。
@@ -161,9 +165,9 @@ EABILITY_ZEALOT_NAME,Zealot,,Fanatismo,Zélote,Fanatiker,Zelota,Fanatismo,狂熱
 EABILITY_BONESHOT_NAME,Bone Shot,,Tiro óseo,Tir d'os,Knochenschuss,Colpo d'Ossa,Disparo Ósseo,骨射
 EABILITY_SANDRUSH_NAME,Sand Rush,,Embestida arenosa,Charge sableuse,Sandrausch,Scatto di Sabbia,Ataque de Areia,沙塵衝刺
 EABILITY_EAT_NAME,Eat,,Comida,Manger,Essen,Mangia,Comer,喫
-EABILITY_POISONATTACK_NAME,Poison Attack,,Ataque venenoso,Attaque empoisonnée,Giftangriff,Attacco Velenoso,Ataque Venenoso,毒攻擊
+EABILITY_POISONATTACK_NAME,Poison Attack,,Ataque venenoso,Attaque empoisonnée,Giftangriff,Attacco Velenoso,Ataque Venenoso,中毒攻擊
 EABILITY_STING_NAME,Sting,,Picadura,Piqûre,Stich,Puntura,Ferroada,刺針
-EABILITY_GRAPPLE_NAME,Grapple,,Sujeción,Baston,Zupacken,Grappino,Agarrar,鎖喉
+EABILITY_GRAPPLE_NAME,Grapple,,Sujeción,Baston,Zupacken,Grappino,Agarrão,鎖喉
 EABILITY_SHOOTGUN_NAME,Shoot Gun,,Disparo de arma,Tir de fusil,Revolver,Colpo di Pistola,Disparo de Arma,開槍
 EABILITY_RELOAD_NAME,Reload,,Recarga,Recharge,Nachladen,Ricarica,Recarregamento,重新裝填
 EABILITY_HUG_NAME,Hug,,Abrazo,Câlin,Umarmung,Abbraccio,Abraço,擁抱
@@ -176,7 +180,7 @@ EABILITY_BLESS_NAME,Bless,,Bendición,Grâce,Segnen,Benedizione,Abençoar,祝福
 EABILITY_FEELGOODDRUGS_NAME,Feel Good Drugs,,Estimulantes,Drogues agréables,Das gute Zeug,Medicine del Buonumore,Drogas Boas,感受良藥
 EABILITY_FEELBADDRUGS_NAME,Feel Bad Drugs,,Depresivos,Drogues désagréables,Das schlechte Zeug,Medicine del Malumore,Drogas Ruins,感受惡藥
 EABILITY_RECHARGE_NAME,Recharge,,Recarga,Recharger,Aufladen,Alimentazione,Recarga,充能
-EABILITY_KILLDOZE_NAME,Killdoze,,Devastación,Killdoze,Killdozer,Killdoze,Demolição Mortal,殺戮重擊
+EABILITY_KILLDOZE_NAME,Killdoze,,Devastación,Killdoze,Killdozer,Killdoze,Devastação,殺戮重擊
 EABILITY_GUNKBALL_NAME,Gunk Ball,,Bola de pringue,Boule de crasse,Schmierball,Palla di Poltiglia,Bola de Gosma,污泥球
 EABILITY_TELEKENESIS_NAME,Telekinesis,,Telequinesis,Télékinésie,Telekinese,Telecinesi,Telecinese,念動力
 EABILITY_MINDCONTROL_NAME,Mind Control,,Control mental,Contrôle psychique,Gedankenkontrolle,Controllo Mentale,Controle Mental,精神控制
@@ -209,7 +213,7 @@ EABILITY_MSHEILD_NAME,M-Shield,,Megaescudo,Bouclier-M,M-Schild,Scudo-M,Escudo-M,
 EABILITY_PRIMEBLAST_NAME,Prime Blast,,Primera explosión,Explosion primordiale,Urknall,Esplosione Primaria,Explosão Primordial,主爆炸
 EABILITY_HOWL_NAME,Howl,,Alarido,Hurlement,Heuler,Ululato,Uivar,嚎叫
 EABILITY_CHARM_NAME,Charm,,Embrujo,Envoûtement,Charme,Ammaliamento,Feitiço,魅惑
-EABILITY_CERBERUBFLUB_NAME,Cerberub Flub,,Pifia de Cerberino,Bourde de cerbère moignon,Zerbussiflups,Flub di Decerbero,Erro de Cerberub,Cerberub Flub
+EABILITY_CERBERUBFLUB_NAME,Cerberub Flub,,Pifia de Cerberino,Bourde de cerbère moignon,Zerbussiflups,Flub di Decerbero,Erro de Cerberub,冥犬泡泡
 EABILITY_MAUL_NAME,Maul,,Vapuleo,Mutilation,Zerfleischen,Dilaniamento,Espancamento,撕咬
 EABILITY_DEATH_NAME,Death,,Muerte,Mort,Tod,Morte,Morte,死亡
 EABILITY_PESTILENCE_NAME,Pestilence,,Pestilencia,Pestilence,Pestilenz,Pestilenza,Pestilência,瘟疫
@@ -223,9 +227,9 @@ EABILITY_SNOW_NAME,Snow,,Nieve,Neige,Schnee,Neve,Neve,雪
 EABILITY_LIGHTNINGDASH_NAME,Lightning Dash,,Carrera relámpago,Charge électrique,Blitzansturm,Scatto Fulmineo,Impulso Elétrico,閃電衝刺
 EABILITY_LIGHTNINGSTORM_NAME,Lightning Storm,,Tormenta eléctrica,Tempête d'éclairs,Gewitter,Tempesta di Fulmini,Tempestade de Raios,閃電風暴
 EABILITY_QUAKE_NAME,Quake,,Temblor,Séisme,Erdbeben,Terremoto,Terremoto,地震
-EABILITY_MOONMANCHARGE_NAME,:O,,:O,:O,:O,:O,:O,:O
+EABILITY_MOONMANCHARGE_NAME,:O,,:O,:O,:O,:O,:O,月球能量衝擊
 EABILITY_CALLFORHELP_NAME,Call for Help,,Llamada de socorro,Appel à l'aide,Hilferuf,Richiesta di Aiuto,Pedido de Ajuda,呼救
-EABILITY_FOOGABUNGA_NAME,Fooga Bunga,,Fooga Bunga,Fooga Bunga,Fugga Bunga,Fooga Bunga,Fooga Bunga,Fooga Bunga
+EABILITY_FOOGABUNGA_NAME,Fooga Bunga,,Fooga Bunga,Fooga Bunga,Fugga Bunga,Fooga Bunga,Fooga Bunga,泡泡狂歡
 EABILITY_POUNCE_NAME,Pounce,,Acometida,Bond,Anspringen,Guizzo,Agressão,撲擊
 EABILITY_GRUKOOGMOOGA_NAME,Gruk Oog Mooga,,¡Gruk oog mooga!,Gruk Oog Mooga,Gruk Uck Mugga,Gruk Oog Mooga,Gruk Oog Mooga,格魯克 烏格 莫加
 EABILITY_ATOOKTHAGKAT_NAME,Atook Thag Kat,"""attack that cat"" in cave speak",Gato ñamñam,Atak sseu cha,Katza haun,Atak Que Gat,Atook Thag Kat,阿圖克 塔格 卡特
@@ -244,7 +248,7 @@ EABILITY_FUTUREBOTEXECUTE_NAME,Ausführen,,Ausführen,Ausführen,Hinrichten,Ausf
 EABILITY_BEWEGEN_NAME,Bewegen,,Bewegen,Bewegen,Marschbefehl,Bewegen,Bewegen,移動
 EABILITY_BLITZKRIEG_NAME,Blitzkrieg,,Blitzkrieg,Blitzkrieg,Blitzkrieg,Blitzkrieg,Blitzkrieg,閃電戰
 EABILITY_DUMP_NAME,Dump,,Evacuación,Excrément,Häufchen,Scarica,Despejo,投擲
-EABILITY_LOOGIE_NAME,Loogie,,Gargajo,Mollard,Rotze,Catarro,Focinho,鼻涕蟲
+EABILITY_LOOGIE_NAME,Loogie,,Gargajo,Mollard,Rotze,Catarro,Catarro,鼻涕蟲
 EABILITY_POSSESS_NAME,Possess,,Posesión,Possession,Besitz ergreifen,Possessione,Possuir,附身
 EABILITY_REANIMATE_NAME,Reanimate,,Reanimación,Retour à la vie,Reanimation,Rianimazione,Reanimar,復活
 EABILITY_PREDICT_NAME,Predict,,Predicción,Prédiction,Vorhersehen,Predizione,Predição,預測
@@ -255,7 +259,7 @@ EABILITY_CRASH_NAME,Crash,,Colisión,Collision,Absturz,Scontro,Batida,崩潰
 EABILITY_HOLYLIGHT_NAME,Holy Light,,Luz sagrada,Lumière sainte,Heiliges Licht,Luce Sacra,Luz Sagrada,聖光
 EABILITY_REVIVE_NAME,Revive,,Resucitación,Réanimation,Wiederbeleben,Risuscitazione,Reviver,復活
 EABILITY_ALLURE_NAME,Allure,,Atracción,Attrait,Reiz,Fascino,Atração,魅力
-EABILITY_POISONKISS_NAME,Poison Kiss,,Beso venenoso,Baiser empoisonné,Giftkuss,Bacio Avvelenato,Beijo Venenoso,毒吻
+EABILITY_POISONKISS_NAME,Poison Kiss,,Beso venenoso,Baiser empoisonné,Giftkuss,Bacio Avvelenato,Beijo Venenoso,中毒吻
 EABILITY_HOLYWIND_NAME,Holy Wind,,Viento sagrado,Vent sacré,Heiliger Wind,Vento Sacro,Vento Sagrado,聖風
 EABILITY_ABSORBSOUL_NAME,Absorb Soul,,Absorción de alma,Absorption d'âme,Seele absorbieren,Assorbimento dell'Anima,Absorver Alma,吸取靈魂
 EABILITY_DEFECATE_NAME,Defecate,,Defecación,Défécation,Koten,Defecazione,Defecar,排便

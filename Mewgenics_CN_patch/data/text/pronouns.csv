@@ -1,4 +1,4 @@
-KEY,en,notes,sp,fr,de,it,pt-br,zh
+﻿KEY,en,notes,sp,fr,de,it,pt-br,zh
 PRONOUN_HE_LOWER,he,replaces {he} in other strings,él,il,er,lui,ele,他
 PRONOUN_HE_UPPER,He,replaces {He} in other strings,Él,Il,Er,Lui,Ele,他
 PRONOUN_HE_S_LOWER,he's,replaces {he's} in other strings,él,,er ist,lui è,ele está,他是

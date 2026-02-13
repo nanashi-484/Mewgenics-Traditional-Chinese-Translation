@@ -1,4 +1,4 @@
-KEY,en,notes,sp,fr,de,it,pt-br,zh
+﻿KEY,en,notes,sp,fr,de,it,pt-br,zh
 CURRENT_LANGUAGE_NAME,English,"put ""espanol"" in the spanish column, ""francois"" in the french one, etc. Limited text box space so abbreviate if necessary",Español,Français,Deutsch,Italiano,Português (Brasil),中文
 CURRENT_LANGUAGE_SHIPPABLE,yes,"put ""yes"" if the language is shippable and ""no"" if its not ready yet. this is not displayed, just used to determine if the language should show in the UI selector",yes,yes,yes,yes,yes,yes
 ,,,,,,,,
@@ -23,7 +23,7 @@ ENEMY_FATWOMAN_DESC,"Melee attacker with Knockback.
 Reflects projectiles. Units that contact it get knocked back.
 Trample.",,"Atacante cuerpo a cuerpo con retroceso.
 Devuelve los proyectiles. Las unidades que entran en contacto retroceden.
-Pisotón.","Attaque au corps à corps avec Recul.
+Pisotón.","Attaque au corps-à-corps avec Recul.
 Renvoie les projectiles. Les unités qui le touchent sont repoussées.
 Piétinement.","Nahkämpferin mit Rückstoß.
 Reflektiert Geschosse. Einheiten, die sie berühren, werden zurückgestoßen.
@@ -72,35 +72,35 @@ SETTINGS_GAME_HEADER,Game Settings,,Ajustes de juego,Réglages du jeu,Gameplay,I
 SETTINGS_LANGUAGE_LABEL,Language,,Idioma,Langue,Sprache,Lingua,Idioma,語言
 SETTINGS_HUMPING_LABEL,Humping Animations,,Animaciones de ñiqui ñiqui,Animations de coït,Paarungsanimation,Animazioni di accoppiamento,Animações impróprias,騎乘動畫
 SETTINGS_HUMPING_OPT_NORMAL,Normal,,Normales,Normales,Normal,Normali,Normal,普通
-SETTINGS_HUMPING_OPT_SAFE,Safe,,Caja fuerte,Tout public,Kinderfreundlich,Sicure,Seguro,安全
+SETTINGS_HUMPING_OPT_SAFE,Safe,,Seguras,Tout public,Kinderfreundlich,Sicure,Seguro,安全
 SETTINGS_HUMPING_OPT_RANDOM,Random,,Al azar,Aléatoires,Zufall,Casuali,Aleatório,隨機
 SETTINGS_AUTOSELECT_LABEL,Autoselect Basic Actions,,Autoseleccionar acciones básicas,Autosélection des actions de base,Grundaktionen automatisch auswählen,Selezione automatica azioni di base,Selecionar ações básicas automaticamente,自動選擇基礎動作
 SETTINGS_DOUBLECLICK_LABEL,Targeting Empty Tiles Requires Double Click,,Es necesario hacer doble clic para marcar casillas vacías,Double-clic pour cibler une case vide,Anvisieren leerer Felder erfordert Doppelklick,Per selezionare caselle vuote è necessario un doppio clic,Mirar em espaços vazios requer clique duplo,目標爲空格需要雙擊
 SETTINGS_DOUBLECLICK_LABEL_GAMEPAD,Targeting Empty Tiles Requires Double Press,,Es necesario presionar dos veces para marcar casillas vacías,Double appui pour cibler une case vide,Anvisieren leerer Felder erfordert doppelten Tastendruck,Per selezionare caselle vuote è necessario una doppia pressione,Mirar em espaços vazios requer pressionar duas vezes,目標爲空格需要雙按
-SETTINGS_MAXSTATUSES_LABEL,Max Statuses Shown Before Collapse,,Se muestran los estados al máximo antes de derrumbarse,Statuts max. affichés avant réduction,Max. Anzahl Statuseffekte vor Verkleinerung,Numero massimo di stati visualizzati prima della chiusura,Mostrar atributos máximos antes de colapsar,最大狀態顯示數量（超過則摺疊）
-SETTINGS_MAXSTATUSES_OPT_0,Hover Only,,Solo pasar el ratón,Survol uniquement,Nur bei Hover,Solo al passaggio del cursore,Apenas passar,僅懸停顯示
-SETTINGS_COLLAPSEELITEBUFFS_LABEL,Collapse Multiple Elite Buffs,,Ventajas de derrumbe de varias unidades de élite,Réduire les bonus d'élite des boss,Mehrere Elitestärkungen zusammenfassen,Chiudi bonus élite multipli,Colapsar múltiplos reforços de elite,摺疊多個精英增益
+SETTINGS_MAXSTATUSES_LABEL,Max Statuses Shown Before Collapse,,Máximo de estados mostrados antes de ocultarlos,Statuts max. affichés avant réduction,Max. Anzahl Statuseffekte vor Verkleinerung,Numero massimo di stati visualizzati prima della chiusura,Mostrar atributos máximos antes de colapsar,最大狀態顯示數量（超過則摺疊）
+SETTINGS_MAXSTATUSES_OPT_0,Hover Only,,Solo pasar el cursor,Survol uniquement,Nur bei Hover,Solo al passaggio del cursore,Apenas passar,僅懸停顯示
+SETTINGS_COLLAPSEELITEBUFFS_LABEL,Collapse Multiple Elite Buffs,,Ocultar varias ventajas de élite,Réduire les bonus d'élite des boss,Mehrere Elitestärkungen zusammenfassen,Chiudi bonus élite multipli,Colapsar múltiplos reforços de elite,摺疊多個精英增益
 SETTINGS_COMBATSPEED_LABEL,Combat Speed,,Velocidad de combate,Vitesse de combat,Kampfgeschwindigkeit,Velocità di combattimento,Velocidade do combate,戰鬥速度
 SETTINGS_TOOLTIPSIZE_LABEL,Tooltip Size,,Tamaño de información,Taille des infobulles,Größe von Tooltipps,Dimensione suggerimenti,Tamanho das dicas,提示大小
 SETTINGS_STATUSBARSIZE_LABEL,Status Bar Size,,Tamaño de barra de estado,Taille de la barre de statut,Größe der Statusleiste,Dimensione barra di stato,Tamanho da barra de estado,狀態欄大小
 SETTINGS_SAVEFILEBACKUP_LABEL,Save File Backup Period,,Intervalo de guardado de archivos,Fréquence des sauvegardes auto.,Backupfrequenz von Speicherständen,Frequenza backup dei salvataggi,Frequência de backup de salvamentos,存檔備份週期
-SETTINGS_SAVEFILEBACKUP_OPT_15,15 min,,15 min,15&nbsp;min,15 Min.,15 min,15 min,15 分鐘
-SETTINGS_SAVEFILEBACKUP_OPT_30,30 min,,30 min,30&nbsp;min,30 Min.,30 min,30 min,30 分鐘
-SETTINGS_SAVEFILEBACKUP_OPT_60,1 hr,,1 h,1&nbsp;h,1 Std.,1 ora,1 h,1 小時
-SETTINGS_SAVEFILEBACKUP_OPT_120,2 hr,,2 h,2&nbsp;h,2 Std.,2 ore,2 h,2 小時
+SETTINGS_SAVEFILEBACKUP_OPT_15,15 min,,15 min,15&nbsp;min,15 Min.,15 min,15min,15 分鐘
+SETTINGS_SAVEFILEBACKUP_OPT_30,30 min,,30 min,30&nbsp;min,30 Min.,30 min,30min,30 分鐘
+SETTINGS_SAVEFILEBACKUP_OPT_60,1 hr,,1 h,1&nbsp;h,1 Std.,1 ora,1h,1 小時
+SETTINGS_SAVEFILEBACKUP_OPT_120,2 hr,,2 h,2&nbsp;h,2 Std.,2 ore,2h,2 小時
 SETTINGS_SAVEFILEBACKUP_OPT_0,Never,,Nunca,Jamais,Nie,Mai,Nunca,從不
 SETTINGS_VIDEO_HEADER,Video Settings,,Ajustes de vídeo,Réglages vidéo,Video,Impostazioni video,Vídeo,視頻設置
 SETTINGS_FULLSCREEN_LABEL,Fullscreen,,Pantalla completa,Plein écran,Vollbild,Schermo intero,Tela cheia,全屏
 SETTINGS_ANTIALIAS_LABEL,Antialias (MSAA),,Antialiasing (MSAA),Anticrénelage (MSAA),Antialiasing (MSAA),Antialias (MSAA),Antialiasing (MSAA),抗鋸齒 (MSAA)
 SETTINGS_ANTIALIAS_OPT_0,Off,,No,Désactivé,Aus,Disattivato,Não,關閉
-SETTINGS_VSYNC_LABEL,VSync,,Sinc. vertical,Synchronisation verticale,VSync,V-Sync,VSync,垂直同步
+SETTINGS_VSYNC_LABEL,VSync,,Sincronización vertical,Synchronisation verticale,VSync,V-Sync,VSync,垂直同步
 SETTINGS_RENDERSCALE_LABEL,Render Scale,,Escala de renderizado,Échelle de rendu,Render-Skalierung,Scala di rendering,Escala de renderização,渲染比例
 SETTINGS_VIGNETTE_LABEL,Vignette Flicker,,Parpadeo de viñeta,Effet de vignette clignotant,Vignette-Flimmern,Sfarfallio della vignettatura,Tremor de vinheta,暗角閃爍
-SETTINGS_VIGNETTE_OPT_NORMAL,Normal,,Normales,Normal,Normal,Normale,Normal,普通
+SETTINGS_VIGNETTE_OPT_NORMAL,Normal,,Normal,Normal,Normal,Normale,Normal,普通
 SETTINGS_VIGNETTE_OPT_LOW,Low,,Bajo,Faible,Niedrig,Basso,Baixo,低
 SETTINGS_VIGNETTE_OPT_NONE,None,,Nada,Aucun,Aus,Nessuno,Nenhum,無
 SETTINGS_NOISEGRAIN_LABEL,Noise & Grain,,Ruido y granulado,Effets de bruit et de grain,Rauschen & Körnung,Rumore e grana,Interferência e granulação,噪點與顆粒
-SETTINGS_NOISEGRAIN_OPT_NORMAL,Normal,,Normales,Normal,Normal,Normale,Normal,普通
+SETTINGS_NOISEGRAIN_OPT_NORMAL,Normal,,Normal,Normal,Normal,Normale,Normal,普通
 SETTINGS_NOISEGRAIN_OPT_MEDIUM,No Hair,,Sin pelo,Pas de cheveux,Keine Haare,Niente peli,Sem pelos,無頭髮
 SETTINGS_NOISEGRAIN_OPT_LOW,No Dust,,Sin polvo,Pas de poussière,Keine Staubkörner,Niente polvere,Sem poeira,無塵埃
 SETTINGS_NOISEGRAIN_OPT_NONE,None,,Nada,Aucun,Aus,Nessuno,Nenhum,無
@@ -109,10 +109,10 @@ SETTINGS_CURSORMODE_OPT_INGAME,In Game,,Juego,En jeu,Spiel,Di gioco,Jogo,遊戲�
 SETTINGS_CURSORMODE_OPT_DEVICE,Device,,Dispositivo,Appareil,Gerät,Del dispositivo,Dispositivo,設備
 SETTINGS_AUDIO_HEADER,Audio Settings,,Ajustes de sonido,Réglages audio,Audio,Impostazioni audio,Áudio,音頻設置
 SETTINGS_MASTERVOLUME,Master Volume,,Volumen principal,Volume principal,Gesamtlautstärke,Volume principale,Volume principal,主音量
-SETTINGS_MUSICVOLUME,Music Volume,,Volumen de música,Volume de la musique,Musik,Volume musica,Volume da música,音樂音量
-SETTINGS_SFXVOLUME,SFX Volume,,Volumen de efectos,Volume des effets sonores,Soundeffekte,Volume effetti sonori,Volume de efeitos,音效音量
-SETTINGS_MEOWVOLUME,Meow Volume,,Volumen de maullidos,Volume des miaulements,Miauen,Volume miagolii,Volume de miados,喵喵音量
-SETTINGS_HOUSEMEOWVOLUME,Meow Volume (House),,Volumen de maullidos (casa),Volume des miaulements (maison),Miauen (im Haus),Volume miagolii (in casa),Volume de miados (casa),喵喵音量（房屋）
+SETTINGS_MUSICVOLUME,Music Volume,,Volumen de música,Musique,Musik,Volume musica,Volume da música,音樂音量
+SETTINGS_SFXVOLUME,SFX Volume,,Volumen de efectos,Effets sonores,Soundeffekte,Volume effetti sonori,Volume de efeitos,音效音量
+SETTINGS_MEOWVOLUME,Meow Volume,,Volumen de maullidos,Miaulements,Miauen,Volume miagolii,Volume de miados,喵喵音量
+SETTINGS_HOUSEMEOWVOLUME,Meow Volume (House),,Volumen de maullidos (casa),Miaulements (maison),Miauen (im Haus),Volume miagolii (in casa),Volume de miados (casa),喵喵音量（房屋）
 SETTINGS_KEYCONTROLS_HEADER,Keyboard Controls,,Controles de teclado,Commandes au clavier,Tastatur,Controlli tastiera,Teclado,鍵盤控制
 SETTINGS_PADCONTROLS_HEADER,Gamepad Controls,,Controles de mando,Commandes à la manette,Gamepad,Controlli gamepad,Controle,手柄控制
 SETTINGS_CONTROLS_GENERAL_COLUMNHEADER,General,,General,En général,Allgemein,Generale,Geral,通用
@@ -126,8 +126,8 @@ SETTINGS_CONTROLBINDING_CANCEL,Cancel,,Cancelar,Annuler,Abbrechen,Annulla,Cancel
 SETTINGS_CONTROLBINDING_PAUSE,Pause,,Pausa,Mettre en pause,Pause,Pausa,Pausar,暫停
 SETTINGS_CONTROLBINDING_ZOOMIN,Zoom In,,Acercar,Zoomer,Hereinzoomen,Zoom avanti,Aproximar,放大
 SETTINGS_CONTROLBINDING_ZOOMOUT,Zoom Out,,Alejar,Dézoomer,Herauszoomen,Zoom indietro,Afastar,縮小
-SETTINGS_CONTROLBINDING_FLIPFURNITURE,Flip Furniture,,Girar menaje,Tourner les meubles,Möbel spiegeln,Capovolgi mobili,Virar móveis,翻轉傢俱
-SETTINGS_CONTROLBINDING_SKIPCUTSCENE,Skip Cutscene,,Omitir cinemática,Passer la cinématique,Zwischensequenz überspringen,Salta filmati,Pular cena,跳過過場動畫
+SETTINGS_CONTROLBINDING_FLIPFURNITURE,Flip Furniture,,Girar mueble,Tourner les meubles,Möbel spiegeln,Capovolgi mobili,Virar móveis,翻轉傢俱
+SETTINGS_CONTROLBINDING_SKIPCUTSCENE,Skip Cutscene,,Omitir escena,Passer la cinématique,Zwischensequenz überspringen,Salta filmati,Pular cena,跳過過場動畫
 SETTINGS_CONTROLBINDING_HOTKEYMOVE,Move,,Movimiento,Se déplacer,Bewegen,Sposta,Mover,移動
 SETTINGS_CONTROLBINDING_HOTKEYWEAPON,Weapon,,Arma,Armes,Waffe,Arma,Arma,武器
 SETTINGS_CONTROLBINDING_HOTKEYTRINKET,Trinket,,Baratija,Babioles,Zubehör,Ciondolo,Acessório,飾品
@@ -139,8 +139,8 @@ SETTINGS_CONTROLBINDING_HOTKEYSPELL4,Spell 4,,Hechizo 4,Sort&nbsp;4,Zauber 4,In
 SETTINGS_CONTROLBINDING_HOTKEYSPELL5,Spell 5,,Hechizo 5,Sort&nbsp;5,Zauber 5,Incantesimo 5,Encantamento 5,技能 5
 SETTINGS_CONTROLBINDING_HOTKEYENDTURN,End Turn,,Terminar turno,Fin du tour,Zug beenden,Fine del turno,Finalizar turno,結束回合
 SETTINGS_CONTROLBINDING_CURSOR,Cursor,,Cursor,Curseur,Mauszeiger,Cursore,Cursor,光標
-SETTINGS_CONTROLBINDING_NAVLEFT,Nav Left,,Mover izq.,Nav. à gauche,Nach links,Naviga a sinistra,Nav. esq,向左導航
-SETTINGS_CONTROLBINDING_NAVRIGHT,Nav Right,,Mover dch.,Nav. à droite,Nach rechts,Naviga a destra,Nav. dir,導航 右
+SETTINGS_CONTROLBINDING_NAVLEFT,Nav Left,,Mover izquierda,Nav. à gauche,Nach links,Naviga a sinistra,Nav. esq,向左導航
+SETTINGS_CONTROLBINDING_NAVRIGHT,Nav Right,,Mover derecha,Nav. à droite,Nach rechts,Naviga a destra,Nav. dir,導航 右
 SETTINGS_CONTROLBINDING_NAVUP,Nav Up,,Mover arriba,Nav en haut,Nach oben,Naviga su,Nav. cima,導航 上
 SETTINGS_CONTROLBINDING_NAVDOWN,Nav Down,,Mover abajo,Nav. en bas,Nach unten,Naviga giù,Nav. baixo,導航 下
 SETTINGS_CONTROLBINDING_NAVFORWARD,Nav Forward,,Adelante,Nav. en avant,Nach vorn,Naviga in avanti,Nav. frente,導航 前進
@@ -163,7 +163,7 @@ il file di salvataggio {savefilenumber}?","Tem certeza de que deseja
 apagar o arquivo {savefilenumber}?",您確定要擦除保存文件 {savefilenumber} 嗎？
 SAVE_FILE_COMPLETION_PERCENT,{percent}% Complete,,{percent} % completado,Progression&nbsp;: {percent}&nbsp;%,{percent}&nbsp;% Fortschritt,Completamento: {percent}%,{percent}% concluído,{percent}% 完成
 ,,,,,,,,
-POPUP_TRY_ABANDON_RUN,"Are you sure you want to abandon this adventure? You will lose the cats, items, food, money, and furniture you found.",,"¿Seguro que quieres abandonar esta aventura? Perderás los gatos, los objetos, la comida, el dinero y el menaje que hayas encontrado.","Voulez-vous vraiment abandonner cette aventure&nbsp;? Vous perdrez vos chats, objets, nourriture, argent, meubles.","Willst du dein Abenteuer wirklich abbrechen? Du verlierst sämtliche Katzen, Gegenstände, Futter, Geld und Möbel, die du gefunden hast.","Vuoi davvero abbandonare quest'avventura? Perderai i gatti, gli oggetti, il cibo, i soldi e i mobili che hai trovato.","Tem certeza de que deseja abandonar esta aventura? Você perderá gatos, itens, comida, dinheiro e móveis que encontrou.",您確定要放棄這個冒險嗎？您將失去找到的貓咪、物品、食物、金錢和傢俱。
+POPUP_TRY_ABANDON_RUN,"Are you sure you want to abandon this adventure? You will lose the cats, items, food, money, and furniture you found.",,"¿Seguro que quieres abandonar esta aventura? Perderás los gatos, los objetos, la comida, el dinero y los muebles que hayas encontrado.","Voulez-vous vraiment abandonner cette aventure&nbsp;? Vous perdrez vos chats, objets, nourriture, argent, meubles.","Willst du dein Abenteuer wirklich abbrechen? Du verlierst sämtliche Katzen, Gegenstände, Futter, Geld und Möbel, die du gefunden hast.","Vuoi davvero abbandonare quest'avventura? Perderai i gatti, gli oggetti, il cibo, i soldi e i mobili che hai trovato.","Tem certeza de que deseja abandonar esta aventura? Você perderá gatos, itens, comida, dinheiro e móveis que encontrou.",您確定要放棄這個冒險嗎？您將失去找到的貓咪、物品、食物、金錢和傢俱。
 POPUP_TRY_ABANDON_HOUSEBOSS,Are you sure you want to concede this fight? You will lose the cats participating in the fight.,,¿Seguro que quieres rendirte? Perderás los gatos que participen en la pelea.,Voulez-vous vraiment déclarer forfait&nbsp;? Vous perdrez les chats participant au combat.,"Willst du den Kampf wirklich aufgeben? Du verlierst sämtliche Katzen, die an dem Kampf teilgenommen haben.",Vuoi davvero rinunciare a questo combattimento? Perderai i gatti che partecipano al combattimento.,Tem certeza de que deseja desistir desta luta? Você perderá os gatos que estão lutando.,您確定要認輸這場戰鬥嗎？您將失去參與戰鬥的貓咪。
 POPUP_TRY_SKIP_TUTORIAL,Are you sure you want to skip the tutorial?,,¿Seguro que quieres saltarte el tutorial?,Voulez-vous vraiment passer le didacticiel&nbsp;?,Willst du das Tutorial wirklich überspringen?,Vuoi davvero saltare il tutorial?,Tem certeza de que deseja pular o tutorial?,您確定要跳過教程嗎？
 POPUP_TRY_SAVESCUM_BATTLE,Are you sure you want to quit mid-fight? You will have to redo the fight,,¿Seguro que quieres abandonar a mitad del combate? Tendrás que empezarlo desde el principio.,Voulez-vous vraiment quitter en plein combat&nbsp;? Vous devrez rejouer le combat depuis le début,Willst du wirklich mitten im Kampf aufhören? Der Kampf beginnt beim nächsten Mal von vorn,Vuoi davvero abbandonare il combattimento a metà? Dovrai ripetere il combattimento,Tem certeza de que deseja sair no meio da luta? Você precisará refazê-la.,您確定要在戰鬥中途退出嗎？您將不得不重新進行戰鬥
@@ -175,10 +175,10 @@ POPUP_TRY_SAVESCUM_COUNT,(You have save scummed 1 time already on this adventure
 POPUP_TRY_SAVESCUM_COUNT_PLURAL,(You have save scummed {count} times already on this adventure),,(Ya has hecho trampas {count} veces en esta aventura).,(Vous avez déjà bidouillé votre sauvegarde {count} fois durant cette aventure.),(Du hast während dieses Abenteuers bereits {count}-mal betrogen),(Hai già effettuato salvataggi a ripetizione {count} volte in quest'avventura),(Você já recarregou {count} vezes nesta aventura),（您在這次冒險中已經存檔重載{count}次）
 ,,,,,,,,
 ABILITY_EXPLOSIVESHOT_NAME,Explosive Shot,,Tiro explosivo,Tir explosif,Explosivschuss,Colpo Esplosivo,Disparo Explosivo,爆炸射擊
-ABILITY_EXPLOSIVESHOT_DESC,Lob a puke projectile that does splash damage to neighboring units.,,Lanza un proyectil de vómito que inflige daño por metralla a las unidades cercanas.,Lance un projectile de vomi qui inflige des dégâts de zone aux unités adjacentes.,"Ein Kotzgeschoss, das Hindernisse ignoriert und bei benachbarten Einheiten Flächenschaden verursacht.",Spari un proiettile di vomito che infligge danno ad area alle unità vicine.,Lance um projétil de vômito em arco que causa dano em área em unidades vizinhas.,"投擲一個嘔吐物彈，
+ABILITY_EXPLOSIVESHOT_DESC,Lob a puke projectile that does splash damage to neighboring units.,,Lanza un proyectil de vómito que inflige daño por metralla a las unidades cercanas.,Lance un projectile de vomi qui inflige des dégâts de zone aux unités adjacentes.,"Ein Kotzgeschoss, das Hindernisse ignoriert und bei benachbarten Einheiten Flächenschaden verursacht.",Spari un proiettile di vomito che infligge danno ad area alle unità vicine.,Lance um projétil de vômito em arco que causa dano de propagação em unidades vizinhas.,"投擲一個嘔吐物彈，
 造成濺射傷害給相鄰單位。"
 EABILITY_DOUBLEHIT_NAME,Double Hit,,Doble golpe,Coup double,Doppelschlag,Colpo Doppio,Golpe Duplo,雙重打擊
-EABILITY_DOUBLEHIT_DESC,A melee attack that hits twice.,,Un ataque cuerpo a cuerpo que golpea 2 veces.,Une attaque au corps à corps qui touche deux fois.,"Ein Nahkampfangriff, der zweimal trifft.",Un attacco corpo a corpo che colpisce due volte.,Um ataque corpo-a-corpo que golpeia duas vezes.,一次近戰攻擊，攻擊兩次。
+EABILITY_DOUBLEHIT_DESC,A melee attack that hits twice.,,Un ataque cuerpo a cuerpo que golpea 2 veces.,Une attaque au corps-à-corps qui touche deux fois.,"Ein Nahkampfangriff, der zweimal trifft.",Un attacco corpo a corpo che colpisce due volte.,Um ataque corpo-a-corpo que golpeia duas vezes.,一次近戰攻擊，攻擊兩次。
 EABILITY_FLESHLAD_UPPERCUT_NAME,Uppercut,,Gancho,Uppercut,Kinnhaken,Montante,Upper,上鉤拳
 EABILITY_FLESHLAD_UPPERCUT_DESC,"Punch a unit, knocking it back 3 tiles and inflicting Bruise.
 [s:.7](Castable once per turn.)[/s]",,"Le da un puñetazo a una unidad que la hace retroceder 3 casillas y le inflige moratón.
@@ -186,8 +186,8 @@ EABILITY_FLESHLAD_UPPERCUT_DESC,"Punch a unit, knocking it back 3 tiles and infl
  [s:.7](Une fois par tour.)[/s]","Schlag eine Einheit, stoße sie 3&nbsp;Felder zurück und verursache Beulen bei ihr.
 [s:.7](Einmal pro Zug verwendbar.)[/s]","Colpisci un'unità, respingendola indietro di 3 caselle e infliggendole Livido.
 [s:.7](Lanciabile una volta per turno.)[/s]","Soque uma unidade, empurrando-a 3 espaços para trás e aplicando contusão.
-[s:.7](Um lançamento por turno.)[/s]","擊打一個單位，
-將其擊退3格並造成瘀傷。
+[s:.7](Um lançamento por turno.)[/s]","擊打一個單位，  
+將其擊退3格並造成挫傷。  
 [s:.7](每回合可施放一次。)[/s]"
 FAMILIAR_PHANTOMMASK_DESC,Invulnerable. Attack it to knock it foward in a straight line. It deals 5 damage to units it hits.,same as OBJECT_PETROCK_DESC but with the Invulnerable mention added to the beginning,Invulnerable. Se desplaza hacia delante en línea recta cuando la atacan. Inflige 5 de daño a las unidades que golpea.,Invulnérable. L'attaquer le projette en ligne droite. Inflige 5&nbsp;dégâts aux unités qu'il touche.,"Unverwundbar. Greif ihn an, um ihn in einer geraden Linie nach vorn zu schleudern. Verursacht 5&nbsp;Schaden bei Einheiten, die er trifft.",Invulnerabile. Attaccala per proiettarla in avanti in linea retta. Infligge 5 di danno alle unità che colpisce.,Invulnerável. Ataque-a para empurrá-la para frente em linha reta. Causa 5 de dano nas unidades que forem acertadas.,"無敵。攻擊它會將其直線擊退。
 它會對被擊中的單位造成5點傷害。"
@@ -212,7 +212,7 @@ ITEM_UNSTABLEDNA_DESC,"Use: Gain 6 random stat ups and 3 random stat downs, then
 ITEM_REDPILL_NAME,Red Pill,,Pastilla roja,Pilule rouge,Rote Pille,Pillola Rossa,Pílula Vermelha,紅色藥丸
 ITEM_REDPILL_DESC,"Use: 50% chance to get Chungus (+4 [img:con]), otherwise take 8 damage.",see DISORDER_CHUNGUS_NAME,"Uso: 50 % de probabilidad de sufrir chungus (+4 [img:con]); si no, sufre 8 de daño.","Utilisation&nbsp;: 50&nbsp;% de chances d'obtenir le trouble Énorme ([img:con] +4). Dans le cas contraire, vous subissez 8 dégâts.","Benutzen: 50%ige Wahrscheinlichkeit, Fettmops (+4&nbsp;[img:con]) zu erhalten. Erleide sonst 8&nbsp;Schaden.","Uso: 50% di probabilità di ottenere Tracagnotto (+4 [img:con]), altrimenti subisci 8 di danno.","Uso: 50% de chance de obter enormidade (+4 de [img:con]), ou então sofra 8 de dano.","使用：
 50%幾率獲得Chungus（+4 [img:con]），否則受到8點傷害。"
-DISORDER_CHUNGUS_NAME,Chungus,slang for something big and/or fat,Chungus,Énorme,Fettmops,Tracagnotto,Enormidade,Chungus
+DISORDER_CHUNGUS_NAME,Chungus,slang for something big and/or fat,Chungus,Énorme,Fettmops,Tracagnotto,Enormidade,混亂巨獸
 DISORDER_CHUNGUS_DESC,,purposely empty,,,,,,
 ,,,,,,,,
 QEVENT_MEATALTAR_REW2B,"{Catname} lies sacrificed on top of the altar. The altar is pleased. 
@@ -264,11 +264,11 @@ CUTSCENE_OBELISK2_POPUP,"Both obelisks have connected, but still await activatio
 ,,,,,,,,
 NPCOFFICE_NAME_BEANIES,Dr. Beanies's Lab,,Laboratorio del Dr. Beanies,Labo du Dr Beanies,Dr. Beanies Labor,Laboratorio del Dottor Beanies,Laboratório do Dr. Beanies,Beanies博士的實驗室
 NPCOFFICE_NAME_BUTCH,Butch's Hideout,,Guarida de Butch,Planque de Butch,Unterschlupf von Butch,Nascondiglio di Butch,Esconderijo de Butch,Butch的藏身處
-NPCOFFICE_NAME_TINK,Tink's Trailer,,Tráiler de Tink,Caravane de Tink,Tinks Wohnwagen,Roulotte di Tink,Trailer de Tink,Tink的拖車
+NPCOFFICE_NAME_TINK,Tink's Trailer,,Caravana de Tink,Caravane de Tink,Tinks Wohnwagen,Roulotte di Tink,Trailer de Tink,Tink的拖車
 NPCOFFICE_NAME_FRANK,Frank's Sewer,,Alcantarilla de Frank,Égouts de Frank,Franks Kanalisation,Fogna di Frank,Esgoto de Frank,Frank的下水道
-NPCOFFICE_NAME_JACK,Jack's Shack,,Cabaña de Jack,Taudis de Jack,Jacks Hütte,Baracca di Jack,Cabana de Jack,Jack的小屋
+NPCOFFICE_NAME_JACK,Jack's Shack,,Chabola de Jack,Taudis de Jack,Jacks Hütte,Baracca di Jack,Cabana de Jack,Jack的小屋
 NPCOFFICE_NAME_TRACY,P Mart,,MercaMascota,Patoune Market,P-Markt,P Mart,P Mart,P 商店
-NPCOFFICE_NAME_ORGANGRINDER,{organname}'s Box,,Caja de {organname},Boîte de {organname},Box von {organname},Scatola di {organname},Caixa de {organname},{organname}的盒子
+NPCOFFICE_NAME_ORGANGRINDER,{organname}'s Box,,Caja de {organname},Boîte ({organname}),Box von {organname},Scatola di {organname},Caixa de {organname},{organname}的盒子
 NPCOFFICE_NAME_STEVEN,The Box,,La Caja,La Boîte,Die Box,La Scatola,A Caixa,盒子
 ,,,,,,,,
 NPCMAP_NAME_HOME,Home,,Casa,Maison,Haus,Casa,Casa,家
@@ -320,12 +320,12 @@ CREDITS_ARTB,additional art by,,Arte adicional de,Art supplémentaire,weitere ku
 CREDITS_PROGRAMMINGB,additional programming by,,Programación adicional de,Programmation supplémentaire,weitere programmierung von,programmazione aggiuntiva di,programação adicional por,額外編程由
 CREDITS_CHARACTERSHEADER,Also Featuring...,,Y con...,Mais aussi...,Featuring&nbsp;…,Con la partecipazione di...,Com a participação de...,另有...
 CREDITS_CHARACTER_BEANIES,Dr. Thomas A. Beanies,,Dr. Thomas A. Beanies,Dr Thomas A. Beanies,Dr. Thomas A. Beanies,Dottor Thomas A. Beanies,Dr. Thomas A. Beanies,Thomas A. Beanies 博士
-CREDITS_CHARACTER_STACY,Stacy #{stacy_number},,Stacy {stacy_number},Stacy #{stacy_number},Stacy #{stacy_number},Stacy #{stacy_number},Stacy #{stacy_number},Stacy #{stacy_number}
+CREDITS_CHARACTER_STACY,Stacy #{stacy_number},,Stacy {stacy_number},Stacy #{stacy_number},Stacy #{stacy_number},Stacy #{stacy_number},Stacy #{stacy_number},斯泰西 #{stacy_number}
 CREDITS_CHARACTER_BUTCH,Butch,,Butch,Butch,Butch,Butch,Butch,布奇
-CREDITS_CHARACTER_TINK,Ferguson Rodney Tinkles,,Ferguson Rodney Tinkles,Ferguson Rodney Tinkles,Ferguson Rodney Tinkles,Ferguson Rodney Tinkles,Ferguson Rodney Tinkles,Ferguson Rodney Tinkles
+CREDITS_CHARACTER_TINK,Ferguson Rodney Tinkles,,Ferguson Rodney Tinkles,Ferguson Rodney Tinkles,Ferguson Rodney Tinkles,Ferguson Rodney Tinkles,Ferguson Rodney Tinkles,費格森·羅德尼·廷克爾
 CREDITS_CHARACTER_FRANK,Frank,,Frank,Franck,Frank,Frank,Frank,弗蘭克
-CREDITS_CHARACTER_BABYJACK,Jackie Dustin Nickel,,Jackie Dustin Nickel,Jackie Dustin Nickel,Jackie Dustin Nickel,Jackie Dustin Nickel,Jackie Dustin Nickel,Jackie Dustin Nickel
-CREDITS_CHARACTER_TRACY,Tracy Newkirk,,Tracy Newkirk,Tracy Newkirk,Tracy Newkirk,Tracy Newkirk,Tracy Newkirk,Tracy Newkirk
+CREDITS_CHARACTER_BABYJACK,Jackie Dustin Nickel,,Jackie Dustin Nickel,Jackie Dustin Nickel,Jackie Dustin Nickel,Jackie Dustin Nickel,Jackie Dustin Nickel,傑基·達斯廷·尼克爾
+CREDITS_CHARACTER_TRACY,Tracy Newkirk,,Tracy Newkirk,Tracy Newkirk,Tracy Newkirk,Tracy Newkirk,Tracy Newkirk,特雷西·紐基爾克
 CREDITS_CHARACTER_ORGANGRINDER,{organname},,{organname},{organname},{organname},{organname},{organname},{organname}
 CREDITS_CHARACTER_STEVEN,Steven,,Steven,Steven,Steven,Steven,Steven,史蒂文
 CREDITS_CHARACTER_HEADERB,And Featuring...,,Y con...,Ainsi que...,Und&nbsp;…,E con...,E também...,並且還包括...
@@ -354,10 +354,22 @@ Kevin Malchere
 Alexis Barroso
 Cecile Gindrat
 Elina Macon",,"Français:
-Kevin Malchere
+Kévin Malchère
 Alexis Barroso
-Cecile Gindrat
-Elina Macon","Français&nbsp;:
+Cécile Gindrat
+Elina Mâcon","Français&nbsp;:
+Kévin Malchère
+Alexis Barroso
+Cécile Gindrat
+Elina Mâcon","Français:
+Kévin Malchère
+Alexis Barroso
+Cécile Gindrat
+Elina Mâcon","Français:
+Kévin Malchère
+Alexis Barroso
+Cécile Gindrat
+Elina Mâcon","Francês:
 Kévin Malchère
 Alexis Barroso
 Cécile Gindrat
@@ -365,36 +377,32 @@ Elina Mâcon","Français:
 Kevin Malchere
 Alexis Barroso
 Cecile Gindrat
-Elina Macon","Français:
-Kevin Malchere
-Alexis Barroso
-Cecile Gindrat
-Elina Macon","Francês:
-Kevin Malchere
-Alexis Barroso
-Cecile Gindrat
-Elina Macon","Français:
-Kevin Malchere
-Alexis Barroso
-Cecile Gindrat
 Elina Macon"
 CREDITS_LOCALIZATION_ITALIAN,"Italiano:
 Carlo De Rensis
-Juny Gentile",,"Italiano:
+Juny Gentile
+Stefano Rossitto
+Cristiano Caliendo",,"Italiano:
 Carlo De Rensis
-Juny Gentile","Italien&nbsp;:
+Juny Gentile
+Stefano Rossitto
+Cristiano Caliendo","Italien&nbsp;:
 Carlo De Rensis
 Juny Gentile
 Stefano Rossitto
 Cristiano Caliendo","Italiano:
 Carlo De Rensis
-Juny Gentile","Italiano:
+Juny Gentile
+Stefano Rossitto
+Cristiano Caliendo","Italiano:
 Carlo De Rensis
 Juny Gentile
 Stefano Rossitto
 Cristiano Caliendo","Italiano:
 Carlo De Rensis
-Juny Gentile","Italiano:
+Juny Gentile
+Stefano Rossitto
+Cristiano Caliendo","Italiano:
 Carlo De Rensis
 Juny Gentile"
 CREDITS_LOCALIZATION_SPANISH,"Español:
@@ -402,29 +410,29 @@ Xavi Vernet Diaz
 Sebastian Sorroche Jurado 
 Ana Avalos Reyes",,"Español:
 Xavi Vernet Díaz
-Sebastián Sorroche Jurado
+Sebastián Sorroche Jurado 
 Ana Ávalos Reyes","Espagnol&nbsp;:
 Xavier Vernet Díaz
 Sebastián Sorroche Jurado
 Ana Ávalos Reyes","Español:
-Xavi Vernet Diaz
-Sebastian Sorroche Jurado 
-Ana Avalos Reyes","Español:
-Xavi Vernet Diaz
-Sebastian Sorroche Jurado
-Ana Avalos Reyes","Espanhol:
-Xavi Vernet Diaz
-Sebastian Sorroche Jurado 
-Ana Avalos Reyes","Español:
+Xavi Vernet Díaz
+Sebastián Sorroche Jurado 
+Ana Ávalos Reyes","Español:
+Xavi Vernet Díaz
+Sebastián Sorroche Jurado 
+Ana Ávalos Reyes","Espanhol:
+Xavi Vernet Díaz
+Sebastián Sorroche Jurado 
+Ana Ávalos Reyes","Español:
 Xavi Vernet Diaz
 Sebastian Sorroche Jurado 
 Ana Avalos Reyes"
 CREDITS_LOCALIZATION_BRPORTUGESE,"Português (Brasil):
 Romulo Wehling",,"Português (Brasil):
-Romulo Wehling","Portugais du Brésil&nbsp;:
+Rômulo Wehling","Portugais du Brésil&nbsp;:
 Romulo Wehling","Português (Brasil):
-Romulo Wehling","Português (Brasil):
-Romulo Wehling","Português (Brasil):
+Rômulo Wehling","Português (Brasil):
+Rômulo Wehling","Português (Brasil):
 Rômulo Wehling","Português (Brasil):
 Romulo Wehling"
 CREDITS_LOCALIZATION_MARKETING,Marketing Support by Guillotine,,Ayuda de marketing de Guillotine,Support commercial par Guillotine,Marketing Support von Guillotine,Supporto marketing di Guillotine,Suporte de marketing por Guillotine,市場支持由 Guillotine 提供
@@ -441,7 +449,7 @@ PER AVER GIOCATO!","OBRIGADO
 POR JOGAR!","感謝
 遊玩！"
 ,,,,,,,,
-SEASON_NAME_SPRING,Spring,,Muelle,Printemps,Frühling,Primavera,Primavera,春季
+SEASON_NAME_SPRING,Spring,,Primavera,Printemps,Frühling,Primavera,Primavera,春季
 SEASON_NAME_SUMMER,Summer,,Verano,Été,Sommer,Estate,Verão,夏季
 SEASON_NAME_FALL,Fall,,Otoño,Automne,Herbst,Autunno,Outono,秋季
 SEASON_NAME_WINTER,Winter,,Invierno,Hiver,Winter,Inverno,Inverno,冬季

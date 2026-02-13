@@ -1,10 +1,10 @@
-KEY,en,notes,sp,fr,de,it,pt-br,zh
+﻿KEY,en,notes,sp,fr,de,it,pt-br,zh
 FURNITURE_RARE_FORMAT,Rare {furniturename},,{furniturename} inusual,{furniturename} rare,{furniturename} (Selten),{furniturename} (raro),{furniturename} (raro),稀有 {furniturename}
 FURNITURE_NAME_POOP,Poop,,Caca,Crotte,Häufchen,Cacca,Cocô,糞便
 FURNITURE_DESC_POOP,,,,,,,,
 FURNITURE_NAME_AUTOFEEDER,Autofeeder,"(cut, no need to localize)",Comedero automático,Autofeeder,,,,自動餵食器
 FURNITURE_DESC_AUTOFEEDER,This item got removed from the game and has no effect. Its a waste of space to keep in your house.,"(cut, no need to localize)","Este objeto ya no está en el juego, de modo que ocupa un espacio innecesario en la casa.",This item got removed from the game and has no effect. Its a waste of space to keep in your house.,,,,此物品已從遊戲中移除，無任何效果。放在家裏只是佔用空間。
-FURNITURE_NAME_SPECIAL_FOODBOX,Food Storage Box,,Caja para comida,Boîte de rangement de croquettes,Futterbox,Scatola per il cibo,Caixa de armazenamento de comida,食物儲藏箱
+FURNITURE_NAME_SPECIAL_FOODBOX,Food Storage Box,,Nevera de comida,Boîte de rangement de croquettes,Futterbox,Scatola per il cibo,Caixa de armazenamento de comida,食物儲藏箱
 FURNITURE_DESC_SPECIAL_FOODBOX,+40 Max Food,,+40 de máximo de comida,Nourriture max.&nbsp;+40,+40&nbsp;max. Futter,+40 Cibo Massimo,+40 de comida máx.,+40 最大食物
 FURNITURE_NAME_SPECIAL_COMFORTIDOL,Idol of Comfort,,Ídolo de la comodidad,Idole de Bien-être,Idol des Komforts,Idolo del Comfort,Ídolo de conforto,舒適偶像
 FURNITURE_DESC_SPECIAL_COMFORTIDOL,,,,,,,,
@@ -704,7 +704,7 @@ FURNITURE_NAME_OBJECT_ELECTRONICS_ARCADE2,Indie Arcade,,Recreativa indie,Borne d
 FURNITURE_DESC_OBJECT_ELECTRONICS_ARCADE2,,,,,,,,
 FURNITURE_NAME_OBJECT_FORTUNETELLER,Fortuneteller,,Máquina de adivinación,Voyante,Wahrsager,Chiromante,Vidente,算命師
 FURNITURE_DESC_OBJECT_FORTUNETELLER,,,,,,,,
-FURNITURE_NAME_OBJECT_ELECTRONICS_CRANEGAME,Crane Game,,Máquina de gancho,Machine à pince,Greifautomat,Gioco dell'artiglio,Jogo do guindaste,抓娃娃機
+FURNITURE_NAME_OBJECT_ELECTRONICS_CRANEGAME,Crane Game,,Máquina de gancho,Machine à pince,Greifautomat,Gioco dell'artiglio,Máquina de gancho,抓娃娃機
 FURNITURE_DESC_OBJECT_ELECTRONICS_CRANEGAME,,,,,,,,
 FURNITURE_NAME_OBJECT_OUTHOUSE,Outhouse,,Retrete exterior,Remise,Plumpsklo,Latrina,Casinha,戶外簡易廁所
 FURNITURE_DESC_OBJECT_OUTHOUSE,,,,,,,,
@@ -744,7 +744,7 @@ FURNITURE_NAME_OBJECT_STATUE_STONEHEAD,Olmec Head,,Cabeza olmeca,Tête olmèque,
 FURNITURE_DESC_OBJECT_STATUE_STONEHEAD,,,,,,,,
 FURNITURE_NAME_OBJECT_CLOCK,Grandfather Clock,,Reloj de pie,Horloge de parquet,Großvateruhr,Orologio a pendolo,Relógio antigo,座鐘
 FURNITURE_DESC_OBJECT_CLOCK,,,,,,,,
-FURNITURE_NAME_OBJECT_IV,IV,,IV,Intraveineuse,Infusionsständer,Flebo,Soro fisiológico,靜脈注射
+FURNITURE_NAME_OBJECT_IV,IV,,IV,Intraveineuse,Infusionsständer,Flebo,Soro,靜脈注射
 FURNITURE_DESC_OBJECT_IV,,,,,,,,
 FURNITURE_NAME_OBJECT_FIREPLACE,Fireplace,,Chimenea,Cheminée,Kamin,Camino,Lareira,壁爐
 FURNITURE_DESC_OBJECT_FIREPLACE,,,,,,,,
@@ -1234,7 +1234,7 @@ FURNITURE_NAME_SMALL_ELECTRONICS_JOYSTICK,Joystick,,Joystick,Joystick,Joystick,J
 FURNITURE_DESC_SMALL_ELECTRONICS_JOYSTICK,,,,,,,,
 FURNITURE_NAME_SMALL_BELL,Ring Bell,,Timbre,Sonnette,Glöckchen,Campanello,Sino de campainha,敲鈴
 FURNITURE_DESC_SMALL_BELL,,,,,,,,
-FURNITURE_NAME_SMALL_IRON,Iron,,Plancha,Fer,Bügeleisen,Ferro da stiro,Ferro,鐵
+FURNITURE_NAME_SMALL_IRON,Iron,,Plancha,Fer,Bügeleisen,Ferro da stiro,Ferro de passar,鐵
 FURNITURE_DESC_SMALL_IRON,,,,,,,,
 FURNITURE_NAME_SMALL_SNOWGLOBE,Small Snowglobe,,Bola de nieve pequeña,Petite boule à neige,Kleine Schneekugel,Palla di neve piccola,Globo de neve pequeno,小雪球
 FURNITURE_DESC_SMALL_SNOWGLOBE,,,,,,,,
